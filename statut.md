@@ -1,67 +1,59 @@
 # Postanowienia ogólne
 
 §
-Stowarzyszenie działające na podstawie niniejszego Statutu nosi nazwę **Stowarzyszenie Krakowski Klub Chombo**.
-
-§
-Stowarzyszenie ma prawo posługiwać się nazwami skróconymi **Krakowski Klub Chombo** oraz **Klub Chombo**.
-
-§
-Stowarzyszenie ma prawo używać nazwy angielskiej **Kraków Chombo Club**.
-
-§
-Terenem działania Stowarzyszenia jest obszar Rzeczypospolitej Polskiej ze szczególnym uwzględnieniem miasta Krakowa.
-
-§
-Stowarzyszenie może prowadzić działalność poza granicami Rzeczypospolitej Polskiej.
-
-§
-Siedzibą Stowarzyszenia jest miasto Kraków.
+**Stowarzyszenie Krakowski Klub Chombo**, zwane dalej **Stowarzyszeniem**, działa na podstawie ustawy Prawo o stowarzyszeniach (Dz. U. 1989 Nr 20 poz. 104 wraz z późniejszymi zmianami) oraz niniejszego Statutu.
 
 §
 Stowarzyszenie jest osobą prawną i podlega wpisowi do Krajowego Rejestru Sądowego.
 
 §
-Stowarzyszenie działa na podstawie ustawy Prawo o stowarzyszeniach (Dz. U. 1989 Nr 20 poz. 104 wraz z późniejszymi zmianami) oraz niniejszego Statutu.
+
+1. Siedzibą Stowarzyszenia jest Miasto Kraków.
+1. Stowarzyszenie powołane jest na czas nieokreślony.
+1. Terenem działania Stowarzyszenia jest cały obszar Rzeczypospolitej Polskiej, przy czym w zakresie niezbędnym dla właściwego realizowania celów, Stowarzyszenie może prowadzić działalność także poza granicami Rzeczypospolitej Polskiej.
+1. Stowarzyszenie ma prawo posługiwać się nazwami skróconymi **Krakowski Klub Chombo** oraz **Klub Chombo**.
+1. Stowarzyszenie ma prawo posługiwać się odpowiednikami swojej nazwy w językach obcych, w szczególności nazwą angielską **Kraków Chombo Club**.
+1. Stowarzyszenie może używać wyróżniającego go znaku graficznego ustalonego przez Władze Stowarzyszenia.
+1. Działalność Stowarzyszenia oparta jest głównie o pracę społeczną członków. Stowarzyszenie dla realizacji swoich celów może zatrudniać pracowników w ramach stosunku pracy i umów cywilnoprawnych.
+1. Stowarzyszenie może należeć do innych krajowych i międzynarodowych organizacji o podobnych celach.
+
+# Cele Stowarzyszenia i sposoby ich realizacji
 
 §
-Stowarzyszenie ma prawo używania pieczęci i logo. Wzór pieczęci i logo ustala Zarząd Stowarzyszenia.
+Stowarzyszenie wyznacza sobie następujące cele:
 
-§
-Działalność Stowarzyszenia oparta jest głównie o pracę społeczną członków. Stowarzyszenie dla realizacji swoich celów może zatrudniać pracowników w ramach stosunku pracy i umów cywilnoprawnych.
-
-§
-Stowarzyszenie może należeć do innych krajowych i międzynarodowych organizacji o podobnych celach.
-
-# Cele i sposoby ich realizacji
-
-§
-Głównym celem Stowarzyszenia jest popularyzacja gry Mahjong, ze szczególnym uwzględnieniem Mahjonga japońskiego (Riichi Mahjong).
-
-§
-Oprócz celu głównego Stowarzyszenie wyznacza następujące cele poboczne:
-
-1. Wspieranie Członków Stowarzyszenia i innych osób w zakresie ich działalności na rzecz promowania Mahjonga, jak i kultury Dalekiego Wschodu,
-2. Pomoc Członkom w przygotowywaniu projektów realizowanych i finansowanych w ramach Unii Europejskiej,
-3. Podejmowanie działań na rzecz równouprawnienia kobiet i mężczyzn,
-4. Niwelowanie różnic między pełnosprawnymi a niepełnosprawnymi.
+1. popularyzacja gry Mahjong, ze szczególnym uwzględnieniem Mahjonga japońskiego (Riichi Mahjong);
+1. inicjowanie i prowadzenie działań związanych z Mahjongiem, ze szczególnym uwzględnieniem Mahjonga japońskiego (Riichi Mahjong);
+1. wspomaganie rozwoju wspólnot, społeczności i inicjatyw lokalnych poprzez popularyzację wspólnego grania w gry planszowe, ze szczególnym uwzględnieniem Mahjonga japońskiego (Riichi Mahjong);
+1. propagowanie gier, ze szczególnym uwzględnieniem Mahjonga jako formy integracji międzypokoleniowej;
+1. propagowanie gier, ze szczególnym uwzględnieniem Mahjonga jako formy rywalizacji sportowej;
+1. propagowanie gier, ze szczególnym uwzględnieniem Mahjonga jako formy rozwoju intelektualnego oraz myślenia logicznego;
+1. propagowanie gier, ze szczególnym uwzględnieniem Mahjonga jako formy spędzania wolnego czasu;
+1. propagowanie gier, ze szczególnym uwzględnieniem Mahjonga jako formy wspierania rozwoju młodzieży;
+1. propagowanie gier, ze szczególnym uwzględnieniem Mahjonga jako formy wspierania i pomagania osobom starszym;
+1. propagowanie gier, ze szczególnym uwzględnieniem Mahjonga jako formy rehabilitacji, wspierania i integracji osób z niepełnosprawnościami;
+1. prowadzenie działalności kulturalnej w zakresie rozwoju i promocji kultury Dalekiego Wschodu, ze szczególnym uwzględnieniem kultury Japonii;
+1. wspomaganie działań, mających na celu integrację Polski z innymi krajami w zakresie promocji i popularyzacji Mahjonga oraz kultury Dalekiego Wschodu.
 
 §
 Stowarzyszenie realizuje swoje cele poprzez:
 
-1. Praktyczną naukę i doskonalenie umiejętności gry w Mahjonga oraz inne gry planszowe,
-2. Organizowanie zajęć i warsztatów dla początkujących graczy,
-3. Organizowanie turniejów oraz spotkań meczowych,
-4. Nawiązywanie kontaktów ze stowarzyszeniami o podobnych celach działającymi w kraju i za granicą,
-5. Zakup oraz wypożyczanie potrzebnego wyposażenia,
-6. Promowanie w mediach działań wpisujących się w cele Stowarzyszenia, podejmowanych przez Członków Stowarzyszenia i innych,
-7. Prowadzenie strony internetowej i innej działalności w Internecie wpisującej się w cele Stowarzyszenia,
-8. Dokonywanie tłumaczeń obcojęzycznych materiałów związanych z działalnością statutową Stowarzyszenia,
-9. Wspieranie organizacyjne, merytoryczne i finansowe delegacji Członków Stowarzyszenia w wyjazdach na krajowe i zagraniczne wydarzenia kulturalne,
-10. Realizację projektów finansowanych ze środków własnych oraz z dotacji organów samorządowych, rządowych, organizacji pozarządowych oraz podmiotów gospodarczych i osób fizycznych --- polskich i zagranicznych,
-11. Współpracę z wszelkimi osobami oraz instytucjami o podobnych celach działania, jednostkami administracji rządowej i samorządowej, organizacjami pozarządowymi oraz przedsiębiorstwami,
-12. Społeczną wymianę doświadczeń i pomoc informacyjną Członkom Stowarzyszenia,
-13. Prowadzenie działalności wydawniczej i informacyjnej, w tym opracowywanie i publikowanie materiałów poświęconych problematyce zgodnej z założonymi celami Stowarzyszenia.
+1. praktyczną naukę i doskonalenie umiejętności gry w Mahjonga oraz inne gry planszowe;
+1. organizowanie zajęć i warsztatów dla początkujących graczy, turniejów, spotkań meczowych, konferencji, wymian, zlotów, zjazdów oraz konwentów;
+1. nawiązywanie kontaktów ze stowarzyszeniami i innymi organizacjami o podobnych celach działającymi w kraju i za granicą;
+1. zakup oraz wypożyczanie potrzebnego wyposażenia, w szczególności zestawów do Mahjonga oraz ich części, mat do gry oraz stołów do gry;
+1. zakup oraz produkcję materiałów promocyjnych promujących Stowarzyszenie, Mahjonga oraz kulturę Dalekiego Wschodu;
+1. promowanie w mediach działań wpisujących się w cele Stowarzyszenia, podejmowanych przez Członków Stowarzyszenia i innych;
+1. prowadzenie strony internetowej i innej działalności w Internecie wpisującej się w cele Stowarzyszenia;
+1. dokonywanie tłumaczeń obcojęzycznych materiałów związanych z działalnością statutową Stowarzyszenia;
+1. wspieranie organizacyjne, merytoryczne i finansowe delegacji Członków Stowarzyszenia w wyjazdach na krajowe i zagraniczne wydarzenia kulturalne;
+1. realizację projektów finansowanych ze środków własnych oraz z dotacji organów samorządowych, rządowych, organizacji pozarządowych oraz podmiotów gospodarczych i osób fizycznych --- polskich i zagranicznych;
+1. współpracę z wszelkimi osobami oraz instytucjami o podobnych celach działania, jednostkami administracji rządowej i samorządowej, organizacjami pozarządowymi oraz przedsiębiorstwami;
+1. społeczną wymianę doświadczeń i pomoc informacyjną Członkom Stowarzyszenia;
+1. prowadzenie działalności wydawniczej i informacyjnej, w tym opracowywanie i publikowanie materiałów poświęconych problematyce zgodnej z założonymi celami Stowarzyszenia.
+
+§
+Działalność statutowa Stowarzyszenia może być prowadzona jako działalność nieodpłatna lub jako działalność odpłatna pożytku publicznego, w rozumieniu przepisów ustawy o działalności pożytku publicznego i wolontariacie.
 
 §
 Stowarzyszenie, dla pełniejszej realizacji swoich celów, może powoływać wewnętrzne sekcje tematyczne, zwane dalej Sekcjami.
@@ -73,6 +65,8 @@ Sekcje mają prawo ustalać własne regulaminy oraz wybierać Przewodniczących 
 
 §
 Członkami Stowarzyszenia mogą być osoby fizyczne mające pełną zdolność do czynności prawnych i niepozbawione praw publicznych.
+
+TODO członkowie <18rż
 
 §
 Członkiem Stowarzyszenia może być każda osoba fizyczna, która złoży deklarację członkowską, opłaci składkę i uzyska pozytywną rekomendację dwóch innych członków Stowarzyszenia.
@@ -86,28 +80,28 @@ W przypadku odrzucenia deklaracji członkowskiej kandydatowi przysługuje odwoł
 §
 Każdy członek ma obowiązek:
 
-1. brania czynnego udziału w działalności Stowarzyszenia i realizacji jego celów,
-1. przestrzegania statutu i uchwał Stowarzyszenia,
-1. regularnego opłacania składek członkowskich,
+1. brania czynnego udziału w działalności Stowarzyszenia i realizacji jego celów;
+1. przestrzegania statutu i uchwał Stowarzyszenia;
+1. regularnego opłacania składek członkowskich;
 1. dbania o dobre imię Stowarzyszenia.
 
 §
 Każdy członek ma prawo do:
 
-1. biernego i czynnego uczestniczenia w wyborach do władz Stowarzyszenia,
-1. korzystania z majątku i wszelkich form działalności Stowarzyszenia,
-1. udziału w zebraniach i imprezach organizowanych przez Stowarzyszenie,
+1. biernego i czynnego uczestniczenia w wyborach do władz Stowarzyszenia;
+1. korzystania z majątku i wszelkich form działalności Stowarzyszenia;
+1. udziału w zebraniach i imprezach organizowanych przez Stowarzyszenie;
 1. zgłaszania wniosków dotyczących działalności Stowarzyszenia.
 
 §
 Utrata członkostwa następuje po podjęciu uchwały przez Zarząd na skutek:
 
-1. pisemnej rezygnacji złożonej na ręce Zarządu,
-1. śmierci członka,
-1. wykluczenia przez Zarząd z powodu łamania statutu i nieprzestrzegania uchwał Stowarzyszenia,
-1. notorycznego i nieusprawiedliwionego braku uczestnictwa w pracach Stowarzyszenia,
-1. niepłacenia składek członkowskich przez okres 3 miesięcy,
-1. wykluczenia przez Zarząd na pisemny, umotywowany wniosek przynajmniej 5 członków Stowarzyszenia,
+1. pisemnej rezygnacji złożonej na ręce Zarządu;
+1. śmierci członka;
+1. wykluczenia przez Zarząd z powodu łamania statutu i nieprzestrzegania uchwał Stowarzyszenia;
+1. notorycznego i nieusprawiedliwionego braku uczestnictwa w pracach Stowarzyszenia;
+1. niepłacenia składek członkowskich przez okres 3 miesięcy;
+1. wykluczenia przez Zarząd na pisemny, umotywowany wniosek przynajmniej 5 członków Stowarzyszenia;
 1. utraty praw obywatelskich na mocy prawomocnego wyroku sądu.
 
 §
@@ -118,8 +112,8 @@ Od uchwały Zarządu w sprawie pozbawienia członkostwa przysługuje odwołanie 
 §
 Władze Stowarzyszenia dzielą się na:
 
-1. Walne Zebranie Członków,
-1. Zarząd,
+1. Walne Zebranie Członków;
+1. Zarząd;
 1. Komisję Rewizyjną.
 
 §
@@ -156,17 +150,17 @@ Uchwały Walnego Zebrania Stowarzyszenia zapadają zwykłą większością głos
 §
 Do kompetencji Walnego Zebrania Członków należy:
 
-1. uchwalanie kierunków rozwoju działalności Stowarzyszenia,
-1. uchwalanie zmian statutu,
-1. wybór i odwoływanie Prezesa Stowarzyszenia, Zarządu i Komisji Rewizyjnej,
-1. udzielanie Zarządowi absolutorium na wniosek Komisji Rewizyjnej,
-1. rozpatrywanie sprawozdań z działalności Zarządu i Komisji Rewizyjnej,
-1. uchwalanie budżetu,
-1. zatwierdzanie proponowanych przez Zarząd wysokości składek członkowskich oraz wszystkich innych świadczeń na rzecz Stowarzyszenia,
-1. rozpatrywanie i zatwierdzanie sprawozdań władz Stowarzyszenia,
-1. rozpatrywanie wniosków i postulatów zgłoszonych przez członków Stowarzyszenia i jego władze,
-1. rozpatrywanie odwołań od uchwał Zarządu,
-1. podejmowanie uchwał w każdej sprawie wniesionej pod obrady,
+1. uchwalanie kierunków rozwoju działalności Stowarzyszenia;
+1. uchwalanie zmian statutu;
+1. wybór i odwoływanie Prezesa Stowarzyszenia, Zarządu i Komisji Rewizyjnej;
+1. udzielanie Zarządowi absolutorium na wniosek Komisji Rewizyjnej;
+1. rozpatrywanie sprawozdań z działalności Zarządu i Komisji Rewizyjnej;
+1. uchwalanie budżetu;
+1. zatwierdzanie proponowanych przez Zarząd wysokości składek członkowskich oraz wszystkich innych świadczeń na rzecz Stowarzyszenia;
+1. rozpatrywanie i zatwierdzanie sprawozdań władz Stowarzyszenia;
+1. rozpatrywanie wniosków i postulatów zgłoszonych przez członków Stowarzyszenia i jego władze;
+1. rozpatrywanie odwołań od uchwał Zarządu;
+1. podejmowanie uchwał w każdej sprawie wniesionej pod obrady;
 1. podjęcie uchwały o rozwiązaniu Stowarzyszenia i przeznaczeniu jego majątku.
 
 ## Zarząd Stowarzyszenia
@@ -183,15 +177,15 @@ Posiedzenia Zarządu odbywają się w miarę potrzeb, nie rzadziej jednak niż r
 §
 Do kompetencji Zarządu należy:
 
-1. uchwalanie regulaminu działania Zarządu Stowarzyszenia,
-1. realizacja celów Stowarzyszenia,
-1. wykonywanie uchwał Walnego Zebrania,
-1. sporządzanie planów pracy i budżetu,
-1. sprawowanie zarządu nad majątkiem Stowarzyszenia,
-1. podejmowanie uchwał o nabywaniu, zbywaniu lub obciążaniu majątku Stowarzyszenia,
-1. podejmowanie uchwał w sprawach członkowskich, przyjmowanie i skreślanie członków,
-1. rozpatrywanie wniosków i postulatów zgłoszonych przez członków Stowarzyszenia,
-1. reprezentowanie Stowarzyszenia na zewnątrz,
+1. uchwalanie regulaminu działania Zarządu Stowarzyszenia;
+1. realizacja celów Stowarzyszenia;
+1. wykonywanie uchwał Walnego Zebrania;
+1. sporządzanie planów pracy i budżetu;
+1. sprawowanie zarządu nad majątkiem Stowarzyszenia;
+1. podejmowanie uchwał o nabywaniu, zbywaniu lub obciążaniu majątku Stowarzyszenia;
+1. podejmowanie uchwał w sprawach członkowskich, przyjmowanie i skreślanie członków;
+1. rozpatrywanie wniosków i postulatów zgłoszonych przez członków Stowarzyszenia;
+1. reprezentowanie Stowarzyszenia na zewnątrz;
 1. zwoływanie Walnego Zebrania.
 
 ## Komisja Rewizyjna
@@ -205,11 +199,11 @@ Komisja Rewizyjna składa się Przewodniczącego i dwóch członków.
 §
 Do kompetencji Komisji Rewizyjnej należy:
 
-1. kontrola działalności Stowarzyszenia,
-1. składanie wniosków z kontroli na Walnym Zebrania,
-1. prawo żądania zwołania Walnego Zebrania oraz zebrania Zarządu,
-1. prawo żądania zwołania Nadzwyczajnego Walnego Zebrania,
-1. składanie wniosków absolutorium dla władz Stowarzyszenia,
+1. kontrola działalności Stowarzyszenia;
+1. składanie wniosków z kontroli na Walnym Zebrania;
+1. prawo żądania zwołania Walnego Zebrania oraz zebrania Zarządu;
+1. prawo żądania zwołania Nadzwyczajnego Walnego Zebrania;
+1. składanie wniosków absolutorium dla władz Stowarzyszenia;
 1. składanie sprawozdań ze swej działalności na Walnym Zebraniu.
 
 §
@@ -235,24 +229,31 @@ Stowarzyszenie odpowiada za swoje zobowiązania całym swoim majątkiem.
 §
 W skład majątku Stowarzyszenia mogą wchodzić:
 
-1. nieruchomości,
-1. ruchomości,
-1. fundusze,
+1. nieruchomości;
+1. ruchomości;
+1. fundusze;
 1. inne prawa majątkowe.
 
 §
-Źródłami powstania majątku Stowarzyszenia mogą być w szczególności:
+Przychody Stowarzyszenia pochodzą z:
 
-1. składki członkowskie,
-1. dochody z nieruchomości, ruchomości stanowiących własność lub będących w posiadaniu Stowarzyszenia,
-1. darowizny, zapisy oraz spadki,
-1. dochody z własnej działalności statutowej,
-1. wpływy z ofiarności publicznej,
-1. dotacje,
-1. pożytki płynące z posiadanych praw.
+1. składek członkowskich;
+1. darowizn, spadków, zapisów, papierów wartościowych oraz rzeczy ruchomych i nieruchomości przekazanych na rzecz Stowarzyszenia przez osoby prawne i fizyczne;
+1. dotacji, grantów i subwencji od osób prawnych;
+1. innych form ofiarności publicznej;
+1. zbiórek publicznych, loterii i aukcji;
+1. odsetek, depozytów i lokat bankowych;
+1. wpływów działalności odpłatnej pożytku publicznego;
+1. jednostek uczestnictwa w spółkach prawa handlowego.
 
 §
 Wszelkie środki finansowe otrzymane i uzyskane przez Stowarzyszenie mogą być wykorzystane tylko na sfinansowanie realizacji jego celów.
+
+§
+Darowizny, spadki i zapisy mogą być użyte na realizację wszystkich celów Stowarzyszenia, o ile ofiarodawcy nie postanowili inaczej, jednakże postanowienie ofiarodawców nie może być sprzeczne z celami statutowymi Stowarzyszenia.
+
+§
+W przypadku powołania Stowarzyszenia do dziedziczenia, Zarząd składając oświadczenie o przyjęciu spadku może dokonać wyłącznie przyjęcia spadku z dobrodziejstwem inwentarza.
 
 §
 Stowarzyszenie może prowadzić działalność odpłatną w ramach realizacji celów statutowych.
@@ -264,14 +265,17 @@ Wszelkie środki pieniężne mogą być przechowywane wyłącznie na rachunku ba
 Stowarzyszenie prowadzi gospodarkę pieniężną zgodnie z obowiązującymi przepisami.
 
 §
+Rokiem obrotowym jest rok kalendarzowy.
+
+§
 Do zawierania umów, udzielania pełnomocnictwa i składania innych oświadczeń woli w sprawach majątkowych wymagane są podpisy dwóch członków Zarządu działających łącznie, w tym Prezesa lub Wiceprezesa Stowarzyszenia. Dla ważności innych pism lub dokumentów wymagany jest podpis Prezesa lub innego upoważnionego członka Zarządu.
 
 §
 W Stowarzyszeniu obowiązuje zakaz:
 
-1. udzielania pożyczek lub zabezpieczenia zobowiązań majątkiem Stowarzyszenia w stosunku do jego członków, członków organów lub pracowników oraz osób, z którymi pracownicy pozostają w związku małżeńskim albo w stosunku pokrewieństwa, powinowactwa w linii prostej, pokrewieństwa, powinowactwa w linii bocznej do drugiego stopnia albo są związani z tytułu przysposobienia, opieki lub kurateli, zwanych dalej "osobami bliskimi",
-1. przekazywania majątku Stowarzyszenia na rzecz jego członków, członków organów lub pracowników oraz ich osób bliskich, na zasadach innych niż w stosunku do osób trzecich, w szczególności gdy przekazanie to następuje bezpłatnie lub na preferencyjnych warunkach,
-1. wykorzystania majątku Stowarzyszenia na rzecz jego członków, członków organów lub pracowników oraz ich osób bliskich, na zasadach innych niż w stosunku do osób trzecich, chyba że to wykorzystanie bezpośrednio wynika z statutowego celu danej organizacji,
+1. udzielania pożyczek lub zabezpieczenia zobowiązań majątkiem Stowarzyszenia w stosunku do jego członków, członków organów lub pracowników oraz osób, z którymi pracownicy pozostają w związku małżeńskim albo w stosunku pokrewieństwa, powinowactwa w linii prostej, pokrewieństwa, powinowactwa w linii bocznej do drugiego stopnia albo są związani z tytułu przysposobienia, opieki lub kurateli, zwanych dalej "osobami bliskimi";
+1. przekazywania majątku Stowarzyszenia na rzecz jego członków, członków organów lub pracowników oraz ich osób bliskich, na zasadach innych niż w stosunku do osób trzecich, w szczególności gdy przekazanie to następuje bezpłatnie lub na preferencyjnych warunkach;
+1. wykorzystania majątku Stowarzyszenia na rzecz jego członków, członków organów lub pracowników oraz ich osób bliskich, na zasadach innych niż w stosunku do osób trzecich, chyba że to wykorzystanie bezpośrednio wynika z statutowego celu danej organizacji;
 1. zakupu na szczególnych zasadach towarów lub usług od podmiotów, w których uczestniczą członkowie Stowarzyszenia, pracownicy oraz ich osoby bliskie.
 
 # Postanowienia końcowe
