@@ -1,3 +1,5 @@
+% Statut Stowarzyszenia Krakowski Klub Chombo
+
 # Postanowienia ogólne
 
 §
