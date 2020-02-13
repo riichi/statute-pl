@@ -5,3 +5,4 @@
 *.pdf
 *.tex
 !/template.tex
+!/reference.docx
