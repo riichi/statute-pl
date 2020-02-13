@@ -39,7 +39,7 @@ Stowarzyszenie wyznacza sobie następujące cele:
 Stowarzyszenie realizuje swoje cele poprzez:
 
 1. praktyczną naukę i doskonalenie umiejętności gry w Mahjonga oraz inne gry planszowe;
-1. organizowanie zajęć i warsztatów dla początkujących graczy, turniejów, spotkań meczowych, konferencji, wymian, zlotów, zjazdów oraz konwentów;
+1. organizowanie zajęć i warsztatów dla początkujących graczy, turniejów, spotkań meczowych, konferencji, wymian, zlotów, zjazdów, konwentów oraz innych wydarzeń;
 1. nawiązywanie kontaktów ze stowarzyszeniami i innymi organizacjami o podobnych celach działającymi w kraju i za granicą;
 1. zakup oraz wypożyczanie potrzebnego wyposażenia, w szczególności zestawów do Mahjonga oraz ich części, mat do gry oraz stołów do gry;
 1. zakup oraz produkcję materiałów promocyjnych promujących Stowarzyszenie, Mahjonga oraz kulturę Dalekiego Wschodu;
