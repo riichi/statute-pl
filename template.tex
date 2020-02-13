@@ -1,10 +1,3 @@
-% Tymczasowo (dopóki ktoś nie zrobi lepiej) podział dokumentu działa tak:
-% - \section - rozdziały,
-% - \subsection - nienumerowane podrozdziały,
-% - \paragraf - paragrafy.
-% todo do powyższego: może własna komenda do paragrafów,
-% na razie jest prosty alias na subsubsection żeby łatwo formatować.
-% Generalnie wygląda jakby działało, więc chyba i tak tak zostanie.
 \documentclass[a4paper,oneside,12pt]{article}
 \usepackage{polski}
 \usepackage[utf8]{inputenc}
@@ -22,6 +15,8 @@
 % Wraz z \setlist{nolistsep} ściska ładnie itemize i enumerate
 \usepackage{enumitem}
 \setlist{nolistsep}
+% Wolimy linijki rozciągnięte niż wystające poza margines
+\setlength{\emergencystretch}{3em}
 % Counter do paragrafów, żeby się przenosiło między rozdziałami
 \newcounter{paragrafcntr}
 \setcounter{paragrafcntr}{1}
