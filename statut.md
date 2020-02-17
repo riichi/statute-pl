@@ -31,7 +31,7 @@ Stowarzyszenie wyznacza sobie następujące cele:
 1. propagowanie gier, ze szczególnym uwzględnieniem Mahjonga jako formy rywalizacji sportowej;
 1. propagowanie gier, ze szczególnym uwzględnieniem Mahjonga jako formy rozwoju intelektualnego oraz myślenia logicznego;
 1. propagowanie gier, ze szczególnym uwzględnieniem Mahjonga jako formy spędzania wolnego czasu;
-1. propagowanie gier, ze szczególnym uwzględnieniem Mahjonga jako formy wspierania rozwoju młodzieży;
+1. propagowanie gier, ze szczególnym uwzględnieniem Mahjonga jako formy wspierania rozwoju dzieci i młodzieży;
 1. propagowanie gier, ze szczególnym uwzględnieniem Mahjonga jako formy wspierania i pomagania osobom starszym;
 1. propagowanie gier, ze szczególnym uwzględnieniem Mahjonga jako formy rehabilitacji, wspierania i integracji osób z niepełnosprawnościami;
 1. prowadzenie działalności kulturalnej w zakresie rozwoju i promocji kultury Dalekiego Wschodu, ze szczególnym uwzględnieniem kultury Japonii;
