@@ -230,9 +230,6 @@ Przewodniczący i delegowani członkowie Komisji Rewizyjnej mają prawo brać ud
 Członkowie Komisji Rewizyjnej nie mogą pełnić innych funkcji we władzach Stowarzyszenia.
 
 §
-Komisja Rewizyjna działa na podstawie uchwalonego przez siebie regulaminu.
-
-§
 Członkowie Komisji Rewizyjnej nie mogą pozostawać w żadnym stosunku pokrewieństwa, powinowactwa lub podległości służbowej z tytułu zatrudnienia z członkami Zarządu.
 
 §
