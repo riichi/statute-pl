@@ -211,7 +211,7 @@ Komisja Rewizyjna powołana jest do sprawowania kontroli nad działalnością St
 Komisja Rewizyjna składa się Przewodniczącego i dwóch członków.
 
 §
-Członkami Zarządu mogą być wyłącznie osoby fizyczne mające pełną zdolność do czynności prawnych i niepozbawione praw publicznych.
+Członkami Komisji Rewizyjnej mogą być wyłącznie osoby fizyczne mające pełną zdolność do czynności prawnych i niepozbawione praw publicznych.
 
 §
 Do kompetencji Komisji Rewizyjnej należy:
