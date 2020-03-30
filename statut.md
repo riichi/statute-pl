@@ -24,15 +24,15 @@ Stowarzyszenie jest osobą prawną i podlega wpisowi do Krajowego Rejestru Sądo
 §
 Stowarzyszenie wyznacza sobie następujące cele:
 
-1. popularyzacja gry Mahjong, ze szczególnym uwzględnieniem Mahjonga japońskiego (Riichi Mahjong);
-1. inicjowanie i prowadzenie działań związanych z Mahjongiem, ze szczególnym uwzględnieniem Mahjonga japońskiego (Riichi Mahjong);
-1. wspomaganie rozwoju wspólnot, społeczności i inicjatyw lokalnych poprzez popularyzację wspólnego grania w gry planszowe, ze szczególnym uwzględnieniem Mahjonga japońskiego (Riichi Mahjong);
-1. propagowanie gier, ze szczególnym uwzględnieniem Mahjonga jako formy integracji międzypokoleniowej;
-1. propagowanie gier, ze szczególnym uwzględnieniem Mahjonga jako formy rywalizacji sportowej;
-1. propagowanie gier, ze szczególnym uwzględnieniem Mahjonga jako formy rozwoju intelektualnego oraz myślenia logicznego;
-1. propagowanie gier, ze szczególnym uwzględnieniem Mahjonga jako formy spędzania wolnego czasu;
-1. propagowanie gier, ze szczególnym uwzględnieniem Mahjonga jako formy wspierania rozwoju dzieci i młodzieży;
-1. propagowanie gier, ze szczególnym uwzględnieniem Mahjonga jako formy wspierania i pomagania osobom starszym;
+1. popularyzacja gry Mahjong, ze szczególnym uwzględnieniem Mahjonga japońskiego (Riichi Mahjong), jak i innych gier logicznych i planszowych;
+1. inicjowanie i prowadzenie działań związanych z grami logicznymi i planszowymi, ze szczególnym uwzględnieniem Mahjonga japońskiego (Riichi Mahjong);
+1. wspomaganie rozwoju wspólnot, społeczności i inicjatyw lokalnych poprzez popularyzację wspólnego grania w gry logiczne i planszowe;
+1. wspieranie integracji międzypokoleniowej poprzez gry logiczne i planszowe;
+1. wspieranie rywalizacji sportowej poprzez gry logiczne i planszowe;
+1. wspomaganie rozwoju intelektualnego oraz myślenia logicznego poprzez gry logiczne i planszowe;
+1. propagowanie gier logicznych i planszowych jako formy spędzania wolnego czasu;
+1. wspieranie rozwoju dzieci i młodzieży poprzez gry logiczne i planszowe;
+1. wspieranie i pomaganie osobom starszym poprzez gry logiczne i planszowe;
 1. propagowanie gier, ze szczególnym uwzględnieniem Mahjonga jako formy rehabilitacji, wspierania i integracji osób z niepełnosprawnościami;
 1. prowadzenie działalności kulturalnej w zakresie rozwoju i promocji kultury Dalekiego Wschodu, ze szczególnym uwzględnieniem kultury Japonii;
 1. wspomaganie działań, mających na celu integrację Polski z innymi krajami w zakresie promocji i popularyzacji Mahjonga oraz kultury Dalekiego Wschodu.
