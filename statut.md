@@ -73,9 +73,11 @@ Sekcje mają prawo ustalać własne regulaminy oraz wybierać Przewodniczących 
 # Członkowie Stowarzyszenia
 
 §
-Członkami Stowarzyszenia mogą być osoby fizyczne mające pełną zdolność do czynności prawnych i niepozbawione praw publicznych.
+Członkami Stowarzyszenia mogą być:
 
-TODO członkowie <18rż
+1. osoby fizyczne mające pełną zdolność do czynności prawnych;
+1. małoletni w wieku od 16 do 18 lat;
+1. małoletni poniżej 16 lat za zgodą przedstawicieli ustawowych.
 
 §
 Członkiem Stowarzyszenia może być każda osoba fizyczna, która złoży deklarację członkowską, opłaci składkę i uzyska pozytywną rekomendację dwóch innych członków Stowarzyszenia.
@@ -181,6 +183,9 @@ Zarząd jest powoływany do kierowania działalnością Stowarzyszenia zgodnie z
 Zarząd składa się z Prezesa, Wiceprezesa oraz trzech Członków Zarządu.
 
 §
+Członkami Zarządu mogą być wyłącznie osoby fizyczne mające pełną zdolność do czynności prawnych i niepozbawione praw publicznych.
+
+§
 Posiedzenia Zarządu odbywają się w miarę potrzeb, nie rzadziej jednak niż raz na kwartał. Posiedzenia Zarządu zwołuje prezes, lub w zastępstwie wiceprezes. W posiedzeniach tych mogą brać udział członkowie Komisji Rewizyjnej lub zaproszeni goście z głosem doradczym. Wszelkie głosowania odbywają się jawnie. W szczególnych przypadkach Zarząd może podjąć uchwałę o głosowaniu tajnym. W przypadku równej liczby głosów rozstrzyga głos Prezesa lub innej osoby wyznaczonej do prowadzenia posiedzenia.
 
 §
@@ -204,6 +209,9 @@ Komisja Rewizyjna powołana jest do sprawowania kontroli nad działalnością St
 
 §
 Komisja Rewizyjna składa się Przewodniczącego i dwóch członków.
+
+§
+Członkami Zarządu mogą być wyłącznie osoby fizyczne mające pełną zdolność do czynności prawnych i niepozbawione praw publicznych.
 
 §
 Do kompetencji Komisji Rewizyjnej należy:
