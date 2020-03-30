@@ -14,7 +14,7 @@ Stowarzyszenie jest osobą prawną i podlega wpisowi do Krajowego Rejestru Sądo
 1. Stowarzyszenie powołane jest na czas nieokreślony.
 1. Terenem działania Stowarzyszenia jest cały obszar Rzeczypospolitej Polskiej, przy czym w zakresie niezbędnym dla właściwego realizowania celów, Stowarzyszenie może prowadzić działalność także poza granicami Rzeczypospolitej Polskiej.
 1. Stowarzyszenie ma prawo posługiwać się nazwami skróconymi **Krakowski Klub Chombo** oraz **Klub Chombo**.
-1. Stowarzyszenie ma prawo posługiwać się odpowiednikami swojej nazwy w językach obcych, w szczególności nazwą angielską **Kraków Chombo Club**.
+1. Stowarzyszenie ma prawo posługiwać się odpowiednikami swojej nazwy w językach obcych, w szczególności nazwą angielską **Krakow Chombo Club**.
 1. Stowarzyszenie może używać wyróżniającego go znaku graficznego ustalonego przez Władze Stowarzyszenia.
 1. Działalność Stowarzyszenia oparta jest głównie o pracę społeczną członków. Stowarzyszenie dla realizacji swoich celów może zatrudniać pracowników w ramach stosunku pracy i umów cywilnoprawnych.
 1. Stowarzyszenie może należeć do innych krajowych i międzynarodowych organizacji o podobnych celach.
