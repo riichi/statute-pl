@@ -77,19 +77,33 @@ Członkami Stowarzyszenia mogą być:
 
 1. osoby fizyczne mające pełną zdolność do czynności prawnych;
 1. małoletni w wieku od 16 do 18 lat;
-1. małoletni poniżej 16 lat za zgodą przedstawicieli ustawowych.
+1. małoletni poniżej 16 lat za zgodą przedstawicieli ustawowych;
+1. osoby prawne.
 
 §
-Członkiem Stowarzyszenia może być każda osoba fizyczna, która złoży deklarację członkowską, opłaci składkę i uzyska pozytywną rekomendację dwóch innych członków Stowarzyszenia.
+Stowarzyszenie posiada członków:
+
+1. zwyczajnych;
+1. wspierających;
+1. honorowych.
 
 §
-Decyzję o przyjęciu kandydata podejmuje Zarząd Stowarzyszenia.
+Członkiem zwyczajnym Stowarzyszenia może być każda osoba fizyczna, która złoży deklarację członkowską, opłaci składkę i uzyska pozytywną rekomendację dwóch innych członków Stowarzyszenia.
+Decyzję o przyjęciu kandydata podejmuje Zarząd Stowarzyszenia nie później niż w ciągu miesiąca od daty złożenia deklaracji.
+
+§
+Członkiem wspierającym Stowarzyszenia może być każda osoba fizyczna lub prawna, która złoży deklarację członkowską oraz zadeklaruje na piśmie pomoc finansową, rzeczową lub merytoryczną w realizacji celów Stowarzyszenia.
+Członkiem wspierającym zostaje się na podstawie uchwały Zarządu podjętej nie później niż w ciągu dwóch miesięcy od daty złożenia pisemnej deklaracji.
+
+§
+Członkiem honorowym Stowarzyszenia może być osoba fizyczna, która wniosła wybitny wkład w działalność i rozwój Stowarzyszenia.
+Członkiem honorowym staje się po przyjęciu uchwały przez Walne Zebranie na wniosek Zarządu albo co najmniej pięciu członków Stowarzyszenia.
 
 §
 W przypadku odrzucenia deklaracji członkowskiej kandydatowi przysługuje odwołanie się od decyzji do Walnego Zebrania w terminie 14 dni od otrzymania odmownej decyzji. Decyzja Walnego Zebrania jest ostateczna.
 
 §
-Każdy członek ma obowiązek:
+Każdy członek zwyczajny ma obowiązek:
 
 1. brania czynnego udziału w działalności Stowarzyszenia i realizacji jego celów;
 1. przestrzegania statutu i uchwał Stowarzyszenia;
@@ -97,12 +111,23 @@ Każdy członek ma obowiązek:
 1. dbania o dobre imię Stowarzyszenia.
 
 §
-Każdy członek ma prawo do:
+Każdy członek zwyczajny ma prawo do:
 
-1. biernego i czynnego uczestniczenia w wyborach do władz Stowarzyszenia;
 1. korzystania z majątku i wszelkich form działalności Stowarzyszenia;
 1. udziału w zebraniach i imprezach organizowanych przez Stowarzyszenie;
 1. zgłaszania wniosków dotyczących działalności Stowarzyszenia.
+
+§
+Członkowie zwyczajni mający pełną zdolność do czynności prawnych i niepozbawieni praw publicznych mają prawo do biernego i czynnego uczestniczenia w wyborach do władz Stowarzyszenia.
+
+§
+Członkowie wspierający i honorowi nie posiadają biernego oraz czynnego prawa wyborczego, mogą jednak brać udział z głosem doradczym w statutowych władzach Stowarzyszenia, poza tym posiadają takie prawa jak członkowie zwyczajni.
+
+§
+Członek wspierający ma obowiązek wywiązywania się z zadeklarowanych świadczeń, przestrzegania statutu oraz uchwał władz Stowarzyszenia.
+
+§
+Członkowie honorowi są zobowiązani do przestrzegania statutu oraz uchwał władz Stowarzyszenia. Są zwolnieni ze składek członkowskich.
 
 §
 Utrata członkostwa następuje po podjęciu uchwały przez Zarząd na skutek:
@@ -152,7 +177,7 @@ Walne Zebranie Członków może być zwyczajne i nadzwyczajne.
 Walne Zebranie Zwyczajne jest zwoływane raz na rok przez Zarząd Stowarzyszenia. Termin i miejsce obrad Zarząd podaje do wiadomości wszystkich członków drogą elektroniczną, co najmniej na 14 dni przed terminem zebrania.
 
 §
-Walne Zebranie Nadzwyczajne może się odbyć w każdym czasie. Jest zwoływane przez Zarząd z jego inicjatywy, na wniosek Komisji Rewizyjnej lub pisemny wniosek co najmniej jednej trzeciej ogólnej liczby członków Stowarzyszenia.
+Walne Zebranie Nadzwyczajne może się odbyć w każdym czasie. Jest zwoływane przez Zarząd z jego inicjatywy, na wniosek Komisji Rewizyjnej lub pisemny wniosek co najmniej jednej trzeciej ogólnej liczby członków Stowarzyszenia z głosem stanowiącym.
 Termin i miejsce obrad Zarząd podaje do wiadomości wszystkich członków drogą elektroniczną, co najmniej na 7 dni przed terminem zebrania.
 
 §
