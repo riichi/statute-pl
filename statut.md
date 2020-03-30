@@ -50,11 +50,11 @@ Stowarzyszenie realizuje swoje cele poprzez:
 1. nawiązywanie kontaktów i współpraca ze stowarzyszeniami i innymi organizacjami o podobnych celach działającymi w kraju i za granicą;
 1. zakup potrzebnego wyposażenia;
 1. zakup oraz produkcję materiałów promocyjnych promujących Stowarzyszenie, Mahjonga oraz kulturę Dalekiego Wschodu;
-1. promowanie w mediach działań wpisujących się w cele Stowarzyszenia, podejmowanych przez Członków Stowarzyszenia i innych;
+1. promowanie w mediach działań wpisujących się w cele Stowarzyszenia, podejmowanych przez członków Stowarzyszenia i innych;
 1. prowadzenie strony internetowej i innej działalności w Internecie wpisującej się w cele Stowarzyszenia;
 1. dokonywanie tłumaczeń obcojęzycznych materiałów związanych z działalnością statutową Stowarzyszenia;
 1. realizację projektów finansowanych z dotacji organów samorządowych, rządowych, organizacji pozarządowych oraz podmiotów gospodarczych i osób fizycznych --- polskich i zagranicznych;
-1. społeczną wymianę doświadczeń i pomoc informacyjną Członkom Stowarzyszenia;
+1. społeczną wymianę doświadczeń i pomoc informacyjną członkom Stowarzyszenia;
 1. prowadzenie działalności wydawniczej i informacyjnej, w tym opracowywanie i publikowanie materiałów poświęconych problematyce zgodnej z założonymi celami Stowarzyszenia;
 1. opracowywanie oprogramowania mającego na celu wspieranie członków w realizacji celów Stowarzyszenia;
 1. integrację członków Stowarzyszenia poprzez wyjazdy i spotkania;
@@ -112,7 +112,7 @@ Utrata członkostwa następuje po podjęciu uchwały przez Zarząd na skutek:
 1. wykluczenia przez Zarząd z powodu łamania statutu i nieprzestrzegania uchwał Stowarzyszenia;
 1. notorycznego i nieusprawiedliwionego braku uczestnictwa w pracach Stowarzyszenia;
 1. niepłacenia składek członkowskich przez okres 3 miesięcy;
-1. wykluczenia przez Zarząd na pisemny, umotywowany wniosek przynajmniej 5 członków Stowarzyszenia;
+1. wykluczenia przez Zarząd na pisemny, umotywowany wniosek przynajmniej pięciu członków Stowarzyszenia;
 1. utraty praw obywatelskich na mocy prawomocnego wyroku sądu.
 
 §
@@ -129,7 +129,7 @@ Władze Stowarzyszenia dzielą się na:
 
 §
 Kadencja wszystkich władz wybieralnych Stowarzyszenia trwa trzy lata, a ich wybór odbywa się podczas Walnego Zebrania Członków w głosowaniu jawnym bezwzględną większością głosów.
-Głosowanie może zostać utajnione na wniosek dowolnego Członka obecnego na Walnym Zebraniu Członków.
+Głosowanie może zostać utajnione na wniosek dowolnego członka obecnego na Walnym Zebraniu Członków.
 
 §
 Uchwały wszystkich władz Stowarzyszenia zapadają zwykłą większością głosów przy obecności co najmniej połowy członków uprawnionych do głosowania, chyba, że dalsze postanowienia statutu stanowią inaczej.
@@ -156,7 +156,7 @@ Walne Zebranie Nadzwyczajne może się odbyć w każdym czasie. Jest zwoływane 
 Termin i miejsce obrad Zarząd podaje do wiadomości wszystkich członków drogą elektroniczną, co najmniej na 7 dni przed terminem zebrania.
 
 §
-Uchwały Walnego Zebrania Stowarzyszenia zapadają zwykłą większością głosów. Głosowanie jest jawne z możliwością utajnienia na wniosek dowolnego Członka obecnego na Walnym Zebraniu Członków.
+Uchwały Walnego Zebrania Stowarzyszenia zapadają zwykłą większością głosów. Głosowanie jest jawne z możliwością utajnienia na wniosek dowolnego członka obecnego na Walnym Zebraniu Członków.
 
 §
 Do kompetencji Walnego Zebrania Członków należy:
@@ -180,7 +180,7 @@ Do kompetencji Walnego Zebrania Członków należy:
 Zarząd jest powoływany do kierowania działalnością Stowarzyszenia zgodnie z uchwałami Walnego Zebrania i reprezentowania Stowarzyszenia na zewnątrz.
 
 §
-Zarząd składa się z Prezesa, Wiceprezesa oraz trzech Członków Zarządu.
+Zarząd składa się z Prezesa, Wiceprezesa oraz trzech członków Zarządu.
 
 §
 Członkami Zarządu mogą być wyłącznie osoby fizyczne mające pełną zdolność do czynności prawnych i niepozbawione praw publicznych.
