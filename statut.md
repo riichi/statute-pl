@@ -57,6 +57,7 @@ Stowarzyszenie realizuje swoje cele poprzez:
 1. społeczną wymianę doświadczeń i pomoc informacyjną Członkom Stowarzyszenia;
 1. prowadzenie działalności wydawniczej i informacyjnej, w tym opracowywanie i publikowanie materiałów poświęconych problematyce zgodnej z założonymi celami Stowarzyszenia;
 1. opracowywanie oprogramowania mającego na celu wspieranie członków w realizacji celów Stowarzyszenia;
+1. integrację członków Stowarzyszenia poprzez wyjazdy i spotkania;
 1. promocję i wspieranie wolontariatu;
 1. działalność dobroczynną i charytatywną.
 
