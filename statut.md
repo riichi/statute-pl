@@ -45,18 +45,20 @@ Stowarzyszenie wyznacza sobie następujące cele:
 Stowarzyszenie realizuje swoje cele poprzez:
 
 1. praktyczną naukę i doskonalenie umiejętności gry w Mahjonga oraz inne gry planszowe;
-1. organizowanie zajęć i warsztatów dla początkujących graczy, turniejów, spotkań meczowych, konferencji, wymian, zlotów, zjazdów, konwentów oraz innych wydarzeń;
-1. nawiązywanie kontaktów ze stowarzyszeniami i innymi organizacjami o podobnych celach działającymi w kraju i za granicą;
-1. zakup oraz wypożyczanie potrzebnego wyposażenia, w szczególności zestawów do Mahjonga oraz ich części, mat do gry oraz stołów do gry;
+1. działalność oświatowo-edukacyjną na rzecz początkujących graczy;
+1. organizację turniejów, spotkań meczowych, konferencji, wymian, zlotów, zjazdów, konwentów oraz innych wydarzeń;
+1. nawiązywanie kontaktów i współpraca ze stowarzyszeniami i innymi organizacjami o podobnych celach działającymi w kraju i za granicą;
+1. zakup potrzebnego wyposażenia;
 1. zakup oraz produkcję materiałów promocyjnych promujących Stowarzyszenie, Mahjonga oraz kulturę Dalekiego Wschodu;
 1. promowanie w mediach działań wpisujących się w cele Stowarzyszenia, podejmowanych przez Członków Stowarzyszenia i innych;
 1. prowadzenie strony internetowej i innej działalności w Internecie wpisującej się w cele Stowarzyszenia;
 1. dokonywanie tłumaczeń obcojęzycznych materiałów związanych z działalnością statutową Stowarzyszenia;
-1. wspieranie organizacyjne, merytoryczne i finansowe delegacji Członków Stowarzyszenia w wyjazdach na krajowe i zagraniczne wydarzenia kulturalne;
-1. realizację projektów finansowanych ze środków własnych oraz z dotacji organów samorządowych, rządowych, organizacji pozarządowych oraz podmiotów gospodarczych i osób fizycznych --- polskich i zagranicznych;
-1. współpracę z wszelkimi osobami oraz instytucjami o podobnych celach działania, jednostkami administracji rządowej i samorządowej, organizacjami pozarządowymi oraz przedsiębiorstwami;
+1. realizację projektów finansowanych z dotacji organów samorządowych, rządowych, organizacji pozarządowych oraz podmiotów gospodarczych i osób fizycznych --- polskich i zagranicznych;
 1. społeczną wymianę doświadczeń i pomoc informacyjną Członkom Stowarzyszenia;
-1. prowadzenie działalności wydawniczej i informacyjnej, w tym opracowywanie i publikowanie materiałów poświęconych problematyce zgodnej z założonymi celami Stowarzyszenia.
+1. prowadzenie działalności wydawniczej i informacyjnej, w tym opracowywanie i publikowanie materiałów poświęconych problematyce zgodnej z założonymi celami Stowarzyszenia;
+1. opracowywanie oprogramowania mającego na celu wspieranie członków w realizacji celów Stowarzyszenia;
+1. promocję i wspieranie wolontariatu;
+1. działalność dobroczynną i charytatywną.
 
 §
 Działalność statutowa Stowarzyszenia może być prowadzona jako działalność nieodpłatna lub jako działalność odpłatna pożytku publicznego, w rozumieniu przepisów ustawy o działalności pożytku publicznego i wolontariacie.
