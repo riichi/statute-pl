@@ -32,8 +32,12 @@ Stowarzyszenie wyznacza sobie następujące cele:
 1. wspomaganie rozwoju intelektualnego oraz myślenia logicznego poprzez gry logiczne i planszowe;
 1. propagowanie gier logicznych i planszowych jako formy spędzania wolnego czasu;
 1. wspieranie rozwoju dzieci i młodzieży poprzez gry logiczne i planszowe;
-1. wspieranie i pomaganie osobom starszym poprzez gry logiczne i planszowe;
-1. propagowanie gier, ze szczególnym uwzględnieniem Mahjonga jako formy rehabilitacji, wspierania i integracji osób z niepełnosprawnościami;
+1. wspieranie i pomaganie seniorom poprzez gry logiczne i planszowe;
+1. promowanie gier logicznych i planszowych jako pomocy edukacyjnych;
+1. wspieranie rozwoju umiejętności interprersonalnych poprzez wspólną grę w gry;
+1. promowanie integracji międzynarodowej i międzykulturowej;
+1. promowanie i wspieranie edukacji języków obcych;
+1. propagowanie gier logicznych i planszowych jako formy rehabilitacji, wspierania, integracji i wyrównywania szans osób z niepełnosprawnościami;
 1. prowadzenie działalności kulturalnej w zakresie rozwoju i promocji kultury Dalekiego Wschodu, ze szczególnym uwzględnieniem kultury Japonii;
 1. wspomaganie działań, mających na celu integrację Polski z innymi krajami w zakresie promocji i popularyzacji Mahjonga oraz kultury Dalekiego Wschodu.
 
