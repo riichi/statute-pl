@@ -1,8 +1,1 @@
-*.aux
-*.docx
-*.log
-*.odt
-*.pdf
-*.tex
-!/template.tex
-!/reference.docx
+build/
