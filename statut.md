@@ -24,42 +24,40 @@ Stowarzyszenie jest osobą prawną i podlega wpisowi do Krajowego Rejestru Sądo
 §
 Stowarzyszenie wyznacza sobie następujące cele:
 
-1. popularyzacja gry Mahjong, ze szczególnym uwzględnieniem Mahjonga japońskiego (Riichi Mahjong), jak i innych gier logicznych i planszowych;
-1. inicjowanie i prowadzenie działań związanych z grami logicznymi i planszowymi, ze szczególnym uwzględnieniem Mahjonga japońskiego (Riichi Mahjong);
-1. wspomaganie rozwoju wspólnot, społeczności i inicjatyw lokalnych poprzez popularyzację wspólnego grania w gry logiczne i planszowe;
-1. wspieranie integracji międzypokoleniowej poprzez gry logiczne i planszowe;
-1. wspieranie rywalizacji sportowej poprzez gry logiczne i planszowe;
-1. wspomaganie rozwoju intelektualnego oraz myślenia logicznego poprzez gry logiczne i planszowe;
-1. propagowanie gier logicznych i planszowych jako formy spędzania wolnego czasu;
-1. wspieranie rozwoju dzieci i młodzieży poprzez gry logiczne i planszowe;
-1. wspieranie i pomaganie seniorom poprzez gry logiczne i planszowe;
-1. promowanie gier logicznych i planszowych jako pomocy edukacyjnych;
-1. wspieranie rozwoju umiejętności interprersonalnych poprzez wspólną grę w gry;
-1. promowanie integracji międzynarodowej i międzykulturowej;
+1. inicjowanie oraz popularyzacja gry Mahjong, ze szczególnym uwzględnieniem Mahjonga japońskiego (Riichi Mahjong), jak i innych gier logicznych i planszowych; (edukacyjnych);
+1. działalność oświatowo-edukacyjna na rzecz początkujących graczy; 
+1. wspomaganie rozwoju intelektualnego oraz myślenia logicznego poprzez gry edukacyjne;
+1. wspieranie rozwoju umiejętności interprersonalnych poprzez wspólną grę;
+1. rozpowszechnianie wiedzy o grach logicznych i planszowych jako pomocy edukacyjnych;
+1. integracja międzynarodowa i międzykulturowa; 
+1. wspomaganie rozwoju wspólnot, społeczności lokalnych i inicjatyw oddolnych, łączenie pokoleń;
+1. wspieranie integracji międzypokoleniowej, umacnianie więzi międzypokoleniowych;
+1. upowszechnianie kultury fizycznej i sportu oraz rywalizacji sportowej poprzez gry logiczne i planszowe;
+1. wspieranie rozwoju dzieci i młodzieży, w tym wypoczynku dzieci i młodzieży;
+1. rozpowszechnianie wiedzy o grach logicznych i planszowych jako formy spędzania wolnego czasu;
+1. integracja i wspieranie środowiska seniorów;
+1. ochrona i promocja zdrowia, propagowanie gier logicznych i planszowych jako formy rehabilitacji;
+1. wyrównywanie szans osób z niepełnosprawnościami;
 1. promowanie i wspieranie edukacji języków obcych;
-1. propagowanie gier logicznych i planszowych jako formy rehabilitacji, wspierania, integracji i wyrównywania szans osób z niepełnosprawnościami;
-1. prowadzenie działalności kulturalnej w zakresie rozwoju i promocji kultury Dalekiego Wschodu, ze szczególnym uwzględnieniem kultury Japonii;
-1. wspomaganie działań, mających na celu integrację Polski z innymi krajami w zakresie promocji i popularyzacji Mahjonga oraz kultury Dalekiego Wschodu.
+1. upowszechnianie  kultury, sztuki, ochrony dóbr kultury i tradycji Dalekiego Wschodu, ze szczególnym uwzględnieniem kultury Japonii;
+1. upowszechnianie wolontariatu oraz działalności dobroczynnej charytatywnej;
+1. integracja członków Stowarzyszenia poprzez aktywność edukacyjną, kulturalną, rekreacyjną i towarzyską.
 
 §
 Stowarzyszenie realizuje swoje cele poprzez:
 
-1. praktyczną naukę i doskonalenie umiejętności gry w Mahjonga oraz inne gry planszowe;
-1. działalność oświatowo-edukacyjną na rzecz początkujących graczy;
-1. organizację turniejów, spotkań meczowych, konferencji, wymian, zlotów, zjazdów, konwentów oraz innych wydarzeń;
-1. nawiązywanie kontaktów i współpraca ze stowarzyszeniami i innymi organizacjami o podobnych celach działającymi w kraju i za granicą;
-1. zakup potrzebnego wyposażenia;
-1. zakup oraz produkcję materiałów promocyjnych promujących Stowarzyszenie, Mahjonga oraz kulturę Dalekiego Wschodu;
-1. promowanie w mediach działań wpisujących się w cele Stowarzyszenia, podejmowanych przez członków Stowarzyszenia i innych;
-1. prowadzenie strony internetowej i innej działalności w Internecie wpisującej się w cele Stowarzyszenia;
-1. dokonywanie tłumaczeń obcojęzycznych materiałów związanych z działalnością statutową Stowarzyszenia;
-1. realizację projektów finansowanych z dotacji organów samorządowych, rządowych, organizacji pozarządowych oraz podmiotów gospodarczych i osób fizycznych --- polskich i zagranicznych;
-1. społeczną wymianę doświadczeń i pomoc informacyjną członkom Stowarzyszenia;
-1. prowadzenie działalności wydawniczej i informacyjnej, w tym opracowywanie i publikowanie materiałów poświęconych problematyce zgodnej z założonymi celami Stowarzyszenia;
+1. organizowanie i prowadzenie turniejów, spotkań meczowych, konferencji, wymian, zlotów, zjazdów, konwentów oraz innych wydarzeń o charakterze edukacyjnym I popularyzatorskim;
+1. organizowanie i prowadzenie warsztatów, obozów, wystaw, ekspozycji i targów i innych przedsięwzięć o charakterze edukacyjnym i popularyzatorskim;
+1. współpraca z administracją publiczną, z sektorem przedsiębiorstw, z organizacjami pozarządowymi oraz mediami, działającymi w kraju i za granicą;
+1. wspomaganie działań, mających na celu integrację Polski z innymi krajami w zakresie promocji i popularyzacji Mahjonga oraz kultury Dalekiego Wschodu;
+1. Prowadzenie działalności wydawniczej, informacyjno-promocyjnej, szkoleniowo-edukacyjnej i doradczej w zakresie zgodnym z celami Stowarzyszenia;
+1. prowadzenie działalności wydawniczej i informacyjnej, w tym opracowywanie i publikowanie, także w formie elektronicznej i z wykorzystaniem wszelkich innych, nowoczesnych nośników multimedialnych;
+1. prowadzenie strony internetowej i innej działalności w Internecie;
+1. dokonywanie tłumaczeń obcojęzycznych (przekładów);
 1. opracowywanie oprogramowania mającego na celu wspieranie członków w realizacji celów Stowarzyszenia;
-1. integrację członków Stowarzyszenia poprzez wyjazdy i spotkania;
-1. promocję i wspieranie wolontariatu;
-1. działalność dobroczynną i charytatywną.
+1. organizowanie wolontariatu oraz wsparcia materialnego i rzeczowego dla osób i instytucji;
+1. organizowanie akcji charytatywnych;
+1. wspieranie udziału członków Stowarzyszenia we wszelkiego typu krajowych i zagranicznych imprezach, zjazdach, seminariach, konferencjach, festiwalach o charakterze zgodnym z celami Stowarzyszenia.
 
 §
 Działalność statutowa Stowarzyszenia może być prowadzona jako działalność nieodpłatna lub jako działalność odpłatna pożytku publicznego, w rozumieniu przepisów ustawy o działalności pożytku publicznego i wolontariacie.
