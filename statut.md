@@ -40,7 +40,7 @@ Stowarzyszenie wyznacza sobie następujące cele:
 1. wyrównywanie szans osób z niepełnosprawnościami;
 1. promowanie i wspieranie edukacji języków obcych;
 1. upowszechnianie  kultury, sztuki, ochrony dóbr kultury i tradycji Dalekiego Wschodu, ze szczególnym uwzględnieniem kultury Japonii;
-1. upowszechnianie wolontariatu oraz działalności dobroczynnej charytatywnej;
+1. upowszechnianie wolontariatu oraz działalności dobroczynnej i charytatywnej;
 1. integracja członków Stowarzyszenia poprzez aktywność edukacyjną, kulturalną, rekreacyjną i towarzyską.
 
 §
