@@ -34,7 +34,7 @@ Stowarzyszenie wyznacza sobie następujące cele:
 1. wspieranie integracji międzypokoleniowej, umacnianie więzi międzypokoleniowych;
 1. upowszechnianie sportu oraz rywalizacji sportowej poprzez gry logiczne i planszowe;
 1. wspieranie rozwoju dzieci i młodzieży, w tym wypoczynku dzieci i młodzieży;
-1. rozpowszechnianie wiedzy o grach logicznych i planszowych jako formy spędzania wolnego czasu;
+1. rozpowszechnianie wiedzy o grach logicznych i planszowych jako formie spędzania wolnego czasu;
 1. integracja i wspieranie środowiska seniorów;
 1. ochrona i promocja zdrowia, propagowanie gier logicznych i planszowych jako formy rehabilitacji;
 1. wyrównywanie szans osób z niepełnosprawnościami;
@@ -46,8 +46,8 @@ Stowarzyszenie wyznacza sobie następujące cele:
 §
 Stowarzyszenie realizuje swoje cele poprzez:
 
-1. organizowanie i prowadzenie turniejów, spotkań meczowych, konferencji, wymian, zlotów, zjazdów, konwentów oraz innych wydarzeń o charakterze edukacyjnym I popularyzatorskim;
-1. organizowanie i prowadzenie warsztatów, obozów, wystaw, ekspozycji i targów i innych przedsięwzięć o charakterze edukacyjnym i popularyzatorskim;
+1. organizowanie i prowadzenie turniejów, spotkań meczowych, konferencji, wymian, zlotów, zjazdów, konwentów oraz innych wydarzeń o charakterze edukacyjnym i popularyzatorskim;
+1. organizowanie i prowadzenie warsztatów, obozów, wystaw, ekspozycji, targów i innych przedsięwzięć o charakterze edukacyjnym i popularyzatorskim;
 1. współpraca z administracją publiczną, z sektorem przedsiębiorstw, z organizacjami pozarządowymi oraz mediami, działającymi w kraju i za granicą;
 1. wspomaganie działań, mających na celu integrację Polski z innymi krajami w zakresie promocji i popularyzacji Mahjonga oraz kultury Dalekiego Wschodu;
 1. Prowadzenie działalności wydawniczej, informacyjno-promocyjnej, szkoleniowo-edukacyjnej i doradczej w zakresie zgodnym z celami Stowarzyszenia;
