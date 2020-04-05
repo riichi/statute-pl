@@ -32,7 +32,7 @@ Stowarzyszenie wyznacza sobie następujące cele:
 1. integracja międzynarodowa i międzykulturowa; 
 1. wspomaganie rozwoju wspólnot, społeczności lokalnych i inicjatyw oddolnych, łączenie pokoleń;
 1. wspieranie integracji międzypokoleniowej, umacnianie więzi międzypokoleniowych;
-1. upowszechnianie kultury fizycznej i sportu oraz rywalizacji sportowej poprzez gry logiczne i planszowe;
+1. upowszechnianie sportu oraz rywalizacji sportowej poprzez gry logiczne i planszowe;
 1. wspieranie rozwoju dzieci i młodzieży, w tym wypoczynku dzieci i młodzieży;
 1. rozpowszechnianie wiedzy o grach logicznych i planszowych jako formy spędzania wolnego czasu;
 1. integracja i wspieranie środowiska seniorów;
