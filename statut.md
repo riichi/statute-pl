@@ -24,7 +24,7 @@ Stowarzyszenie jest osobą prawną i podlega wpisowi do Krajowego Rejestru Sądo
 §
 Stowarzyszenie wyznacza sobie następujące cele:
 
-1. inicjowanie oraz popularyzacja gry Mahjong, ze szczególnym uwzględnieniem Mahjonga japońskiego (Riichi Mahjong), jak i innych gier logicznych i planszowych; (edukacyjnych);
+1. inicjowanie oraz popularyzacja gry Mahjong, ze szczególnym uwzględnieniem Mahjonga japońskiego (Riichi Mahjong), jak i innych gier logicznych i planszowych (edukacyjnych);
 1. działalność oświatowo-edukacyjna na rzecz początkujących graczy; 
 1. wspomaganie rozwoju intelektualnego oraz myślenia logicznego poprzez gry edukacyjne;
 1. wspieranie rozwoju umiejętności interprersonalnych poprzez wspólną grę;
