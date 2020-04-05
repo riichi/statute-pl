@@ -50,7 +50,7 @@ Stowarzyszenie realizuje swoje cele poprzez:
 1. organizowanie i prowadzenie warsztatów, obozów, wystaw, ekspozycji, targów i innych przedsięwzięć o charakterze edukacyjnym i popularyzatorskim;
 1. współpraca z administracją publiczną, z sektorem przedsiębiorstw, z organizacjami pozarządowymi oraz mediami, działającymi w kraju i za granicą;
 1. wspomaganie działań, mających na celu integrację Polski z innymi krajami w zakresie promocji i popularyzacji Mahjonga oraz kultury Dalekiego Wschodu;
-1. Prowadzenie działalności wydawniczej, informacyjno-promocyjnej, szkoleniowo-edukacyjnej i doradczej w zakresie zgodnym z celami Stowarzyszenia;
+1. prowadzenie działalności wydawniczej, informacyjno-promocyjnej, szkoleniowo-edukacyjnej i doradczej w zakresie zgodnym z celami Stowarzyszenia;
 1. prowadzenie działalności wydawniczej i informacyjnej, w tym opracowywanie i publikowanie, także w formie elektronicznej i z wykorzystaniem wszelkich innych, nowoczesnych nośników multimedialnych;
 1. prowadzenie strony internetowej i innej działalności w Internecie;
 1. dokonywanie tłumaczeń obcojęzycznych (przekładów);
