@@ -28,7 +28,7 @@ Stowarzyszenie wyznacza sobie następujące cele:
 1. działalność oświatowo-edukacyjna na rzecz początkujących graczy; 
 1. wspomaganie rozwoju intelektualnego oraz myślenia logicznego poprzez gry edukacyjne;
 1. wspieranie rozwoju umiejętności interprersonalnych poprzez wspólną grę;
-1. rozpowszechnianie wiedzy o grach logicznych i planszowych jako pomocy edukacyjnych;
+1. rozpowszechnianie wiedzy o grach logicznych i planszowych jako pomocach edukacyjnych;
 1. integracja międzynarodowa i międzykulturowa; 
 1. wspomaganie rozwoju wspólnot, społeczności lokalnych i inicjatyw oddolnych, łączenie pokoleń;
 1. wspieranie integracji międzypokoleniowej, umacnianie więzi międzypokoleniowych;
