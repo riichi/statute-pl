@@ -24,37 +24,38 @@ Stowarzyszenie jest osobą prawną i podlega wpisowi do Krajowego Rejestru Sądo
 §
 Stowarzyszenie wyznacza sobie następujące cele:
 
-1. inicjowanie oraz popularyzacja gry Mahjong, ze szczególnym uwzględnieniem Mahjonga japońskiego (Riichi Mahjong), jak i innych gier logicznych i planszowych (edukacyjnych);
+1. inicjowanie oraz popularyzacja gry Mahjong, ze szczególnym uwzględnieniem Mahjonga japońskiego (Riichi Mahjong), jak i innych gier logicznych i planszowych;
 1. działalność oświatowo-edukacyjna na rzecz początkujących graczy; 
-1. wspomaganie rozwoju intelektualnego oraz myślenia logicznego poprzez gry edukacyjne;
+1. rozpowszechnianie programów edukacyjnych i analitycznych do gier planszowych;
+1. wspomaganie rozwoju intelektualnego oraz myślenia logicznego poprzez gry logiczne i planszowe;
 1. wspieranie rozwoju umiejętności interprersonalnych poprzez wspólną grę;
 1. rozpowszechnianie wiedzy o grach logicznych i planszowych jako pomocach edukacyjnych;
 1. integracja międzynarodowa i międzykulturowa; 
-1. wspomaganie rozwoju wspólnot, społeczności lokalnych i inicjatyw oddolnych, łączenie pokoleń;
+1. wspomaganie rozwoju wspólnot, społeczności lokalnych i inicjatyw oddolnych;
 1. wspieranie integracji międzypokoleniowej, umacnianie więzi międzypokoleniowych;
-1. upowszechnianie sportu oraz rywalizacji sportowej poprzez gry logiczne i planszowe;
+1. upowszechnianie kultury fizycznej, sportu oraz rywalizacji sportowej poprzez gry logiczne i planszowe;
 1. wspieranie rozwoju dzieci i młodzieży, w tym wypoczynku dzieci i młodzieży;
 1. rozpowszechnianie wiedzy o grach logicznych i planszowych jako formie spędzania wolnego czasu;
 1. integracja i wspieranie środowiska seniorów;
 1. ochrona i promocja zdrowia, propagowanie gier logicznych i planszowych jako formy rehabilitacji;
 1. wyrównywanie szans osób z niepełnosprawnościami;
 1. promowanie i wspieranie edukacji języków obcych;
-1. upowszechnianie  kultury, sztuki, ochrony dóbr kultury i tradycji Dalekiego Wschodu, ze szczególnym uwzględnieniem kultury Japonii;
+1. upowszechnianie kultury, sztuki, ochrony dóbr kultury i tradycji Dalekiego Wschodu, ze szczególnym uwzględnieniem kultury Japonii;
 1. upowszechnianie wolontariatu oraz działalności dobroczynnej i charytatywnej;
 1. integracja członków Stowarzyszenia poprzez aktywność edukacyjną, kulturalną, rekreacyjną i towarzyską.
 
 §
 Stowarzyszenie realizuje swoje cele poprzez:
 
-1. organizowanie i prowadzenie turniejów, spotkań meczowych, konferencji, wymian, zlotów, zjazdów, konwentów oraz innych wydarzeń o charakterze edukacyjnym i popularyzatorskim;
-1. organizowanie i prowadzenie warsztatów, obozów, wystaw, ekspozycji, targów i innych przedsięwzięć o charakterze edukacyjnym i popularyzatorskim;
+1. organizowanie i prowadzenie turniejów, spotkań meczowych, konferencji oraz innych wydarzeń o charakterze edukacyjnym, kulturalnym i popularyzatorskim;
+1. organizowanie i prowadzenie warsztatów, szkoleń, seminariów, wyjazdów, obozów, wystaw, ekspozycji, targów i innych przedsięwzięć o charakterze edukacyjnym, kulturalnym i popularyzatorskim;
 1. współpraca z administracją publiczną, z sektorem przedsiębiorstw, z organizacjami pozarządowymi oraz mediami, działającymi w kraju i za granicą;
-1. wspomaganie działań, mających na celu integrację Polski z innymi krajami w zakresie promocji i popularyzacji Mahjonga oraz kultury Dalekiego Wschodu;
-1. prowadzenie działalności wydawniczej, informacyjno-promocyjnej, szkoleniowo-edukacyjnej i doradczej w zakresie zgodnym z celami Stowarzyszenia;
-1. prowadzenie działalności wydawniczej i informacyjnej, w tym opracowywanie i publikowanie, także w formie elektronicznej i z wykorzystaniem wszelkich innych, nowoczesnych nośników multimedialnych;
+1. wspomaganie działań mających na celu integrację Polski z innymi krajami w zakresie promocji i popularyzacji Mahjonga oraz kultury Dalekiego Wschodu;
+1. prowadzenie działalności informacyjno-promocyjnej, szkoleniowo-edukacyjnej i doradczej;
+1. prowadzenie działalności wydawniczej i informacyjnej, także w formie elektronicznej i z wykorzystaniem wszelkich innych nowoczesnych nośników multimedialnych;
 1. prowadzenie strony internetowej i innej działalności w Internecie;
-1. dokonywanie tłumaczeń obcojęzycznych (przekładów);
-1. opracowywanie oprogramowania mającego na celu wspieranie członków w realizacji celów Stowarzyszenia;
+1. dokonywanie tłumaczeń i przekładów obcojęzycznych;
+1. tworzenie i rozwój programów edukacyjnych i analitycznych do gier planszowych;
 1. organizowanie wolontariatu oraz wsparcia materialnego i rzeczowego dla osób i instytucji;
 1. organizowanie akcji charytatywnych;
 1. wspieranie udziału członków Stowarzyszenia we wszelkiego typu krajowych i zagranicznych imprezach, zjazdach, seminariach, konferencjach, festiwalach o charakterze zgodnym z celami Stowarzyszenia.
@@ -225,6 +226,9 @@ Do kompetencji Zarządu należy:
 1. reprezentowanie Stowarzyszenia na zewnątrz;
 1. zwoływanie Walnego Zebrania.
 
+§
+Zarząd działa na podstawie uchwalonego przez siebie regulaminu.
+
 ## Komisja Rewizyjna
 
 §
@@ -251,6 +255,9 @@ Przewodniczący i delegowani członkowie Komisji Rewizyjnej mają prawo brać ud
 
 §
 Członkowie Komisji Rewizyjnej nie mogą pełnić innych funkcji we władzach Stowarzyszenia.
+
+§
+Komisja Rewizyjna działa na podstawie uchwalonego przez siebie regulaminu.
 
 §
 Członkowie Komisji Rewizyjnej nie mogą pozostawać w żadnym stosunku pokrewieństwa, powinowactwa lub podległości służbowej z tytułu zatrudnienia z członkami Zarządu.
