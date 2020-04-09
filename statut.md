@@ -215,7 +215,6 @@ Posiedzenia Zarządu odbywają się w miarę potrzeb, nie rzadziej jednak niż r
 §
 Do kompetencji Zarządu należy:
 
-1. uchwalanie regulaminu działania Zarządu Stowarzyszenia;
 1. realizacja celów Stowarzyszenia;
 1. wykonywanie uchwał Walnego Zebrania;
 1. sporządzanie planów pracy i budżetu;
