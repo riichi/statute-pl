@@ -64,10 +64,10 @@ Stowarzyszenie realizuje swoje cele poprzez:
 Działalność statutowa Stowarzyszenia może być prowadzona jako działalność nieodpłatna lub jako działalność odpłatna pożytku publicznego, w rozumieniu przepisów ustawy o działalności pożytku publicznego i wolontariacie.
 
 §
-Stowarzyszenie, dla pełniejszej realizacji swoich celów, może powoływać wewnętrzne sekcje tematyczne, zwane dalej Sekcjami.
+Stowarzyszenie, dla pełniejszej realizacji swoich celów, może powoływać wewnętrzne sekcje tematyczne, zwane dalej Sekcjami, nie stanowiące terenowych jednostek Stowarzyszenia.
 
 §
-Sekcje mają prawo ustalać własne regulaminy oraz wybierać Przewodniczących Sekcji.
+Sekcje, w ramach określonych przez Walne Zebranie Członków, mają prawo ustalać własne regulaminy oraz wybierać Przewodniczących Sekcji.
 
 # Członkowie Stowarzyszenia
 
@@ -87,19 +87,22 @@ Stowarzyszenie posiada członków:
 1. honorowych.
 
 §
-Członkiem zwyczajnym Stowarzyszenia może być każda osoba fizyczna, która złoży deklarację członkowską, opłaci składkę i uzyska pozytywną rekomendację dwóch innych członków Stowarzyszenia.
-Decyzję o przyjęciu kandydata podejmuje Zarząd Stowarzyszenia nie później niż w ciągu miesiąca od daty złożenia deklaracji.
+Członkiem zwyczajnym Stowarzyszenia może zostać osoba fizyczna, która złoży deklarację członkowską, opłaci składkę i uzyska pozytywną rekomendację dwóch członków zwyczajnych Stowarzyszenia.
+Decyzję w przedmiocie przyjęcia kandydata na członka zwyczajnego podejmuje Zarząd Stowarzyszenia nie później niż w ciągu miesiąca od daty złożenia deklaracji członkowskiej.
 
 §
-Członkiem wspierającym Stowarzyszenia może być każda osoba fizyczna lub prawna, która złoży deklarację członkowską oraz zadeklaruje na piśmie pomoc finansową, rzeczową lub merytoryczną w realizacji celów Stowarzyszenia.
-Członkiem wspierającym zostaje się na podstawie uchwały Zarządu podjętej nie później niż w ciągu dwóch miesięcy od daty złożenia pisemnej deklaracji.
+Członkiem wspierającym Stowarzyszenia może zostać osoba fizyczna lub prawna, która złoży pisemną deklarację członkowską członka wspierającego obejmującą deklarację pomocy finansowej, rzeczowej lub merytorycznej w realizacji celów Stowarzyszenia.
+Członkiem wspierającym zostaje się na podstawie uchwały Zarządu podjętej nie później niż w ciągu dwóch miesięcy od daty złożenia deklaracji członkowskiej.
 
 §
 Członkiem honorowym Stowarzyszenia może być osoba fizyczna, która wniosła wybitny wkład w działalność i rozwój Stowarzyszenia.
-Członkiem honorowym staje się po przyjęciu uchwały przez Walne Zebranie na wniosek Zarządu albo co najmniej pięciu członków Stowarzyszenia.
+Członkiem honorowym staje się po przyjęciu uchwały przez Walne Zebranie na wniosek Zarządu albo co najmniej pięciu członków zwyczajnych Stowarzyszenia, za zgodą osoby zainteresowanej.
 
 §
-W przypadku odrzucenia deklaracji członkowskiej kandydatowi przysługuje odwołanie się od decyzji do Walnego Zebrania w terminie 14 dni od otrzymania odmownej decyzji. Decyzja Walnego Zebrania jest ostateczna.
+W przypadku odrzucenia deklaracji członkowskiej kandydatowi przysługuje odwołanie się od decyzji Zarządu do Walnego Zebrania.
+Odwołanie wnosi się na piśmie, za pośrednictwem Zarządu, w terminie 14 dni od otrzymania odmownej decyzji.
+Odwołanie jest rozpatrywane na najbliższym Walnym Zebraniu.
+Decyzja Walnego Zebrania jest ostateczna.
 
 §
 Każdy członek zwyczajny ma obowiązek:
@@ -113,14 +116,15 @@ Każdy członek zwyczajny ma obowiązek:
 Każdy członek zwyczajny ma prawo do:
 
 1. korzystania z majątku i wszelkich form działalności Stowarzyszenia;
-1. udziału w zebraniach i imprezach organizowanych przez Stowarzyszenie;
+1. udziału w otwartych zebraniach i imprezach organizowanych przez Stowarzyszenie;
+1. aplikowania o udział w wydarzeniach i programach organizowanych przez Stowarzyszenie, na które obowiązują zapisy, na takich samych zasadach, jakie obowiązują wszystkich zainteresowanych;
 1. zgłaszania wniosków dotyczących działalności Stowarzyszenia.
 
 §
-Członkowie zwyczajni mający pełną zdolność do czynności prawnych i niepozbawieni praw publicznych mają prawo do biernego i czynnego uczestniczenia w wyborach do władz Stowarzyszenia.
+Członkowie zwyczajni mający pełną zdolność do czynności prawnych mają prawo do biernego i czynnego uczestniczenia w wyborach do władz Stowarzyszenia.
 
 §
-Członkowie wspierający i honorowi nie posiadają biernego oraz czynnego prawa wyborczego, mogą jednak brać udział z głosem doradczym w statutowych władzach Stowarzyszenia, poza tym posiadają takie prawa jak członkowie zwyczajni.
+Członkowie wspierający i honorowi nie posiadają biernego oraz czynnego prawa wyborczego, mogą jednak brać udział z głosem doradczym w statutowych władzach Stowarzyszenia, poza tym, o ile Statut nie stanowi inaczej, posiadają takie prawa jak członkowie zwyczajni.
 
 §
 Członek wspierający ma obowiązek wywiązywania się z zadeklarowanych świadczeń, przestrzegania statutu oraz uchwał władz Stowarzyszenia.
@@ -129,37 +133,48 @@ Członek wspierający ma obowiązek wywiązywania się z zadeklarowanych świadc
 Członkowie honorowi są zobowiązani do przestrzegania statutu oraz uchwał władz Stowarzyszenia. Są zwolnieni ze składek członkowskich.
 
 §
-Utrata członkostwa następuje po podjęciu uchwały przez Zarząd na skutek:
+Utrata członkostwa następuje na skutek:
 
-1. pisemnej rezygnacji złożonej na ręce Zarządu;
-1. śmierci członka;
-1. wykluczenia przez Zarząd z powodu łamania statutu i nieprzestrzegania uchwał Stowarzyszenia;
-1. notorycznego i nieusprawiedliwionego braku uczestnictwa w pracach Stowarzyszenia;
-1. niepłacenia składek członkowskich przez okres 3 miesięcy;
-1. wykluczenia przez Zarząd na pisemny, umotywowany wniosek przynajmniej pięciu członków Stowarzyszenia;
-1. utraty praw obywatelskich na mocy prawomocnego wyroku sądu.
+1. pisemnej rezygnacji z przynależności do Stowarzyszenia, złożonej na ręce Zarządu;
+1. śmierci członka lub utraty osobowości prawnej przez członka wspierającego będącego osobą prawną;
+1. pozbawienia członkostwa przez Zarząd:
+   a. z powodu rażącego lub powtarzającego się istotnego naruszania zobowiązania do przestrzegania Statutu lub zobowiązania do przestrzegania uchwał władz Stowarzyszenia;
+   a. notorycznego i nieusprawiedliwionego braku uczestnictwa w pracach Stowarzyszenia;
+   a. opóźnienia w wykonaniu zobowiązania do zapłaty składek członkowskich przekraczającego okres 3 miesięcy;
+   a. na pisemny, umotywowany wniosek przynajmniej pięciu członków zwyczajnych Stowarzyszenia;
+1. utraty praw publicznych na mocy prawomocnego wyroku sądu.
 
 §
-Od uchwały Zarządu w sprawie pozbawienia członkostwa przysługuje odwołanie do Walnego Zebrania Członków w terminie 14 dni od otrzymania decyzji. Uchwała Walnego Zebrania jest ostateczna.
+Od uchwały Zarządu w sprawie pozbawienia członkostwa w Stowarzyszeniu jej adresatowi przysługuje prawo wniesienia pisemnego odwołania do Walnego Zebrania.
+Odwołanie wnosi się za pośrednictwem Zarządu w terminie 14 dni od daty doręczenia stosownej uchwały.
+Odwołanie jest rozpatrywane na najbliższym Walnym Zebraniu.
+Uchwała Walnego Zebrania jest ostateczna.
+Uchwała Zarządu w przedmiocie pozbawienia członkostwa staje się w pełni skuteczna z chwilą bezskutecznego upływu terminu do wniesienia od niej odwołania.
+Do czasu upływu terminu do wniesienia odwołania, a w przypadku złożenia takiego odwołania, do czasu jego rozpatrzenia, członkostwo jest zawieszone.
+W okresie zawieszenia członkostwa zawieszony członek nie jest zobowiązany do wypełniania swych obowiązków członkowskich, ani nie jest uprawniony do realizowania swoich praw członkowskich.
 
 # Władze Stowarzyszenia
 
 §
 Władze Stowarzyszenia dzielą się na:
 
-1. Walne Zebranie Członków;
+1. Walne Zebranie Członków (zwane też w Statucie "Walnym Zebraniem");
 1. Zarząd;
 1. Komisję Rewizyjną.
 
 §
-Kadencja wszystkich władz wybieralnych Stowarzyszenia trwa trzy lata, a ich wybór odbywa się podczas Walnego Zebrania Członków w głosowaniu jawnym bezwzględną większością głosów.
-Głosowanie może zostać utajnione na wniosek dowolnego członka obecnego na Walnym Zebraniu Członków.
+Kadencja wszystkich władz wybieralnych Stowarzyszenia trwa trzy lata:
+
+1. członków Zarządu powołuje się na okres wspólnej kadencji wynoszącej trzy lata;
+1. członków Komisji Rewizyjnej powołuje się na okres wspólnej kadencji wynoszącej trzy lata;
+
+, a ich wybór odbywa się podczas Walnego Zebrania Członków w głosowaniu jawnym bezwzględną większością głosów.
 
 §
-Uchwały wszystkich władz Stowarzyszenia zapadają zwykłą większością głosów przy obecności co najmniej połowy członków uprawnionych do głosowania, chyba, że dalsze postanowienia statutu stanowią inaczej.
+Uchwały wszystkich władz Stowarzyszenia zapadają zwykłą większością głosów oddanych przy obecności co najmniej połowy członków uprawnionych do głosowania, chyba, że dalsze postanowienia statutu stanowią inaczej.
 
 §
-W przypadku, gdy skład władz Stowarzyszenia ulegnie zmniejszeniu w czasie trwania kadencji, uzupełnienie ich składu może nastąpić w drodze kooptacji, której dokonują pozostali członkowie organu, który uległ zmniejszeniu. W tym trybie można powołać nie więcej niż połowę składu organu.
+W przypadku, gdy skład władz wybieralnych Stowarzyszenia ulegnie zmniejszeniu w czasie trwania kadencji, uzupełnienie ich składu może nastąpić w drodze kooptacji, której dokonują pozostali członkowie organu, który uległ zmniejszeniu. W tym trybie można powołać nie więcej niż połowę składu organu.
 
 ## Walne Zebranie Członków
 
@@ -188,13 +203,13 @@ Do kompetencji Walnego Zebrania Członków należy:
 1. uchwalanie kierunków rozwoju działalności Stowarzyszenia;
 1. uchwalanie zmian statutu;
 1. wybór i odwoływanie Prezesa Stowarzyszenia, Zarządu i Komisji Rewizyjnej;
-1. udzielanie Zarządowi absolutorium na wniosek Komisji Rewizyjnej;
+1. udzielanie członkom Zarządu absolutorium na wniosek Komisji Rewizyjnej;
 1. rozpatrywanie sprawozdań z działalności Zarządu i Komisji Rewizyjnej;
 1. uchwalanie budżetu;
 1. zatwierdzanie proponowanych przez Zarząd wysokości składek członkowskich oraz wszystkich innych świadczeń na rzecz Stowarzyszenia;
 1. rozpatrywanie i zatwierdzanie sprawozdań władz Stowarzyszenia;
 1. rozpatrywanie wniosków i postulatów zgłoszonych przez członków Stowarzyszenia i jego władze;
-1. rozpatrywanie odwołań od uchwał Zarządu;
+1. rozpatrywanie odwołań od uchwał Zarządu w przypadkach przewidzianych Statutem;
 1. podejmowanie uchwał w każdej sprawie wniesionej pod obrady;
 1. podjęcie uchwały o rozwiązaniu Stowarzyszenia i przeznaczeniu jego majątku.
 
@@ -220,7 +235,7 @@ Do kompetencji Zarządu należy:
 1. sporządzanie planów pracy i budżetu;
 1. sprawowanie zarządu nad majątkiem Stowarzyszenia;
 1. podejmowanie uchwał o nabywaniu, zbywaniu lub obciążaniu majątku Stowarzyszenia;
-1. podejmowanie uchwał w sprawach członkowskich, przyjmowanie i skreślanie członków;
+1. podejmowanie uchwał w sprawach członkowskich, przyjmowanie członków zwyczajnych i wspierających, pozbawianie ich członkostwa;
 1. rozpatrywanie wniosków i postulatów zgłoszonych przez członków Stowarzyszenia;
 1. reprezentowanie Stowarzyszenia na zewnątrz;
 1. zwoływanie Walnego Zebrania.
@@ -243,7 +258,7 @@ Członkami Komisji Rewizyjnej mogą być wyłącznie osoby fizyczne mające peł
 Do kompetencji Komisji Rewizyjnej należy:
 
 1. kontrola działalności Stowarzyszenia;
-1. składanie wniosków z kontroli na Walnym Zebrania;
+1. składanie wniosków z kontroli na Walnym Zebraniu;
 1. prawo żądania zwołania Walnego Zebrania oraz zebrania Zarządu;
 1. prawo żądania zwołania Nadzwyczajnego Walnego Zebrania;
 1. składanie wniosków absolutorium dla władz Stowarzyszenia;
@@ -262,7 +277,7 @@ Komisja Rewizyjna działa na podstawie uchwalonego przez siebie regulaminu.
 Członkowie Komisji Rewizyjnej nie mogą pozostawać w żadnym stosunku pokrewieństwa, powinowactwa lub podległości służbowej z tytułu zatrudnienia z członkami Zarządu.
 
 §
-Członkowie Komisji Rewizyjnej nie mogą być skazani prawomocnymi wyrokami za przestępstwa z winy umyślnej.
+Członkowie Komisji Rewizyjnej nie mogą być skazani prawomocnymi wyrokami za przestępstwa umyślne ścigane z oskarżenia publicznego.
 
 # Majątek i fundusze Stowarzyszenia
 
@@ -286,8 +301,8 @@ Przychody Stowarzyszenia pochodzą z:
 1. innych form ofiarności publicznej;
 1. zbiórek publicznych, loterii i aukcji;
 1. odsetek, depozytów i lokat bankowych;
-1. wpływów działalności odpłatnej pożytku publicznego;
-1. jednostek uczestnictwa w spółkach prawa handlowego.
+1. wpływów z działalności odpłatnej pożytku publicznego;
+1. jednostek uczestnictwa w spółkach prawa handlowego (udziałów, akcji, ogółu praw i obowiązków w spółkach osobowych prawa handlowego).
 
 §
 Wszelkie środki finansowe otrzymane i uzyskane przez Stowarzyszenie mogą być wykorzystane tylko na sfinansowanie realizacji jego celów.
@@ -297,9 +312,6 @@ Darowizny, spadki i zapisy mogą być użyte na realizację wszystkich celów St
 
 §
 W przypadku powołania Stowarzyszenia do dziedziczenia, Zarząd składając oświadczenie o przyjęciu spadku może dokonać wyłącznie przyjęcia spadku z dobrodziejstwem inwentarza.
-
-§
-Stowarzyszenie może prowadzić działalność odpłatną w ramach realizacji celów statutowych.
 
 §
 Wszelkie środki pieniężne mogą być przechowywane wyłącznie na rachunku bankowym Stowarzyszenia i wypłacane stamtąd tylko na potrzeby bieżącej działalności.
@@ -318,7 +330,7 @@ W Stowarzyszeniu obowiązuje zakaz:
 
 1. udzielania pożyczek lub zabezpieczenia zobowiązań majątkiem Stowarzyszenia w stosunku do jego członków, członków organów lub pracowników oraz osób, z którymi pracownicy pozostają w związku małżeńskim albo w stosunku pokrewieństwa, powinowactwa w linii prostej, pokrewieństwa, powinowactwa w linii bocznej do drugiego stopnia albo są związani z tytułu przysposobienia, opieki lub kurateli, zwanych dalej "osobami bliskimi";
 1. przekazywania majątku Stowarzyszenia na rzecz jego członków, członków organów lub pracowników oraz ich osób bliskich, na zasadach innych niż w stosunku do osób trzecich, w szczególności gdy przekazanie to następuje bezpłatnie lub na preferencyjnych warunkach;
-1. wykorzystania majątku Stowarzyszenia na rzecz jego członków, członków organów lub pracowników oraz ich osób bliskich, na zasadach innych niż w stosunku do osób trzecich, chyba że to wykorzystanie bezpośrednio wynika z statutowego celu danej organizacji;
+1. wykorzystania majątku Stowarzyszenia na rzecz jego członków, członków organów lub pracowników oraz ich osób bliskich, na zasadach innych niż w stosunku do osób trzecich, chyba że to wykorzystanie bezpośrednio wynika z statutowego celu Stowarzyszenia;
 1. zakupu na szczególnych zasadach towarów lub usług od podmiotów, w których uczestniczą członkowie Stowarzyszenia, pracownicy oraz ich osoby bliskie.
 
 # Postanowienia końcowe
@@ -327,7 +339,7 @@ W Stowarzyszeniu obowiązuje zakaz:
 Uchwałę w sprawie zmiany statutu oraz uchwałę o rozwiązaniu stowarzyszenia podejmuje Walne Zebranie większością dwóch trzecich głosów przy obecności co najmniej połowy uprawnionych do głosowania.
 
 §
-Podejmując uchwałę o rozwiązaniu Stowarzyszenia, Walne Zebranie określa sposób jego likwidacji oraz przeznaczenie majątku Stowarzyszenia.
+Podejmując uchwałę o rozwiązaniu Stowarzyszenia, Walne Zebranie określa sposób jego likwidacji, w tym wybiera likwidatora lub likwidatorów i określa sposób reprezentacji Stowarzyszenia w okresie likwidacji oraz przeznaczenie majątku Stowarzyszenia.
 
 §
 Do wszystkich spraw nieobjętych Statutem stosuje się odpowiednie przepisy Prawa o stowarzyszeniach oraz inne przepisy obowiązujące na terenie Rzeczypospolitej Polskiej.
