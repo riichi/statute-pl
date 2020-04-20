@@ -14,7 +14,7 @@ Stowarzyszenie jest osobą prawną i podlega wpisowi do Krajowego Rejestru Sądo
 1. Stowarzyszenie powołane jest na czas nieokreślony.
 1. Terenem działania Stowarzyszenia jest cały obszar Rzeczypospolitej Polskiej, przy czym w zakresie niezbędnym dla właściwego realizowania celów, Stowarzyszenie może prowadzić działalność także poza granicami Rzeczypospolitej Polskiej.
 1. Stowarzyszenie ma prawo posługiwać się odpowiednikami swojej nazwy w językach obcych na potrzeby współpracy z podmiotami zagranicznymi, w szczególności nazwą angielską **Krakow Chombo Club Association**.
-1. Stowarzyszenie może używać wyróżniającego go znaku graficznego ustalonego przez Władze Stowarzyszenia.
+1. Stowarzyszenie może używać wyróżniającego go znaku graficznego ustalonego przez władze Stowarzyszenia.
 1. Działalność Stowarzyszenia oparta jest głównie o pracę społeczną członków. Stowarzyszenie dla realizacji swoich celów może zatrudniać pracowników w ramach stosunku pracy i umów cywilnoprawnych.
 1. Stowarzyszenie może należeć do innych krajowych i międzynarodowych organizacji o podobnych celach.
 
@@ -296,8 +296,8 @@ Do kompetencji Komisji Rewizyjnej należy:
 
 1. kontrola działalności Stowarzyszenia;
 1. składanie wniosków z kontroli na Walnym Zebraniu;
-1. prawo wnioskowania o zwołanie Walnego Zebrania;
-1. zgłaszania wniosków dotyczących działalności Zarządu Stowarzyszenia.
+1. składanie wniosków o zwołanie Walnego Zebrania;
+1. składanie wniosków dotyczących działalności Zarządu Stowarzyszenia.
 1. składanie wniosków absolutorium dla Członków Zarządu Stowarzyszenia;
 1. składanie sprawozdań ze swej działalności na Walnym Zebraniu.
 
@@ -353,7 +353,7 @@ W Stowarzyszeniu obowiązuje zakaz:
 # Postanowienia końcowe
 
 §
-Uchwałę w sprawie zmiany statutu oraz uchwałę o rozwiązaniu stowarzyszenia podejmuje Walne Zebranie większością dwóch trzecich głosów przy obecności co najmniej połowy uprawnionych do głosowania.
+Uchwałę w sprawie zmiany statutu oraz uchwałę o rozwiązaniu Stowarzyszenia podejmuje Walne Zebranie większością dwóch trzecich głosów przy obecności co najmniej połowy uprawnionych do głosowania.
 
 §
 Podejmując uchwałę o rozwiązaniu Stowarzyszenia, Walne Zebranie określa sposób jego likwidacji, w tym wybiera likwidatora lub likwidatorów i określa sposób reprezentacji Stowarzyszenia w okresie likwidacji oraz przeznaczenie majątku Stowarzyszenia.
