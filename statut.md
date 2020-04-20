@@ -302,32 +302,15 @@ Do kompetencji Komisji Rewizyjnej należy:
 1. składanie sprawozdań ze swej działalności na Walnym Zebraniu.
 
 §
-Przewodniczący i delegowani członkowie Komisji Rewizyjnej mają prawo brać udział z głosem doradczym w posiedzeniach Zarządu.
-
-§
-Członkowie Komisji Rewizyjnej nie mogą pełnić innych funkcji we władzach Stowarzyszenia.
-
-§
 Komisja Rewizyjna działa na podstawie uchwalonego przez siebie regulaminu.
 
 §
-Członkowie Komisji Rewizyjnej nie mogą pozostawać w żadnym stosunku pokrewieństwa, powinowactwa lub podległości służbowej z tytułu zatrudnienia z członkami Zarządu.
+Członkowie Komisji Rewizyjnej nie mogą pełnić innych funkcji w Zarządzie Stowarzyszenia ani pozostawać w żadnym stosunku pokrewieństwa, powinowactwa lub podległości służbowej z tytułu zatrudnienia z członkami Zarządu.
 
 §
 Członkowie Komisji Rewizyjnej nie mogą być skazani prawomocnymi wyrokami za przestępstwa umyślne ścigane z oskarżenia publicznego.
 
 # Majątek i fundusze Stowarzyszenia
-
-§
-Stowarzyszenie odpowiada za swoje zobowiązania całym swoim majątkiem.
-
-§
-W skład majątku Stowarzyszenia mogą wchodzić:
-
-1. nieruchomości;
-1. ruchomości;
-1. fundusze;
-1. inne prawa majątkowe.
 
 §
 Przychody Stowarzyszenia pochodzą z:
@@ -342,7 +325,7 @@ Przychody Stowarzyszenia pochodzą z:
 1. jednostek uczestnictwa w spółkach prawa handlowego (udziałów, akcji, ogółu praw i obowiązków w spółkach osobowych prawa handlowego).
 
 §
-Wszelkie środki finansowe otrzymane i uzyskane przez Stowarzyszenie mogą być wykorzystane tylko na sfinansowanie realizacji jego celów.
+Wszelkie środki finansowe otrzymane i uzyskane przez Stowarzyszenie mogą być wykorzystane tylko na finansowanie realizacji jego celów.
 
 §
 Darowizny, spadki i zapisy mogą być użyte na realizację wszystkich celów Stowarzyszenia, o ile ofiarodawcy nie postanowili inaczej, jednakże postanowienie ofiarodawców nie może być sprzeczne z celami statutowymi Stowarzyszenia.
@@ -351,16 +334,13 @@ Darowizny, spadki i zapisy mogą być użyte na realizację wszystkich celów St
 W przypadku powołania Stowarzyszenia do dziedziczenia, Zarząd składając oświadczenie o przyjęciu spadku może dokonać wyłącznie przyjęcia spadku z dobrodziejstwem inwentarza.
 
 §
-Wszelkie środki pieniężne mogą być przechowywane wyłącznie na rachunku bankowym Stowarzyszenia i wypłacane stamtąd tylko na potrzeby bieżącej działalności.
-
-§
 Stowarzyszenie prowadzi gospodarkę pieniężną zgodnie z obowiązującymi przepisami.
 
 §
 Rokiem obrotowym jest rok kalendarzowy.
 
 §
-Do zawierania umów, udzielania pełnomocnictwa i składania innych oświadczeń woli w sprawach majątkowych wymagane są podpisy dwóch członków Zarządu działających łącznie, w tym Prezesa lub Wiceprezesa Stowarzyszenia. Dla ważności innych pism lub dokumentów wymagany jest podpis Prezesa lub innego upoważnionego członka Zarządu.
+Do reprezentowania Stowarzyszenia, w tym w sprawach majątkowych, uprawniony jest Prezes Zarządu samodzielnie lub wymagane jest współdziałanie dwóch członków Zarządu, z tym zastrzeżeniem, że w sprawach obejmujących rozporządzenie prawem lub zaciągnięcie zobowiązania do świadczenia o wartości przewyższającej 1000 zł wymagane jest współdziałanie dwóch członków Zarządu Stowarzyszenia, w tym Prezesa Zarządu lub Wiceprezesa Zarządu.
 
 §
 W Stowarzyszeniu obowiązuje zakaz:
