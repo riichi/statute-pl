@@ -246,7 +246,7 @@ Do kompetencji Walnego Zebrania Członków należy:
 Zarząd jest powoływany do kierowania działalnością Stowarzyszenia zgodnie z uchwałami Walnego Zebrania i reprezentowania Stowarzyszenia na zewnątrz.
 
 §
-Zarząd składa się z Prezesa, Wiceprezesa oraz od trzech do pięciu członków Zarządu.
+Zarząd składa się z Prezesa, Wiceprezesa oraz od jednego do pięciu członków Zarządu.
 
 §
 Członkom Zarządu może zostać, uchwałą Walnego Zebrania, przyznane wynagrodzenie za czynności wykonywane w związku z pełnioną funkcją.
