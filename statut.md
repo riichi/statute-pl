@@ -88,7 +88,7 @@ Członkami Stowarzyszenia mogą zostać:
 
 §
 Członkiem zwyczajnym Stowarzyszenia może zostać osoba fizyczna, która złoży deklarację członkowską, opłaci składkę i uzyska pozytywną rekomendację dwóch członków zwyczajnych Stowarzyszenia.
-Decyzję w przedmiocie przyjęcia kandydata na członka zwyczajnego podejmuje Zarząd Stowarzyszenia nie później niż w ciągu miesiąca od daty złożenia deklaracji członkowskiej.
+Decyzję w przedmiocie przyjęcia kandydata na członka zwyczajnego podejmuje Zarząd nie później niż w ciągu miesiąca od daty złożenia deklaracji członkowskiej.
 
 §
 Członkiem wspierającym Stowarzyszenia może zostać osoba fizyczna lub prawna, która złoży pisemną deklarację członkowską członka wspierającego obejmującą deklarację pomocy finansowej, rzeczowej lub merytorycznej w realizacji celów Stowarzyszenia.
@@ -96,19 +96,19 @@ Członkiem wspierającym zostaje się na podstawie uchwały Zarządu podjętej n
 
 §
 Członkiem honorowym Stowarzyszenia może zostać osoba fizyczna, która wniosła wybitny wkład w działalność i rozwój Stowarzyszenia.
-Członkiem honorowym staje się po przyjęciu uchwały przez Walne Zebranie na wniosek Zarządu albo co najmniej pięciu członków zwyczajnych Stowarzyszenia, za zgodą osoby zainteresowanej.
+Członkiem honorowym staje się po przyjęciu uchwały przez Walne Zebranie Członków na wniosek Zarządu albo co najmniej pięciu członków zwyczajnych Stowarzyszenia, za zgodą osoby zainteresowanej.
 
 §
-W przypadku odrzucenia deklaracji członkowskiej kandydatowi przysługuje odwołanie się od decyzji Zarządu do Walnego Zebrania.
+W przypadku odrzucenia deklaracji członkowskiej kandydatowi przysługuje odwołanie się od decyzji Zarządu do Walnego Zebrania Członków.
 Odwołanie wnosi się na piśmie, za pośrednictwem Zarządu, w terminie 14 dni od otrzymania odmownej decyzji.
-Odwołanie jest rozpatrywane na najbliższym Walnym Zebraniu.
-Decyzja Walnego Zebrania jest ostateczna.
+Odwołanie jest rozpatrywane na najbliższym Walnym Zebraniu Członków.
+Decyzja Walnego Zebrania Członków jest ostateczna.
 
 §
 Każdy członek zwyczajny ma obowiązek:
 
 1. brania czynnego udziału w działalności Stowarzyszenia i realizacji jego celów;
-1. przestrzegania statutu i uchwał władz Stowarzyszenia;
+1. przestrzegania Statutu i uchwał władz Stowarzyszenia;
 1. regularnego opłacania składek członkowskich;
 1. dbania o dobre imię Stowarzyszenia.
 
@@ -127,10 +127,10 @@ Członkowie zwyczajni mają prawo do biernego, a także, o ile Statut nie stanow
 Członkowie wspierający i honorowi nie posiadają biernego oraz czynnego prawa wyborczego, mogą jednak brać udział z głosem doradczym w Walnym Zebraniu Członków; poza tym, o ile Statut nie stanowi inaczej, posiadają takie prawa jak członkowie zwyczajni.
 
 §
-Członek wspierający ma obowiązek wywiązywania się z zadeklarowanych świadczeń, przestrzegania statutu oraz uchwał władz Stowarzyszenia.
+Członek wspierający ma obowiązek wywiązywania się z zadeklarowanych świadczeń, przestrzegania Statutu oraz uchwał władz Stowarzyszenia.
 
 §
-Członkowie honorowi są zobowiązani do przestrzegania statutu oraz uchwał władz Stowarzyszenia.
+Członkowie honorowi są zobowiązani do przestrzegania Statutu oraz uchwał władz Stowarzyszenia.
 Są zwolnieni ze składek członkowskich.
 
 §
@@ -146,10 +146,10 @@ Utrata członkostwa następuje na skutek:
 1. utraty praw publicznych na mocy prawomocnego wyroku sądu.
 
 §
-Od uchwały Zarządu w sprawie pozbawienia członkostwa w Stowarzyszeniu jej adresatowi przysługuje prawo wniesienia pisemnego odwołania do Walnego Zebrania.
+Od uchwały Zarządu w sprawie pozbawienia członkostwa w Stowarzyszeniu jej adresatowi przysługuje prawo wniesienia pisemnego odwołania do Walnego Zebrania Członków.
 Odwołanie wnosi się za pośrednictwem Zarządu w terminie 14 dni od daty doręczenia stosownej uchwały.
-Odwołanie jest rozpatrywane na najbliższym Walnym Zebraniu.
-Uchwała Walnego Zebrania jest ostateczna.
+Odwołanie jest rozpatrywane na najbliższym Walnym Zebraniu Członków.
+Uchwała Walnego Zebrania Członków jest ostateczna.
 Uchwała Zarządu w przedmiocie pozbawienia członkostwa staje się w pełni skuteczna z chwilą bezskutecznego upływu terminu do wniesienia od niej odwołania.
 Do czasu upływu terminu do wniesienia odwołania, a w przypadku złożenia takiego odwołania, do czasu jego rozpatrzenia, członkostwo jest zawieszone.
 W okresie zawieszenia członkostwa zawieszony członek nie jest zobowiązany do wypełniania swych obowiązków członkowskich, ani nie jest uprawniony do realizowania swoich praw członkowskich.
@@ -159,7 +159,7 @@ W okresie zawieszenia członkostwa zawieszony członek nie jest zobowiązany do 
 §
 Władze Stowarzyszenia dzielą się na:
 
-1. Walne Zebranie Członków (zwane też w Statucie "Walnym Zebraniem");
+1. Walne Zebranie Członków;
 1. Zarząd;
 1. Komisję Rewizyjną.
 
@@ -183,7 +183,7 @@ W tym trybie można powołać nie więcej niż połowę składu organu.
 Walne Zebranie Członków jest najwyższą władzą Stowarzyszenia.
 
 §
-W Walnym Zebraniu biorą udział:
+W Walnym Zebraniu Członków biorą udział:
 
 1. z głosem stanowiącym --- członkowie zwyczajni;
 1. z głosem doradczym --- członkowie wspierający, członkowie honorowi i goście zaproszeni przez Zarząd lub Komisję Rewizyjną.
@@ -192,40 +192,40 @@ W Walnym Zebraniu biorą udział:
 Walne Zebranie Członków może być zwyczajne i nadzwyczajne.
 
 §
-Walne Zebranie, którego przedmiotem jest zatwierdzenie rocznego sprawozdania Zarządu z działalności Stowarzyszenia, zatwierdzenie rocznego sprawozdania Komisji Rewizyjnej, sprawozdania finansowego za poprzedni rok obrotowy, oraz udzielenie absolutorium członkom Zarządu z wykonania przez nich obowiązków jest Walnym Zebraniem Zwyczajnym.
+Walne Zebranie Członków, którego przedmiotem jest zatwierdzenie rocznego sprawozdania Zarządu z działalności Stowarzyszenia, zatwierdzenie rocznego sprawozdania Komisji Rewizyjnej, sprawozdania finansowego za poprzedni rok obrotowy, oraz udzielenie absolutorium członkom Zarządu z wykonania przez nich obowiązków jest Walnym Zebraniem Zwyczajnym.
 
 §
-Walne Zebranie Zwyczajne jest zwoływane raz na rok przez Zarząd Stowarzyszenia.
+Walne Zebranie Zwyczajne jest zwoływane raz na rok przez Zarząd.
 
 §
 Walne Zebranie Nadzwyczajne może się odbyć w każdym czasie.
 Jest zwoływane przez Zarząd z jego inicjatywy, na wniosek Komisji Rewizyjnej lub pisemny wniosek co najmniej jednej trzeciej ogólnej liczby członków Stowarzyszenia z głosem stanowiącym, w terminie 30 dni od daty złożenia wniosku.
 
 §
-W zakresie i z zachowaniem warunków przewidzianych przepisami prawa, możliwy jest udział w Walnym Zebraniu przy wykorzystaniu środków komunikacji elektronicznej --- Statut nie wyłącza możliwości udziału w Walnych Zebraniach przy wykorzystaniu środków komunikacji elektronicznej przewidzianej przepisami prawa.
+W zakresie i z zachowaniem warunków przewidzianych przepisami prawa, możliwy jest udział w Walnym Zebraniu Członków przy wykorzystaniu środków komunikacji elektronicznej --- Statut nie wyłącza możliwości udziału w Walnych Zebraniach Członków przy wykorzystaniu środków komunikacji elektronicznej przewidzianej przepisami prawa.
 
 §
-Walne Zebrania Zarząd zwołuje zawiadamiając wszystkich członków Stowarzyszenia za pomocą listów poleconych lub przesyłek nadanych pocztą kurierską.
+Walne Zebrania Członków Zarząd zwołuje zawiadamiając wszystkich członków Stowarzyszenia za pomocą listów poleconych lub przesyłek nadanych pocztą kurierską.
 Dopuszczalne jest dokonanie zwołania poprzez wysłanie członkowi Stowarzyszenia zaproszenia pocztą elektroniczną, jeżeli uprzednio wyraził pisemną zgodę na dokonywanie wobec niego korespondencji w tej formie, podając adres, na który korespondencja powinna być wysyłana.
 W zaproszeniu należy oznaczyć dzień, godzinę i miejsce posiedzenia oraz planowany porządek obrad.
 W przypadku zamierzonej zmiany Statutu należy wskazać istotne elementy treści proponowanych zmian.
 
 Zaproszenie jest skuteczne:
 
-1. w przypadku dokonania zawiadomienia za pomocą listu poleconego lub przesyłki nadanej pocztą kurierską, jeżeli zaproszenie zostało wysłane co najmniej dwa tygodnie przed terminem Walnego Zebrania;
+1. w przypadku dokonania zawiadomienia za pomocą listu poleconego lub przesyłki nadanej pocztą kurierską, jeżeli zaproszenie zostało wysłane co najmniej dwa tygodnie przed terminem Walnego Zebrania Członków;
 1. w przypadku dokonania zawiadomienia przy wykorzystaniu poczty elektronicznej, jeżeli zaproszenie zostało wysłane co najmniej 14 dni przed terminem Walnego Zebrania Zwyczajnego, a co najmniej 7 dni przed terminem Walnego Zebrania Nadzwyczajnego.
 
 §
 
-1. O ile Statut nie stanowi inaczej, uchwały Walnego Zebrania Stowarzyszenia zapadają zwykłą większością głosów oddanych, bez względu na liczbę obecnych członków Stowarzyszenia.
+1. O ile Statut nie stanowi inaczej, uchwały Walnego Zebrania Członków zapadają zwykłą większością głosów oddanych, bez względu na liczbę obecnych członków Stowarzyszenia.
    Głosowanie jest jawne z możliwością utajnienia na wniosek dowolnego członka zwyczajnego obecnego na Walnym Zebraniu Członków.
 1. Uchwały dotyczące powoływania i odwoływania członków Zarządu zapadają bezwzględną większością głosów oddanych.
 
 §
-Obradami Walnego Zebrania kieruje każdorazowo wybierane Prezydium w składzie: przewodniczący i sekretarz.
+Obradami Walnego Zebrania Członków kieruje każdorazowo wybierane Prezydium w składzie: przewodniczący i sekretarz.
 Wybierani są oni za każdym razem przez uczestników Walnego Zebrania Członków.
 Sekretarz pełni rolę protokolanta.
-Z obrad Walnego Zebrania sporządza się protokół.
+Z obrad Walnego Zebrania Członków sporządza się protokół.
 Protokół podpisują członkowie Prezydium.
 Do protokołu dołącza się listę obecności.
 
@@ -233,7 +233,7 @@ Do protokołu dołącza się listę obecności.
 Do kompetencji Walnego Zebrania Członków należy:
 
 1. uchwalanie kierunków rozwoju działalności Stowarzyszenia;
-1. uchwalanie zmian statutu;
+1. uchwalanie zmian Statutu;
 1. powoływanie i odwoływanie członków Zarządu, w tym Prezesa i Wiceprezesa, a także członków Komisji Rewizyjnej, w tym Przewodniczącego Komisji Rewizyjnej;
 1. udzielanie członkom Zarządu absolutorium na wniosek Komisji Rewizyjnej;
 1. rozpatrywanie sprawozdań z działalności Zarządu i Komisji Rewizyjnej;
@@ -247,13 +247,13 @@ Do kompetencji Walnego Zebrania Członków należy:
 ## Zarząd Stowarzyszenia
 
 §
-Zarząd jest powoływany do kierowania działalnością Stowarzyszenia zgodnie z uchwałami Walnego Zebrania i reprezentowania Stowarzyszenia na zewnątrz.
+Zarząd jest powoływany do kierowania działalnością Stowarzyszenia zgodnie z uchwałami Walnego Zebrania Członków i reprezentowania Stowarzyszenia na zewnątrz.
 
 §
 Zarząd składa się z trzech do siedmiu członków Zarządu, w tym Prezesa i Wiceprezesa.
 
 §
-Członkom Zarządu może zostać, uchwałą Walnego Zebrania, przyznane wynagrodzenie za czynności wykonywane w związku z pełnioną funkcją.
+Członkom Zarządu może zostać, uchwałą Walnego Zebrania Członków, przyznane wynagrodzenie za czynności wykonywane w związku z pełnioną funkcją.
 
 §
 Członkami Zarządu mogą być wyłącznie osoby fizyczne mające pełną zdolność do czynności prawnych.
@@ -265,10 +265,10 @@ Członkami Zarządu mogą być wyłącznie osoby fizyczne mające pełną zdolno
 1. Uchwały Zarządu podejmowane na posiedzeniach zapadają w głosowaniu jawnym, zwykłą większością głosów oddanych.
    W przypadku równego rozłożenia głosów decyduje głos Prezesa.
 1. Posiedzenia Zarządu odbywają się w miarę potrzeb, nie rzadziej jednak niż raz na kwartał.
-   Posiedzenia Zarządu zwołuje Prezes Zarządu lub działających łącznie co najmniej dwóch członków Zarządu, w tym Wiceprezes Zarządu.
+   Posiedzenia Zarządu zwołuje Prezes lub działających łącznie co najmniej dwóch członków Zarządu, w tym Wiceprezes.
    Posiedzenia Zarządu zwołuje się zawiadamiając wszystkich członków Zarządu pocztą elektroniczną wysłaną co najmniej pięć dni przed terminem posiedzenia na adres podany w tym celu przez członka Zarządu przy obejmowaniu funkcji w Zarządzie.
-   Posiedzeniom Zarządu przewodniczy Prezes Zarządu.
-   W przypadku nieobecności Prezesa Zarządu, przewodniczącego posiedzenia wybierają obecni na posiedzeniu członkowie Zarządu.
+   Posiedzeniom Zarządu przewodniczy Prezes.
+   W przypadku nieobecności Prezesa, przewodniczącego posiedzenia wybierają obecni na posiedzeniu członkowie Zarządu.
    Z posiedzeń Zarządu sporządza się protokół.
    Protokół podpisuje osoba odpowiedzialna za jego sporządzenie (osoba wskazana w toku posiedzenia jako protokolant) oraz co najmniej jeden członek Zarządu obecny na posiedzeniu.
    Do protokołu dołącza się listę obecności.
@@ -276,24 +276,24 @@ Członkami Zarządu mogą być wyłącznie osoby fizyczne mające pełną zdolno
 §
 Zarząd może podejmować uchwały bez odbycia posiedzenia, w drodze głosowania pisemnego lub głosowania za pośrednictwem poczty elektronicznej lub głosowania przy wykorzystaniu środków bezpośredniego porozumiewania się na odległość.
 Uchwały podejmowane poza posiedzeniem zapadają zwykłą większością głosów oddanych.
-W przypadku równego rozłożenia głosów decyduje głos Prezesa Zarządu.
+W przypadku równego rozłożenia głosów decyduje głos Prezesa.
 Uchwała Zarządu podjęta poza posiedzeniem jest ważna, jeżeli wszyscy członkowie Zarządu zostali powiadomieni o treści projektu uchwały.
 
 §
 Do kompetencji Zarządu należy:
 
 1. realizacja celów Stowarzyszenia;
-1. wykonywanie uchwał Walnego Zebrania;
+1. wykonywanie uchwał Walnego Zebrania Członków;
 1. sporządzanie planów pracy i budżetu;
 1. sprawowanie zarządu nad majątkiem Stowarzyszenia;
 1. przyjmowanie członków zwyczajnych i wspierających, pozbawianie ich członkostwa;
 1. rozpatrywanie wniosków i postulatów zgłoszonych przez członków Stowarzyszenia;
 1. reprezentowanie Stowarzyszenia na zewnątrz;
-1. zwoływanie Walnego Zebrania.
+1. zwoływanie Walnego Zebrania Członków.
 
 §
 Każdy członek Zarządu ma prawo i obowiązek prowadzenia spraw Stowarzyszenia.
-Każdy członek Zarządu Stowarzyszenia może prowadzić bez uprzedniej uchwały Zarządu sprawy nieprzekraczające zakresu zwykłych czynności Stowarzyszenia.
+Każdy członek Zarządu może prowadzić bez uprzedniej uchwały Zarządu sprawy nieprzekraczające zakresu zwykłych czynności Stowarzyszenia.
 Jeżeli jednak przed załatwieniem sprawy nieprzekraczającej zakresu zwykłych czynności Stowarzyszenia choćby jeden z pozostałych członków Zarządu sprzeciwi się jej przeprowadzeniu lub jeżeli sprawa przekracza zakres zwykłych czynności Stowarzyszenia, wymagana jest uprzednia uchwała Zarządu.
 
 §
@@ -324,22 +324,22 @@ Członkami Komisji Rewizyjnej mogą być wyłącznie osoby fizyczne mające peł
 
 §
 
-1. O ile Statut nie stanowi inaczej Komisja Rewizyjna podejmuje rozstrzygnięcia w postaci uchwał podejmowanych na posiedzeniach.
+1. O ile Statut nie stanowi inaczej, Komisja Rewizyjna podejmuje rozstrzygnięcia w postaci uchwał podejmowanych na posiedzeniach.
    O posiedzeniu muszą zostać poinformowani wszyscy członkowie Komisji Rewizyjnej --- uchwały Komisji Rewizyjnej mogą być podjęte na posiedzeniu, jeżeli wszyscy członkowie zostali o tym posiedzeniu zawiadomieni.
    Uchwały podejmowane na posiedzeniach zapadają zwykłą większością głosów oddanych.
-   W przypadku równego rozłożenia głosów decyduje głos Przewodniczącego.
+   W przypadku równego rozłożenia głosów decyduje głos Przewodniczącego Komisji Rewizyjnej.
    O ile Komisja Rewizyjna nie postanowi inaczej, uchwały podejmowane na posiedzeniach zapadają w głosowaniu jawnym.
 1. Posiedzenia Komisji Rewizyjnej odbywają się w miarę potrzeb, nie rzadziej jednak niż raz na 6 miesięcy.
    Posiedzenia Komisji Rewizyjnej zwołuje Przewodniczący Komisji Rewizyjnej lub działających łącznie co najmniej dwóch członków Komisji Rewizyjnej.
    Posiedzenia Komisji Rewizyjnej zwołuje się zawiadamiając wszystkich członków Komisji Rewizyjnej pocztą elektroniczną wysłaną co najmniej pięć dni przed terminem posiedzenia na adres podany w tym celu przez członka Komisji Rewizyjnej przy obejmowaniu funkcji w Komisji Rewizyjnej.
    Posiedzeniom Komisji Rewizyjnej przewodniczy Przewodniczący Komisji Rewizyjnej.
-   W przypadku nieobecności Przewodniczącego, przewodniczącego posiedzenia wybierają obecni na posiedzeniu członkowie Komisji Rewizyjnej.
+   W przypadku nieobecności Przewodniczącego Komisji Rewizyjnej, przewodniczącego posiedzenia wybierają obecni na posiedzeniu członkowie Komisji Rewizyjnej.
    Z posiedzeń Komisji Rewizyjnej sporządza się protokół.
    Protokół podpisuje osoba odpowiedzialna za jego sporządzenie (osoba wskazana w toku posiedzenia jako protokolant) oraz co najmniej jeden członek Komisji Rewizyjnej obecny na posiedzeniu.
    Do protokołu dołącza się listę obecności.
 1. Komisja Rewizyjna może podejmować uchwały bez odbycia posiedzenia, w drodze głosowania pisemnego lub głosowania za pośrednictwem poczty elektronicznej lub głosowania przy wykorzystaniu środków bezpośredniego porozumiewania się na odległość.
    Uchwały podejmowane poza posiedzeniem zapadają zwykłą większością głosów oddanych.
-   W przypadku równego rozłożenia głosów decyduje głos Przewodniczącego.
+   W przypadku równego rozłożenia głosów decyduje głos Przewodniczącego Komisji Rewizyjnej.
    Uchwała Komisji Rewizyjnej podjęta poza posiedzeniem jest ważna, jeżeli wszyscy członkowie Komisji Rewizyjnej zostali powiadomieni o treści projektu uchwały.
 
 §
@@ -357,7 +357,7 @@ Komisji Rewizyjnej ma prawo do uchwalenia regulaminu Komisji Rewizyjnej.
 W przypadku uchwalenia regulaminu, Komisja Rewizyjna działa na jego podstawie.
 
 §
-Członkowie Komisji Rewizyjnej nie mogą pełnić innych funkcji w Zarządzie Stowarzyszenia ani pozostawać w żadnym stosunku pokrewieństwa, powinowactwa lub podległości służbowej z tytułu zatrudnienia z członkami Zarządu.
+Członkowie Komisji Rewizyjnej nie mogą pełnić innych funkcji w Zarządzie ani pozostawać w żadnym stosunku pokrewieństwa, powinowactwa lub podległości służbowej z tytułu zatrudnienia z członkami Zarządu.
 
 §
 Członkowie Komisji Rewizyjnej nie mogą być skazani prawomocnymi wyrokami za przestępstwa umyślne ścigane z oskarżenia publicznego.
@@ -392,7 +392,7 @@ Stowarzyszenie prowadzi gospodarkę pieniężną zgodnie z obowiązującymi prze
 Rokiem obrotowym jest rok kalendarzowy.
 
 §
-Do reprezentowania Stowarzyszenia, w tym w sprawach majątkowych, uprawniony jest Prezes Zarządu samodzielnie lub wymagane jest współdziałanie dwóch członków Zarządu, z tym zastrzeżeniem, że w sprawach obejmujących rozporządzenie prawem lub zaciągnięcie zobowiązania do świadczenia o wartości przewyższającej 1000 zł wymagane jest współdziałanie dwóch członków Zarządu Stowarzyszenia, w tym Prezesa Zarządu lub Wiceprezesa Zarządu.
+Do reprezentowania Stowarzyszenia, w tym w sprawach majątkowych, uprawniony jest Prezes samodzielnie lub wymagane jest współdziałanie dwóch członków Zarządu, z tym zastrzeżeniem, że w sprawach obejmujących rozporządzenie prawem lub zaciągnięcie zobowiązania do świadczenia o wartości przewyższającej 1000 zł wymagane jest współdziałanie dwóch członków Zarządu, w tym Prezesa lub Wiceprezesa.
 
 §
 W Stowarzyszeniu obowiązuje zakaz:
@@ -405,10 +405,10 @@ W Stowarzyszeniu obowiązuje zakaz:
 # Postanowienia końcowe
 
 §
-Uchwałę w sprawie zmiany statutu oraz uchwałę o rozwiązaniu Stowarzyszenia podejmuje Walne Zebranie większością dwóch trzecich głosów przy obecności co najmniej połowy uprawnionych do głosowania.
+Uchwałę w sprawie zmiany Statutu oraz uchwałę o rozwiązaniu Stowarzyszenia podejmuje Walne Zebranie Członków większością dwóch trzecich głosów przy obecności co najmniej połowy uprawnionych do głosowania.
 
 §
-Podejmując uchwałę o rozwiązaniu Stowarzyszenia, Walne Zebranie określa sposób jego likwidacji, w tym wybiera likwidatora lub likwidatorów i określa sposób reprezentacji Stowarzyszenia w okresie likwidacji oraz przeznaczenie majątku Stowarzyszenia.
+Podejmując uchwałę o rozwiązaniu Stowarzyszenia, Walne Zebranie Członków określa sposób jego likwidacji, w tym wybiera likwidatora lub likwidatorów i określa sposób reprezentacji Stowarzyszenia w okresie likwidacji oraz przeznaczenie majątku Stowarzyszenia.
 
 §
 Do wszystkich spraw nieobjętych Statutem stosuje się odpowiednie przepisy Prawa o stowarzyszeniach oraz inne przepisy obowiązujące na terenie Rzeczypospolitej Polskiej.
