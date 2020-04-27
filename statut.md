@@ -250,7 +250,7 @@ Do kompetencji Walnego Zebrania Członków należy:
 Zarząd jest powoływany do kierowania działalnością Stowarzyszenia zgodnie z uchwałami Walnego Zebrania i reprezentowania Stowarzyszenia na zewnątrz.
 
 §
-Zarząd składa się z Prezesa, Wiceprezesa oraz od jednego do pięciu członków Zarządu.
+Zarząd składa się z trzech do siedmiu członków Zarządu, w tym Prezesa i Wiceprezesa.
 
 §
 Członkom Zarządu może zostać, uchwałą Walnego Zebrania, przyznane wynagrodzenie za czynności wykonywane w związku z pełnioną funkcją.
@@ -317,7 +317,7 @@ Komisja Rewizyjna powołana jest do sprawowania kontroli nad działalnością St
 Kontrola przeprowadzana jest nie rzadziej niż raz w roku.
 
 §
-Komisja Rewizyjna składa się Przewodniczącego i od dwóch do czterech członków.
+Komisja Rewizyjna składa się z trzech do pięciu członków Komisji Rewizyjnej, w tym Przewodniczącego Komisji Rewizyjnej.
 
 §
 Członkami Komisji Rewizyjnej mogą być wyłącznie osoby fizyczne mające pełną zdolność do czynności prawnych.
