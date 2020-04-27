@@ -261,7 +261,7 @@ Członkami Zarządu mogą być wyłącznie osoby fizyczne mające pełną zdolno
 §
 
 1. O ile Statut nie stanowi inaczej, Zarząd podejmuje uchwały na posiedzeniach.
-   O posiedzeniu muszą zostać poinformowani wszyscy członkowie Zarządu - uchwały Zarządu mogą być podjęte na posiedzeniu, jeżeli wszyscy członkowie zostali o tym posiedzeniu zawiadomieni.
+   O posiedzeniu muszą zostać poinformowani wszyscy członkowie Zarządu --- uchwały Zarządu mogą być podjęte na posiedzeniu, jeżeli wszyscy członkowie zostali o tym posiedzeniu zawiadomieni.
 1. Uchwały Zarządu podejmowane na posiedzeniach zapadają w głosowaniu jawnym, zwykłą większością głosów oddanych.
    W przypadku równego rozłożenia głosów decyduje głos Prezesa.
 1. Posiedzenia Zarządu odbywają się w miarę potrzeb, nie rzadziej jednak niż raz na kwartał.
@@ -325,7 +325,7 @@ Członkami Komisji Rewizyjnej mogą być wyłącznie osoby fizyczne mające peł
 §
 
 1. O ile Statut nie stanowi inaczej Komisja Rewizyjna podejmuje rozstrzygnięcia w postaci uchwał podejmowanych na posiedzeniach.
-   O posiedzeniu muszą zostać poinformowani wszyscy członkowie Komisji Rewizyjnej - uchwały Komisji Rewizyjnej mogą być podjęte na posiedzeniu, jeżeli wszyscy członkowie zostali o tym posiedzeniu zawiadomieni.
+   O posiedzeniu muszą zostać poinformowani wszyscy członkowie Komisji Rewizyjnej --- uchwały Komisji Rewizyjnej mogą być podjęte na posiedzeniu, jeżeli wszyscy członkowie zostali o tym posiedzeniu zawiadomieni.
    Uchwały podejmowane na posiedzeniach zapadają zwykłą większością głosów oddanych.
    W przypadku równego rozłożenia głosów decyduje głos Przewodniczącego.
    O ile Komisja Rewizyjna nie postanowi inaczej, uchwały podejmowane na posiedzeniach zapadają w głosowaniu jawnym.
