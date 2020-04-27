@@ -348,7 +348,7 @@ Do kompetencji Komisji Rewizyjnej należy:
 1. kontrola działalności Stowarzyszenia;
 1. składanie wniosków z kontroli na Walnym Zebraniu Członków;
 1. składanie wniosków o zwołanie Walnego Zebrania Członków;
-1. składanie wniosków dotyczących działalności Zarządu.
+1. składanie wniosków dotyczących działalności Zarządu;
 1. składanie wniosków w przedmiocie udzielenia absolutorium dla członków Zarządu;
 1. składanie sprawozdań ze swej działalności na Walnym Zebraniu Członków.
 
