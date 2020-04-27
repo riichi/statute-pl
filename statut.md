@@ -244,7 +244,7 @@ Do kompetencji Walnego Zebrania Członków należy:
 1. podejmowanie uchwał w każdej sprawie wniesionej pod obrady;
 1. podjęcie uchwały o rozwiązaniu Stowarzyszenia i przeznaczeniu jego majątku.
 
-## Zarząd Stowarzyszenia
+## Zarząd
 
 §
 Zarząd jest powoływany do kierowania działalnością Stowarzyszenia zgodnie z uchwałami Walnego Zebrania Członków i reprezentowania Stowarzyszenia na zewnątrz.
@@ -346,11 +346,11 @@ Członkami Komisji Rewizyjnej mogą być wyłącznie osoby fizyczne mające peł
 Do kompetencji Komisji Rewizyjnej należy:
 
 1. kontrola działalności Stowarzyszenia;
-1. składanie wniosków z kontroli na Walnym Zebraniu;
-1. składanie wniosków o zwołanie Walnego Zebrania;
-1. składanie wniosków dotyczących działalności Zarządu Stowarzyszenia.
-1. składanie wniosków w przedmiocie udzielenia absolutorium dla Członków Zarządu;
-1. składanie sprawozdań ze swej działalności na Walnym Zebraniu.
+1. składanie wniosków z kontroli na Walnym Zebraniu Członków;
+1. składanie wniosków o zwołanie Walnego Zebrania Członków;
+1. składanie wniosków dotyczących działalności Zarządu.
+1. składanie wniosków w przedmiocie udzielenia absolutorium dla członków Zarządu;
+1. składanie sprawozdań ze swej działalności na Walnym Zebraniu Członków.
 
 §
 Komisji Rewizyjnej ma prawo do uchwalenia regulaminu Komisji Rewizyjnej.
