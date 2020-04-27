@@ -15,7 +15,8 @@ Stowarzyszenie jest osobą prawną i podlega wpisowi do Krajowego Rejestru Sądo
 1. Terenem działania Stowarzyszenia jest cały obszar Rzeczypospolitej Polskiej, przy czym w zakresie niezbędnym dla właściwego realizowania celów, Stowarzyszenie może prowadzić działalność także poza granicami Rzeczypospolitej Polskiej.
 1. Stowarzyszenie ma prawo posługiwać się odpowiednikami swojej nazwy w językach obcych na potrzeby współpracy z podmiotami zagranicznymi, w szczególności nazwą angielską **Krakow Chombo Club Association**.
 1. Stowarzyszenie może używać wyróżniającego go znaku graficznego ustalonego przez władze Stowarzyszenia.
-1. Działalność Stowarzyszenia oparta jest głównie o pracę społeczną członków. Stowarzyszenie dla realizacji swoich celów może zatrudniać pracowników w ramach stosunku pracy i umów cywilnoprawnych.
+1. Działalność Stowarzyszenia oparta jest głównie o pracę społeczną członków.
+   Stowarzyszenie dla realizacji swoich celów może zatrudniać pracowników w ramach stosunku pracy i umów cywilnoprawnych.
 1. Stowarzyszenie może należeć do innych krajowych i międzynarodowych organizacji o podobnych celach.
 
 # Cele Stowarzyszenia i sposoby ich realizacji
@@ -129,7 +130,8 @@ Członkowie wspierający i honorowi nie posiadają biernego oraz czynnego prawa 
 Członek wspierający ma obowiązek wywiązywania się z zadeklarowanych świadczeń, przestrzegania statutu oraz uchwał władz Stowarzyszenia.
 
 §
-Członkowie honorowi są zobowiązani do przestrzegania statutu oraz uchwał władz Stowarzyszenia. Są zwolnieni ze składek członkowskich.
+Członkowie honorowi są zobowiązani do przestrzegania statutu oraz uchwał władz Stowarzyszenia.
+Są zwolnieni ze składek członkowskich.
 
 §
 Utrata członkostwa następuje na skutek:
@@ -172,7 +174,8 @@ Mandat członka władzy wybieralnej Stowarzyszenia wygasa wraz z końcem jego ka
 Nieudzielenie absolutorium nie jest równoznaczne z odwołaniem z Zarządu i nie powoduje wygaśnięcia mandatu członka Zarządu.
 
 §
-W przypadku, gdy skład władz wybieralnych Stowarzyszenia ulegnie zmniejszeniu w czasie trwania kadencji, uzupełnienie ich składu może nastąpić w drodze kooptacji, której dokonują pozostali członkowie organu, który uległ zmniejszeniu. W tym trybie można powołać nie więcej niż połowę składu organu.
+W przypadku, gdy skład władz wybieralnych Stowarzyszenia ulegnie zmniejszeniu w czasie trwania kadencji, uzupełnienie ich składu może nastąpić w drodze kooptacji, której dokonują pozostali członkowie organu, który uległ zmniejszeniu.
+W tym trybie można powołać nie więcej niż połowę składu organu.
 
 ## Walne Zebranie Członków
 
@@ -195,7 +198,8 @@ Walne Zebranie, którego przedmiotem jest zatwierdzenie rocznego sprawozdania Za
 Walne Zebranie Zwyczajne jest zwoływane raz na rok przez Zarząd Stowarzyszenia.
 
 §
-Walne Zebranie Nadzwyczajne może się odbyć w każdym czasie. Jest zwoływane przez Zarząd z jego inicjatywy, na wniosek Komisji Rewizyjnej lub pisemny wniosek co najmniej jednej trzeciej ogólnej liczby członków Stowarzyszenia z głosem stanowiącym, w terminie 30 dni od daty złożenia wniosku.
+Walne Zebranie Nadzwyczajne może się odbyć w każdym czasie.
+Jest zwoływane przez Zarząd z jego inicjatywy, na wniosek Komisji Rewizyjnej lub pisemny wniosek co najmniej jednej trzeciej ogólnej liczby członków Stowarzyszenia z głosem stanowiącym, w terminie 30 dni od daty złożenia wniosku.
 
 §
 W zakresie i z zachowaniem warunków przewidzianych przepisami prawa, możliwy jest udział w Walnym Zebraniu przy wykorzystaniu środków komunikacji elektronicznej --- Statut nie wyłącza możliwości udziału w Walnych Zebraniach przy wykorzystaniu środków komunikacji elektronicznej przewidzianej przepisami prawa.
@@ -258,11 +262,22 @@ Członkami Zarządu mogą być wyłącznie osoby fizyczne mające pełną zdolno
 
 1. O ile Statut nie stanowi inaczej, Zarząd podejmuje uchwały na posiedzeniach.
    O posiedzeniu muszą zostać poinformowani wszyscy członkowie Zarządu - uchwały Zarządu mogą być podjęte na posiedzeniu, jeżeli wszyscy członkowie zostali o tym posiedzeniu zawiadomieni.
-1. Uchwały Zarządu podejmowane na posiedzeniach zapadają w głosowaniu jawnym, zwykłą większością głosów oddanych. W przypadku równego rozłożenia głosów decyduje głos Prezesa.
-1. Posiedzenia Zarządu odbywają się w miarę potrzeb, nie rzadziej jednak niż raz na kwartał. Posiedzenia Zarządu zwołuje Prezes Zarządu lub działających łącznie co najmniej dwóch członków Zarządu, w tym Wiceprezes Zarządu. Posiedzenia Zarządu zwołuje się zawiadamiając wszystkich członków Zarządu pocztą elektroniczną wysłaną co najmniej pięć dni przed terminem posiedzenia na adres podany w tym celu przez członka Zarządu przy obejmowaniu funkcji w Zarządzie. Posiedzeniom Zarządu przewodniczy Prezes Zarządu. W przypadku nieobecności Prezesa Zarządu, przewodniczącego posiedzenia wybierają obecni na posiedzeniu członkowie Zarządu. Z posiedzeń Zarządu sporządza się protokół. Protokół podpisuje osoba odpowiedzialna za jego sporządzenie (osoba wskazana w toku posiedzenia jako protokolant) oraz co najmniej jeden członek Zarządu obecny na posiedzeniu. Do protokołu dołącza się listę obecności.
+1. Uchwały Zarządu podejmowane na posiedzeniach zapadają w głosowaniu jawnym, zwykłą większością głosów oddanych.
+   W przypadku równego rozłożenia głosów decyduje głos Prezesa.
+1. Posiedzenia Zarządu odbywają się w miarę potrzeb, nie rzadziej jednak niż raz na kwartał.
+   Posiedzenia Zarządu zwołuje Prezes Zarządu lub działających łącznie co najmniej dwóch członków Zarządu, w tym Wiceprezes Zarządu.
+   Posiedzenia Zarządu zwołuje się zawiadamiając wszystkich członków Zarządu pocztą elektroniczną wysłaną co najmniej pięć dni przed terminem posiedzenia na adres podany w tym celu przez członka Zarządu przy obejmowaniu funkcji w Zarządzie.
+   Posiedzeniom Zarządu przewodniczy Prezes Zarządu.
+   W przypadku nieobecności Prezesa Zarządu, przewodniczącego posiedzenia wybierają obecni na posiedzeniu członkowie Zarządu.
+   Z posiedzeń Zarządu sporządza się protokół.
+   Protokół podpisuje osoba odpowiedzialna za jego sporządzenie (osoba wskazana w toku posiedzenia jako protokolant) oraz co najmniej jeden członek Zarządu obecny na posiedzeniu.
+   Do protokołu dołącza się listę obecności.
 
 §
-Zarząd może podejmować uchwały bez odbycia posiedzenia, w drodze głosowania pisemnego lub głosowania za pośrednictwem poczty elektronicznej lub głosowania przy wykorzystaniu środków bezpośredniego porozumiewania się na odległość. Uchwały podejmowane poza posiedzeniem zapadają zwykłą większością głosów oddanych. W przypadku równego rozłożenia głosów decyduje głos Prezesa Zarządu. Uchwała Zarządu podjęta poza posiedzeniem jest ważna, jeżeli wszyscy członkowie Zarządu zostali powiadomieni o treści projektu uchwały.
+Zarząd może podejmować uchwały bez odbycia posiedzenia, w drodze głosowania pisemnego lub głosowania za pośrednictwem poczty elektronicznej lub głosowania przy wykorzystaniu środków bezpośredniego porozumiewania się na odległość.
+Uchwały podejmowane poza posiedzeniem zapadają zwykłą większością głosów oddanych.
+W przypadku równego rozłożenia głosów decyduje głos Prezesa Zarządu.
+Uchwała Zarządu podjęta poza posiedzeniem jest ważna, jeżeli wszyscy członkowie Zarządu zostali powiadomieni o treści projektu uchwały.
 
 §
 Do kompetencji Zarządu należy:
@@ -277,7 +292,9 @@ Do kompetencji Zarządu należy:
 1. zwoływanie Walnego Zebrania.
 
 §
-Każdy członek Zarządu ma prawo i obowiązek prowadzenia spraw Stowarzyszenia. Każdy członek Zarządu Stowarzyszenia może prowadzić bez uprzedniej uchwały Zarządu sprawy nieprzekraczające zakresu zwykłych czynności Stowarzyszenia. Jeżeli jednak przed załatwieniem sprawy nieprzekraczającej zakresu zwykłych czynności Stowarzyszenia choćby jeden z pozostałych członków Zarządu sprzeciwi się jej przeprowadzeniu lub jeżeli sprawa przekracza zakres zwykłych czynności Stowarzyszenia, wymagana jest uprzednia uchwała Zarządu.
+Każdy członek Zarządu ma prawo i obowiązek prowadzenia spraw Stowarzyszenia.
+Każdy członek Zarządu Stowarzyszenia może prowadzić bez uprzedniej uchwały Zarządu sprawy nieprzekraczające zakresu zwykłych czynności Stowarzyszenia.
+Jeżeli jednak przed załatwieniem sprawy nieprzekraczającej zakresu zwykłych czynności Stowarzyszenia choćby jeden z pozostałych członków Zarządu sprzeciwi się jej przeprowadzeniu lub jeżeli sprawa przekracza zakres zwykłych czynności Stowarzyszenia, wymagana jest uprzednia uchwała Zarządu.
 
 §
 Za czynności przekraczające zakres zwykłych czynności Stowarzyszenia uważa się w szczególności:
@@ -296,7 +313,8 @@ W przypadku uchwalenia regulaminu, Zarząd działa na jego podstawie.
 ## Komisja Rewizyjna
 
 §
-Komisja Rewizyjna powołana jest do sprawowania kontroli nad działalnością Stowarzyszenia. Kontrola przeprowadzana jest nie rzadziej niż raz w roku.
+Komisja Rewizyjna powołana jest do sprawowania kontroli nad działalnością Stowarzyszenia.
+Kontrola przeprowadzana jest nie rzadziej niż raz w roku.
 
 §
 Komisja Rewizyjna składa się Przewodniczącego i od dwóch do czterech członków.
