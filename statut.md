@@ -127,11 +127,17 @@ Członkowie zwyczajni mają prawo do biernego, a także, o ile Statut nie stanow
 Członkowie wspierający i honorowi nie posiadają biernego oraz czynnego prawa wyborczego, mogą jednak brać udział z głosem doradczym w Walnym Zebraniu Członków; poza tym, o ile Statut nie stanowi inaczej, posiadają takie prawa jak członkowie zwyczajni.
 
 §
-Członek wspierający ma obowiązek wywiązywania się z zadeklarowanych świadczeń, przestrzegania Statutu oraz uchwał władz Stowarzyszenia.
+Każdy członek wspierający ma obowiązek:
+
+1. wywiązywania się z zadeklarowanych świadczeń;
+1. przestrzegania Statutu oraz uchwał władz Stowarzyszenia;
+1. dbania o dobre imię Stowarzyszenia.
 
 §
-Członkowie honorowi są zobowiązani do przestrzegania Statutu oraz uchwał władz Stowarzyszenia.
-Są zwolnieni ze składek członkowskich.
+Każdy członek honorowy ma obowiązek:
+
+1. przestrzegania Statutu oraz uchwał władz Stowarzyszenia;
+1. dbania o dobre imię Stowarzyszenia.
 
 §
 Utrata członkostwa następuje na skutek:
