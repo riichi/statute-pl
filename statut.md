@@ -108,8 +108,8 @@ Decyzja Walnego Zebrania Członków jest ostateczna.
 Każdy członek zwyczajny ma obowiązek:
 
 1. brania czynnego udziału w działalności Stowarzyszenia i realizacji jego celów;
-1. przestrzegania Statutu i uchwał władz Stowarzyszenia;
 1. regularnego opłacania składek członkowskich;
+1. przestrzegania Statutu i uchwał władz Stowarzyszenia;
 1. dbania o dobre imię Stowarzyszenia.
 
 §
