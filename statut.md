@@ -269,10 +269,6 @@ O ile Statut nie stanowi inaczej, Zarząd podejmuje uchwały na posiedzeniach.
 O posiedzeniu muszą zostać poinformowani wszyscy członkowie Zarządu --- uchwały Zarządu mogą być podjęte na posiedzeniu, jeżeli wszyscy członkowie zostali o tym posiedzeniu zawiadomieni.
 
 §
-Uchwały Zarządu podejmowane na posiedzeniach zapadają w głosowaniu jawnym, zwykłą większością głosów oddanych.
-W przypadku równego rozłożenia głosów decyduje głos Prezesa.
-
-§
 Posiedzenia Zarządu odbywają się w miarę potrzeb, nie rzadziej jednak niż raz na kwartał.
 Posiedzenia Zarządu zwołuje Prezes lub działających łącznie co najmniej dwóch członków Zarządu, w tym Wiceprezes.
 Posiedzenia Zarządu zwołuje się zawiadamiając wszystkich członków Zarządu pocztą elektroniczną wysłaną co najmniej pięć dni przed terminem posiedzenia na adres podany w tym celu przez członka Zarządu przy obejmowaniu funkcji w Zarządzie.
@@ -285,7 +281,13 @@ Protokół podpisuje osoba odpowiedzialna za jego sporządzenie (osoba wskazana 
 Do protokołu dołącza się listę obecności.
 
 §
+Uchwały Zarządu podejmowane na posiedzeniach zapadają w głosowaniu jawnym, zwykłą większością głosów oddanych.
+W przypadku równego rozłożenia głosów decyduje głos Prezesa.
+
+§
 Zarząd może podejmować uchwały bez odbycia posiedzenia, w drodze głosowania pisemnego lub głosowania za pośrednictwem poczty elektronicznej lub głosowania przy wykorzystaniu środków bezpośredniego porozumiewania się na odległość.
+
+§
 Uchwały podejmowane poza posiedzeniem zapadają zwykłą większością głosów oddanych.
 W przypadku równego rozłożenia głosów decyduje głos Prezesa.
 Uchwała Zarządu podjęta poza posiedzeniem jest ważna, jeżeli wszyscy członkowie Zarządu zostali powiadomieni o treści projektu uchwały.
@@ -338,11 +340,6 @@ O ile Statut nie stanowi inaczej, Komisja Rewizyjna podejmuje rozstrzygnięcia w
 O posiedzeniu muszą zostać poinformowani wszyscy członkowie Komisji Rewizyjnej --- uchwały Komisji Rewizyjnej mogą być podjęte na posiedzeniu, jeżeli wszyscy członkowie zostali o tym posiedzeniu zawiadomieni.
 
 §
-Uchwały podejmowane na posiedzeniach zapadają zwykłą większością głosów oddanych.
-W przypadku równego rozłożenia głosów decyduje głos Przewodniczącego Komisji Rewizyjnej.
-O ile Komisja Rewizyjna nie postanowi inaczej, uchwały podejmowane na posiedzeniach zapadają w głosowaniu jawnym.
-
-§
 Posiedzenia Komisji Rewizyjnej odbywają się w miarę potrzeb, nie rzadziej jednak niż raz na 6 miesięcy.
 Posiedzenia Komisji Rewizyjnej zwołuje Przewodniczący Komisji Rewizyjnej lub działających łącznie co najmniej dwóch członków Komisji Rewizyjnej.
 Posiedzenia Komisji Rewizyjnej zwołuje się zawiadamiając wszystkich członków Komisji Rewizyjnej pocztą elektroniczną wysłaną co najmniej pięć dni przed terminem posiedzenia na adres podany w tym celu przez członka Komisji Rewizyjnej przy obejmowaniu funkcji w Komisji Rewizyjnej.
@@ -355,7 +352,14 @@ Protokół podpisuje osoba odpowiedzialna za jego sporządzenie (osoba wskazana 
 Do protokołu dołącza się listę obecności.
 
 §
+Uchwały podejmowane na posiedzeniach zapadają zwykłą większością głosów oddanych.
+W przypadku równego rozłożenia głosów decyduje głos Przewodniczącego Komisji Rewizyjnej.
+O ile Komisja Rewizyjna nie postanowi inaczej, uchwały podejmowane na posiedzeniach zapadają w głosowaniu jawnym.
+
+§
 Komisja Rewizyjna może podejmować uchwały bez odbycia posiedzenia, w drodze głosowania pisemnego lub głosowania za pośrednictwem poczty elektronicznej lub głosowania przy wykorzystaniu środków bezpośredniego porozumiewania się na odległość.
+
+§
 Uchwały podejmowane poza posiedzeniem zapadają zwykłą większością głosów oddanych.
 W przypadku równego rozłożenia głosów decyduje głos Przewodniczącego Komisji Rewizyjnej.
 Uchwała Komisji Rewizyjnej podjęta poza posiedzeniem jest ważna, jeżeli wszyscy członkowie Komisji Rewizyjnej zostali powiadomieni o treści projektu uchwały.
