@@ -26,7 +26,7 @@ Stowarzyszenie wyznacza sobie następujące cele:
 
 1. inicjowanie oraz popularyzacja gry Mahjong, ze szczególnym uwzględnieniem Mahjonga japońskiego (Riichi Mahjong), jak i innych gier logicznych i planszowych;
 1. działalność oświatowo-edukacyjna na rzecz początkujących graczy w gry logiczne i planszowe;
-1. rozpowszechnianie programów edukacyjnych i analitycznych do gier planszowych;
+1. rozpowszechnianie programów edukacyjnych i analitycznych do gier logicznych i planszowych;
 1. wspomaganie rozwoju intelektualnego oraz myślenia logicznego poprzez gry logiczne i planszowe;
 1. wspieranie rozwoju umiejętności interprersonalnych poprzez wspólną grę w gry logiczne i planszowe;
 1. rozpowszechnianie wiedzy o grach logicznych i planszowych jako pomocach edukacyjnych;
