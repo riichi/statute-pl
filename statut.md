@@ -427,7 +427,7 @@ W Stowarzyszeniu obowiązuje zakaz:
 # Postanowienia końcowe
 
 §
-Uchwałę w sprawie zmiany Statutu oraz uchwałę o rozwiązaniu Stowarzyszenia podejmuje Walne Zebranie Członków większością dwóch trzecich głosów przy obecności co najmniej połowy uprawnionych do głosowania.
+Uchwałę w sprawie zmiany Statutu oraz uchwałę o rozwiązaniu Stowarzyszenia podejmuje Walne Zebranie Członków większością dwóch trzecich głosów oddanych przy obecności co najmniej połowy uprawnionych do głosowania (uprawnionych do oddania głosu stanowiącego).
 
 §
 Podejmując uchwałę o rozwiązaniu Stowarzyszenia, Walne Zebranie Członków określa sposób jego likwidacji, w tym wybiera likwidatora lub likwidatorów i określa sposób reprezentacji Stowarzyszenia w okresie likwidacji oraz przeznaczenie majątku Stowarzyszenia.
