@@ -330,7 +330,7 @@ Komisja Rewizyjna powołana jest do sprawowania kontroli nad działalnością St
 Kontrola przeprowadzana jest nie rzadziej niż raz w roku.
 
 §
-Komisja Rewizyjna składa się z trzech do pięciu członków Komisji Rewizyjnej, w tym Przewodniczącego Komisji Rewizyjnej.
+Komisja Rewizyjna składa się z dwóch do pięciu członków Komisji Rewizyjnej, w tym Przewodniczącego Komisji Rewizyjnej.
 
 §
 Członkami Komisji Rewizyjnej mogą być wyłącznie osoby fizyczne mające pełną zdolność do czynności prawnych.
