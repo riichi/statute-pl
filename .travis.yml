@@ -19,7 +19,7 @@ deploy:
   file_glob: true
   file:
     - ./build/statut.pdf
-    - ./build/reference.docx
+    - ./build/statut.docx
   cleanup: false
   overwrite: true
   on:
