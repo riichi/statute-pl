@@ -3,8 +3,12 @@ os: linux
 dist: bionic
 services: docker
 
+before_install:
+- sudo apt-get update
+
 install:
-- sudo apt-get install texlive-latex-extra texlive-lang-polish texlive-generic-recommended texlive-fonts-recommended texlive-fonts-extra pandoc make
+- sudo apt-get install -y texlive-latex-extra texlive-lang-polish texlive-generic-recommended texlive-fonts-recommended texlive-fonts-extra pandoc make
+- sudo apt-get install -y tree # FOR TESTING PURPOSES
 
 script:
 - make all
@@ -14,6 +18,7 @@ before_deploy:
   - git config --local user.email "admin@chombo.club"
   - export TRAVIS_TAG=${TRAVIS_TAG:-$(date +'%Y-%m-%d')-$(git log --format=%h -1)}
   - git tag $TRAVIS_TAG
+  - tree # FOR TESTING PURPOSES
 
 deploy:
   provider: releases
