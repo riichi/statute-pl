@@ -18,11 +18,10 @@ deploy:
   token: $GITHUB_TOKEN
   file_glob: true
   file:
-    - ./*.pdf
-    - ./*.docx
-    - ./*.tex
+    - ./build/statut.pdf
+    - ./build/reference.docx
   cleanup: false
   overwrite: true
   on:
-    branch: master
+    branch: travis
     tags: true
