@@ -3,8 +3,10 @@ os: linux
 dist: bionic
 services: docker
 
-script:
+install:
 - sudo apt-get install texlive-latex-extra texlive-lang-polish texlive-generic-recommended texlive-fonts-recommended texlive-fonts-extra pandoc make
+
+script:
 - make all
 
 before_deploy:
