@@ -24,4 +24,3 @@ deploy:
   overwrite: true
   on:
     branch: travis
-    tags: true
