@@ -1,10 +1,10 @@
 language: generic
 os: linux
 dist: bionic
-services: docker # Enables docker
+services: docker
 
 script:
-- sudo apt-get install texlive pandoc make
+- sudo apt-get install texlive pandoc make texlive-lang-polish
 - make all
 
 before_deploy:
