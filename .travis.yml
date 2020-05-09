@@ -21,7 +21,7 @@ before_deploy:
 deploy:
   provider: releases
   token: $GITHUB_TOKEN
-  name: Statut-$(date +'%Y-%m-%d')
+  name: Statut $(date +'%d-%m-%Y')
   file_glob: true
   file:
     - ./build/statut.pdf
