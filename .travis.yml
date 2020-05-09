@@ -27,7 +27,7 @@ deploy:
   file:
     - ./build/statut.pdf
     - ./build/statut.docx
-  cleanup: false
+  skip_cleanup: true
   overwrite: true
   on:
     branch: travis
