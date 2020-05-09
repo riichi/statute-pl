@@ -1,12 +1,11 @@
 sudo: required
 language: generic
-dist: trusty # Ubuntu 14.04
+dist: bionic
 services: docker # Enables docker
 
 script:
-- wget https://raw.githubusercontent.com/blang/latex-docker/master/latexdockercmd.sh
-- chmod +x latexdockercmd.sh
-- ./latexdockercmd.sh make
+- sudo apt install texlive pandoc make pdflatex
+- make all
 
 before_deploy:
   - git config --local user.name "Chombo Club Admin"
