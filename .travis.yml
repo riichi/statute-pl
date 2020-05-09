@@ -29,6 +29,5 @@ deploy:
     - ./build/statut.tex
   skip_cleanup: true
   overwrite: true
-  draft: true
   on:
-    branch: travis
+    branch: master
