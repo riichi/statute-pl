@@ -25,24 +25,22 @@ Stowarzyszenie jest osobą prawną i podlega wpisowi do Krajowego Rejestru Sądo
 Stowarzyszenie wyznacza sobie następujące cele:
 
 1. działalność kulturalna, w szczególności inicjowanie oraz popularyzacja gry Mahjong, ze szczególnym uwzględnieniem Mahjonga japońskiego (Riichi Mahjong), jak i innych gier logicznych i planszowych;
-1. działalność oświatowo-edukacyjna na rzecz początkujących graczy w gry logiczne i planszowe;
+1. działalność oświatowa na rzecz początkujących graczy w gry logiczne i planszowe;
 1. działalność oświatowa oraz naukowo-techniczna polegająca na rozpowszechnianiu programów edukacyjnych i analitycznych do gier logicznych i planszowych;
 1. działalność oświatowa polegająca na wspomaganiu rozwoju intelektualnego oraz myślenia logicznego poprzez gry logiczne i planszowe;
-1. wspieranie rozwoju umiejętności interprersonalnych poprzez wspólną grę w gry logiczne i planszowe;
+1. działalność kulturalna polegająca na wspieraniu rozwoju umiejętności interprersonalnych poprzez wspólną grę w gry logiczne i planszowe;
 1. działalność oświatowa polegająca na rozpowszechnianiu wiedzy o grach logicznych i planszowych jako pomocach edukacyjnych oraz formie spędzania wolnego czasu;
 1. działalność kulturalna poprzez integrację międzynarodową i międzykulturową;
 1. działalność kulturalna i dobroczynności poprzez wspomaganie rozwoju wspólnot, społeczności lokalnych i inicjatyw oddolnych;
 1. działalność dobroczynności poprzez wspieranie integracji międzypokoleniowej, umacnianie więzi międzypokoleniowych;
-1. upowszechnianie kultury fizycznej, sportu oraz rywalizacji sportowej poprzez gry logiczne i planszowe;
+1. upowszechnianie kultury fizycznej i sportu w ramach rywalizacji sportowej poprzez gry logiczne i planszowe;
 1. działalność oświatowa polegająca na wspieraniu rozwoju dzieci i młodzieży;
 1. działalność kulturalna polegająca na wspieraniu wypoczynku dzieci i młodzieży;
-1. działalność pomocy społecznej poprzez integrację i wspieranie środowiska seniorów;
-1. ochrona i promocja zdrowia, propagowanie gier logicznych i planszowych jako formy rehabilitacji;
+1. działalność pomocy społecznej na rzecz środowiska seniorów;
+1. ochrona i promocja zdrowia poprzez propagowanie gier logicznych i planszowych jako formy rehabilitacji;
 1. działalność pomocy społecznej na rzecz wyrównywania szans osób z niepełnosprawnościami;
 1. działalność oświatowa polegająca na promowaniu i wspieraniu edukacji języków obcych;
 1. działalność kulturalna i oświatowa poprzez upowszechnianie kultury, sztuki, ochrony dóbr kultury i tradycji Dalekiego Wschodu, ze szczególnym uwzględnieniem kultury Japonii;
-1. upowszechnianie wolontariatu oraz działalności dobroczynnej i charytatywnej;
-1. integracja członków Stowarzyszenia poprzez aktywność edukacyjną, kulturalną, rekreacyjną i towarzyską.
 
 §
 Stowarzyszenie realizuje swoje cele poprzez:
