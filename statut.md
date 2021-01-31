@@ -40,7 +40,7 @@ Stowarzyszenie wyznacza sobie następujące cele:
 1. ochrona i promocja zdrowia poprzez propagowanie gier logicznych i planszowych jako formy rehabilitacji;
 1. działalność pomocy społecznej na rzecz wyrównywania szans osób z niepełnosprawnościami;
 1. działalność oświatowa polegająca na promowaniu i wspieraniu edukacji języków obcych;
-1. działalność kulturalna i oświatowa poprzez upowszechnianie kultury, sztuki, ochrony dóbr kultury i tradycji Dalekiego Wschodu, ze szczególnym uwzględnieniem kultury Japonii;
+1. działalność kulturalna i oświatowa poprzez upowszechnianie kultury, sztuki, ochrony dóbr kultury i tradycji Dalekiego Wschodu, ze szczególnym uwzględnieniem kultury Japonii.
 
 §
 Stowarzyszenie realizuje swoje cele poprzez:
