@@ -146,10 +146,10 @@ Utrata członkostwa następuje na skutek:
 1. pisemnej rezygnacji z przynależności do Stowarzyszenia, złożonej na ręce Zarządu;
 1. śmierci członka lub utraty osobowości prawnej przez członka wspierającego będącego osobą prawną;
 1. pozbawienia członkostwa przez Zarząd:
-   a. z powodu rażącego lub powtarzającego się istotnego naruszania zobowiązania do przestrzegania Statutu lub zobowiązania do przestrzegania uchwał władz Stowarzyszenia;
-   a. z powodu notorycznego i nieusprawiedliwionego braku uczestnictwa w pracach Stowarzyszenia;
-   a. z powodu opóźnienia w wykonaniu zobowiązania do zapłaty składek członkowskich przekraczającego okres 3 miesięcy;
-   a. na pisemny, umotywowany wniosek przynajmniej pięciu członków zwyczajnych Stowarzyszenia;
+    a. z powodu rażącego lub powtarzającego się istotnego naruszania zobowiązania do przestrzegania Statutu lub zobowiązania do przestrzegania uchwał władz Stowarzyszenia;
+    a. z powodu notorycznego i nieusprawiedliwionego braku uczestnictwa w pracach Stowarzyszenia;
+    a. z powodu opóźnienia w wykonaniu zobowiązania do zapłaty składek członkowskich przekraczającego okres 3 miesięcy;
+    a. na pisemny, umotywowany wniosek przynajmniej pięciu członków zwyczajnych Stowarzyszenia;
 1. utraty praw publicznych na mocy prawomocnego wyroku sądu.
 
 §
