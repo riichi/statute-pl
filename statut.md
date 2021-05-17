@@ -141,6 +141,9 @@ Każdy członek honorowy ma obowiązek:
 Członkowie wspierający i honorowi nie posiadają biernego oraz czynnego prawa wyborczego, mogą jednak brać udział z głosem doradczym w Walnym Zebraniu Członków; poza tym, o ile Statut nie stanowi inaczej, posiadają takie prawa jak członkowie zwyczajni.
 
 §
+Każdy członek Stowarzyszenia niebędący członkiem Zarządu może wziąć udział w posiedzeniu Zarządu w roli doradczej, pod warunkiem poparcia jego udziału przez co najmniej dwóch członków Zarządu.
+
+§
 Utrata członkostwa następuje na skutek:
 
 1. pisemnej rezygnacji z przynależności do Stowarzyszenia, złożonej na ręce Zarządu;
@@ -280,6 +283,10 @@ W przypadku nieobecności Prezesa, przewodniczącego posiedzenia wybierają obec
 Z posiedzeń Zarządu sporządza się protokół.
 Protokół podpisuje osoba odpowiedzialna za jego sporządzenie (osoba wskazana w toku posiedzenia jako protokolant) oraz co najmniej jeden członek Zarządu obecny na posiedzeniu.
 Do protokołu dołącza się listę obecności.
+
+§
+W posiedzeniach Zarządu mogą brać udział w roli doradczej osoby trzecie zaproszone przez dowolnego członka Zarządu zwołującego posiedzenie.
+Pozostali członkowie Zarządu są o tym informowani w momencie zwoływania posiedzenia.
 
 §
 Uchwały Zarządu podejmowane na posiedzeniach zapadają w głosowaniu jawnym, zwykłą większością głosów oddanych.
