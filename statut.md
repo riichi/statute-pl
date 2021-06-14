@@ -47,7 +47,7 @@ Stowarzyszenie realizuje swoje cele poprzez:
 
 1. organizowanie i prowadzenie turniejów, spotkań meczowych, konferencji oraz innych wydarzeń o charakterze edukacyjnym, kulturalnym i popularyzatorskim;
 1. organizowanie i prowadzenie warsztatów, szkoleń, seminariów, wyjazdów, obozów, wystaw, ekspozycji, targów i innych przedsięwzięć o charakterze edukacyjnym, kulturalnym i popularyzatorskim;
-1. współpraca z administracją publiczną, z sektorem przedsiębiorstw, z organizacjami pozarządowymi oraz mediami, działającymi w kraju i za granicą;
+1. współpracę z administracją publiczną, z sektorem przedsiębiorstw, z organizacjami pozarządowymi oraz mediami, działającymi w kraju i za granicą;
 1. wspomaganie działań mających na celu integrację Polski z innymi krajami w zakresie promocji i popularyzacji Mahjonga oraz kultury Dalekiego Wschodu;
 1. prowadzenie działalności informacyjno-promocyjnej, szkoleniowo-edukacyjnej i doradczej;
 1. prowadzenie działalności wydawniczej i informacyjnej, także w formie elektronicznej i z wykorzystaniem wszelkich innych nowoczesnych nośników multimedialnych;
@@ -281,7 +281,7 @@ Posiedzenia Zarządu zwołuje się zawiadamiając wszystkich członków Zarządu
 Posiedzeniom Zarządu przewodniczy Prezes.
 W przypadku nieobecności Prezesa, przewodniczącego posiedzenia wybierają obecni na posiedzeniu członkowie Zarządu.
 Z posiedzeń Zarządu sporządza się protokół.
-Protokół podpisuje osoba odpowiedzialna za jego sporządzenie (osoba wskazana w toku posiedzenia jako protokolant) oraz co najmniej jeden członek Zarządu obecny na posiedzeniu.
+Protokół podpisuje osoba odpowiedzialna za jego sporządzenie (osoba wskazana w toku posiedzenia jako protokolant) oraz co najmniej jeden inny członek Zarządu obecny na posiedzeniu.
 Do protokołu dołącza się listę obecności.
 
 §
@@ -290,7 +290,7 @@ Pozostali członkowie Zarządu są o tym informowani w momencie zwoływania posi
 
 §
 Uchwały Zarządu podejmowane na posiedzeniach zapadają w głosowaniu jawnym, zwykłą większością głosów oddanych.
-W przypadku równego rozłożenia głosów decyduje głos Prezesa.
+W przypadku równego rozłożenia głosów decyduje głos przewodniczącego posiedzenia.
 
 §
 Zarząd może podejmować uchwały bez odbycia posiedzenia, w drodze głosowania pisemnego lub głosowania za pośrednictwem poczty elektronicznej lub głosowania przy wykorzystaniu środków bezpośredniego porozumiewania się na odległość.
@@ -356,12 +356,12 @@ Posiedzenia Komisji Rewizyjnej zwołuje się zawiadamiając wszystkich członkó
 Posiedzeniom Komisji Rewizyjnej przewodniczy Przewodniczący Komisji Rewizyjnej.
 W przypadku nieobecności Przewodniczącego Komisji Rewizyjnej, przewodniczącego posiedzenia wybierają obecni na posiedzeniu członkowie Komisji Rewizyjnej.
 Z posiedzeń Komisji Rewizyjnej sporządza się protokół.
-Protokół podpisuje osoba odpowiedzialna za jego sporządzenie (osoba wskazana w toku posiedzenia jako protokolant) oraz co najmniej jeden członek Komisji Rewizyjnej obecny na posiedzeniu.
+Protokół podpisuje osoba odpowiedzialna za jego sporządzenie (osoba wskazana w toku posiedzenia jako protokolant) oraz co najmniej jeden inny członek Komisji Rewizyjnej obecny na posiedzeniu.
 Do protokołu dołącza się listę obecności.
 
 §
 Uchwały podejmowane na posiedzeniach zapadają zwykłą większością głosów oddanych.
-W przypadku równego rozłożenia głosów decyduje głos Przewodniczącego Komisji Rewizyjnej.
+W przypadku równego rozłożenia głosów decyduje głos przewodniczącego posiedzenia.
 O ile Komisja Rewizyjna nie postanowi inaczej, uchwały podejmowane na posiedzeniach zapadają w głosowaniu jawnym.
 
 §
@@ -383,11 +383,11 @@ Do kompetencji Komisji Rewizyjnej należy:
 1. składanie sprawozdań ze swej działalności na Walnym Zebraniu Członków.
 
 §
-Komisji Rewizyjnej ma prawo do uchwalenia regulaminu Komisji Rewizyjnej.
+Komisja Rewizyjna ma prawo do uchwalenia regulaminu Komisji Rewizyjnej.
 W przypadku uchwalenia regulaminu, Komisja Rewizyjna działa na jego podstawie.
 
 §
-Członkowie Komisji Rewizyjnej nie mogą pełnić innych funkcji w Zarządzie ani pozostawać w żadnym stosunku pokrewieństwa, powinowactwa lub podległości służbowej z tytułu zatrudnienia z członkami Zarządu.
+Członkowie Komisji Rewizyjnej nie mogą pełnić jakichkolwiek funkcji w Zarządzie ani pozostawać w żadnym stosunku pokrewieństwa, powinowactwa lub podległości służbowej z tytułu zatrudnienia z członkami Zarządu.
 
 §
 Członkowie Komisji Rewizyjnej nie mogą być skazani prawomocnymi wyrokami za przestępstwa umyślne ścigane z oskarżenia publicznego.
@@ -429,7 +429,7 @@ W Stowarzyszeniu obowiązuje zakaz:
 
 1. udzielania pożyczek lub zabezpieczenia zobowiązań majątkiem Stowarzyszenia w stosunku do jego członków, członków organów lub pracowników oraz osób, z którymi pracownicy pozostają w związku małżeńskim albo w stosunku pokrewieństwa, powinowactwa w linii prostej, pokrewieństwa, powinowactwa w linii bocznej do drugiego stopnia albo są związani z tytułu przysposobienia, opieki lub kurateli, zwanych dalej "osobami bliskimi";
 1. przekazywania majątku Stowarzyszenia na rzecz jego członków, członków organów lub pracowników oraz ich osób bliskich, na zasadach innych niż w stosunku do osób trzecich, w szczególności gdy przekazanie to następuje bezpłatnie lub na preferencyjnych warunkach;
-1. wykorzystania majątku Stowarzyszenia na rzecz jego członków, członków organów lub pracowników oraz ich osób bliskich, na zasadach innych niż w stosunku do osób trzecich, chyba że to wykorzystanie bezpośrednio wynika z statutowego celu Stowarzyszenia;
+1. wykorzystania majątku Stowarzyszenia na rzecz jego członków, członków organów lub pracowników oraz ich osób bliskich, na zasadach innych niż w stosunku do osób trzecich, chyba że to wykorzystanie bezpośrednio wynika ze statutowego celu Stowarzyszenia;
 1. zakupu na szczególnych zasadach towarów lub usług od podmiotów, w których uczestniczą członkowie Stowarzyszenia, pracownicy oraz ich osoby bliskie.
 
 # Postanowienia końcowe
