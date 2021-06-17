@@ -28,7 +28,7 @@ Stowarzyszenie wyznacza sobie następujące cele:
 1. działalność oświatowa na rzecz początkujących graczy w gry logiczne i planszowe;
 1. działalność oświatowa oraz naukowo-techniczna polegająca na rozpowszechnianiu programów edukacyjnych i analitycznych do gier logicznych i planszowych;
 1. działalność oświatowa polegająca na wspomaganiu rozwoju intelektualnego oraz myślenia logicznego poprzez gry logiczne i planszowe;
-1. działalność kulturalna polegająca na wspieraniu rozwoju umiejętności interprersonalnych poprzez wspólną grę w gry logiczne i planszowe;
+1. działalność kulturalna polegająca na wspieraniu rozwoju umiejętności interpersonalnych poprzez wspólną grę w gry logiczne i planszowe;
 1. działalność oświatowa polegająca na rozpowszechnianiu wiedzy o grach logicznych i planszowych jako pomocach edukacyjnych oraz formie spędzania wolnego czasu;
 1. działalność kulturalna poprzez integrację międzynarodową i międzykulturową;
 1. działalność kulturalna i dobroczynności poprzez wspomaganie rozwoju wspólnot, społeczności lokalnych i inicjatyw oddolnych;
