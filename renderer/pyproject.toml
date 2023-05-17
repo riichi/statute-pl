@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "renderer"
+version = "0.1.0"
+description = ""
+authors = ["Krakowski Klub Chombo"]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+PyYAML = "^6.0"
+pydantic = "^1.10.7"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
