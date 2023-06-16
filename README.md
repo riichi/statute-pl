@@ -8,6 +8,6 @@
 ```shell
 cd renderer
 poetry install
-poetry run main.py ../statut.yaml ../template.tex > out.tex
+poetry run python3 main.py ../statut.yaml ../template.tex > out.tex
 pdflatex out.tex
 ```

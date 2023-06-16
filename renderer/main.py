@@ -64,7 +64,7 @@ def render_paragraph(paragraph: Paragraph) -> Iterable[str]:
     yield from [
         "",
         f"\\renewcommand\\thesubsubsection{{\\S~{paragraph.id}}}",
-        f"\\subsubsection{{}}",
+        f"\\subsubsection{{\\texorpdfstring{{}}{{§{paragraph.id}}}}}",
         "",
     ]
     for atom in paragraph.content:
