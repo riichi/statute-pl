@@ -1,610 +1,632 @@
-chapters:
+ chapters:
   - id: "1"
     title: "Postanowienia ogólne"
     paragraphs:
       - id: "1"
         content:
-          - "\\textbf{Stowarzyszenie Krakowski Klub Chombo}, zwane dalej \\textbf{Stowarzyszeniem}, działa na podstawie ustawy Prawo o stowarzyszeniach (Dz. U. 1989 Nr 20 poz. 104 wraz z późniejszymi zmianami) oraz niniejszego Statutu."
+          - text: "\\textbf{Stowarzyszenie Krakowski Klub Chombo}, zwane dalej \\textbf{Stowarzyszeniem}, działa na podstawie ustawy Prawo o stowarzyszeniach (Dz. U. 1989 Nr 20 poz. 104 wraz z późniejszymi zmianami) oraz niniejszego Statutu."
       - id: "2"
         content:
-          - "Stowarzyszenie jest osobą prawną i podlega wpisowi do Krajowego Rejestru Sądowego."
+          - text: "Stowarzyszenie jest osobą prawną i podlega wpisowi do Krajowego Rejestru Sądowego."
       - id: "3"
         content:
-          - - id: "1"
-              content:
-                - "Siedzibą Stowarzyszenia jest Miasto Kraków."
-            - id: "2"
-              content:
-                - "Stowarzyszenie powołane jest na czas nieokreślony."
-            - id: "3"
-              content:
-                - "Terenem działania Stowarzyszenia jest cały obszar Rzeczypospolitej Polskiej, przy czym w zakresie niezbędnym dla właściwego realizowania celów, Stowarzyszenie może prowadzić działalność także poza granicami Rzeczypospolitej Polskiej."
-            - id: "4"
-              content:
-                - "Stowarzyszenie ma prawo posługiwać się odpowiednikami swojej nazwy w językach obcych na potrzeby współpracy z podmiotami zagranicznymi, w szczególności nazwą angielską \\textbf{Krakow Chombo Club Association}."
-            - id: "5"
-              content:
-                - "Stowarzyszenie może używać wyróżniającego go znaku graficznego ustalonego przez władze Stowarzyszenia."
-            - id: "6"
-              content:
-                - "Działalność Stowarzyszenia oparta jest głównie o pracę społeczną członków. Stowarzyszenie dla realizacji swoich celów może zatrudniać pracowników w ramach stosunku pracy i umów cywilnoprawnych."
-            - id: "7"
-              content:
-                - "Stowarzyszenie może należeć do innych krajowych i międzynarodowych organizacji o podobnych celach."
+          - list:
+              - id: "1"
+                content:
+                  - text: "Siedzibą Stowarzyszenia jest Miasto Kraków."
+              - id: "2"
+                content:
+                  - text: "Stowarzyszenie powołane jest na czas nieokreślony."
+              - id: "3"
+                content:
+                  - text: "Terenem działania Stowarzyszenia jest cały obszar Rzeczypospolitej Polskiej, przy czym w zakresie niezbędnym dla właściwego realizowania celów, Stowarzyszenie może prowadzić działalność także poza granicami Rzeczypospolitej Polskiej."
+              - id: "4"
+                content:
+                  - text: "Stowarzyszenie ma prawo posługiwać się odpowiednikami swojej nazwy w językach obcych na potrzeby współpracy z podmiotami zagranicznymi, w szczególności nazwą angielską \\textbf{Krakow Chombo Club Association}."
+              - id: "5"
+                content:
+                  - text: "Stowarzyszenie może używać wyróżniającego go znaku graficznego ustalonego przez władze Stowarzyszenia."
+              - id: "6"
+                content:
+                  - text: "Działalność Stowarzyszenia oparta jest głównie o pracę społeczną członków. Stowarzyszenie dla realizacji swoich celów może zatrudniać pracowników w ramach stosunku pracy i umów cywilnoprawnych."
+              - id: "7"
+                content:
+                  - text: "Stowarzyszenie może należeć do innych krajowych i międzynarodowych organizacji o podobnych celach."
   - id: "2"
     title: "Cele Stowarzyszenia i sposoby ich realizacji"
     paragraphs:
       - id: "4"
         content:
-          - "Stowarzyszenie wyznacza sobie następujące cele:"
-          - - id: "1"
-              content:
-                - "działalność kulturalna, w szczególności inicjowanie oraz popularyzacja gry Mahjong, ze szczególnym uwzględnieniem Mahjonga japońskiego (Riichi Mahjong), jak i innych gier logicznych i planszowych;"
-            - id: "2"
-              content:
-                - "działalność oświatowa na rzecz początkujących graczy w gry logiczne i planszowe;"
-            - id: "3"
-              content:
-                - "działalność oświatowa oraz naukowo-techniczna polegająca na rozpowszechnianiu programów edukacyjnych i analitycznych do gier logicznych i planszowych;"
-            - id: "4"
-              content:
-                - "działalność oświatowa polegająca na wspomaganiu rozwoju intelektualnego oraz myślenia logicznego poprzez gry logiczne i planszowe;"
-            - id: "5"
-              content:
-                - "działalność kulturalna polegająca na wspieraniu rozwoju umiejętności interpersonalnych poprzez wspólną grę w gry logiczne i planszowe;"
-            - id: "6"
-              content:
-                - "działalność oświatowa polegająca na rozpowszechnianiu wiedzy o grach logicznych i planszowych jako pomocach edukacyjnych oraz formie spędzania wolnego czasu;"
-            - id: "7"
-              content:
-                - "działalność kulturalna poprzez integrację międzynarodową i międzykulturową;"
-            - id: "8"
-              content:
-                - "działalność kulturalna i dobroczynności poprzez wspomaganie rozwoju wspólnot, społeczności lokalnych i inicjatyw oddolnych;"
-            - id: "9"
-              content:
-                - "działalność dobroczynności poprzez wspieranie integracji międzypokoleniowej, umacnianie więzi międzypokoleniowych;"
-            - id: "10"
-              content:
-                - "upowszechnianie kultury fizycznej i sportu w ramach rywalizacji sportowej poprzez gry logiczne i planszowe;"
-            - id: "11"
-              content:
-                - "działalność oświatowa polegająca na wspieraniu rozwoju dzieci i młodzieży;"
-            - id: "12"
-              content:
-                - "działalność kulturalna polegająca na wspieraniu wypoczynku dzieci i młodzieży;"
-            - id: "13"
-              content:
-                - "działalność pomocy społecznej na rzecz środowiska seniorów;"
-            - id: "14"
-              content:
-                - "ochrona i promocja zdrowia poprzez propagowanie gier logicznych i planszowych jako formy rehabilitacji;"
-            - id: "15"
-              content:
-                - "działalność pomocy społecznej na rzecz wyrównywania szans osób z niepełnosprawnościami;"
-            - id: "16"
-              content:
-                - "działalność oświatowa polegająca na promowaniu i wspieraniu edukacji języków obcych;"
-            - id: "17"
-              content:
-                - "działalność kulturalna i oświatowa poprzez upowszechnianie kultury, sztuki, ochrony dóbr kultury i tradycji Dalekiego Wschodu, ze szczególnym uwzględnieniem kultury Japonii."
+          - text: "Stowarzyszenie wyznacza sobie następujące cele:"
+          - list:
+              - id: "1"
+                content:
+                  - text: "działalność kulturalna, w szczególności inicjowanie oraz popularyzacja gry Mahjong, ze szczególnym uwzględnieniem Mahjonga japońskiego (Riichi Mahjong), jak i innych gier logicznych i planszowych;"
+              - id: "2"
+                content:
+                  - text: "działalność oświatowa na rzecz początkujących graczy w gry logiczne i planszowe;"
+              - id: "3"
+                content:
+                  - text: "działalność oświatowa oraz naukowo-techniczna polegająca na rozpowszechnianiu programów edukacyjnych i analitycznych do gier logicznych i planszowych;"
+              - id: "4"
+                content:
+                  - text: "działalność oświatowa polegająca na wspomaganiu rozwoju intelektualnego oraz myślenia logicznego poprzez gry logiczne i planszowe;"
+              - id: "5"
+                content:
+                  - text: "działalność kulturalna polegająca na wspieraniu rozwoju umiejętności interpersonalnych poprzez wspólną grę w gry logiczne i planszowe;"
+              - id: "6"
+                content:
+                  - text: "działalność oświatowa polegająca na rozpowszechnianiu wiedzy o grach logicznych i planszowych jako pomocach edukacyjnych oraz formie spędzania wolnego czasu;"
+              - id: "7"
+                content:
+                  - text: "działalność kulturalna poprzez integrację międzynarodową i międzykulturową;"
+              - id: "8"
+                content:
+                  - text: "działalność kulturalna i dobroczynności poprzez wspomaganie rozwoju wspólnot, społeczności lokalnych i inicjatyw oddolnych;"
+              - id: "9"
+                content:
+                  - text: "działalność dobroczynności poprzez wspieranie integracji międzypokoleniowej, umacnianie więzi międzypokoleniowych;"
+              - id: "10"
+                content:
+                  - text: "upowszechnianie kultury fizycznej i sportu w ramach rywalizacji sportowej poprzez gry logiczne i planszowe;"
+              - id: "11"
+                content:
+                  - text: "działalność oświatowa polegająca na wspieraniu rozwoju dzieci i młodzieży;"
+              - id: "12"
+                content:
+                  - text: "działalność kulturalna polegająca na wspieraniu wypoczynku dzieci i młodzieży;"
+              - id: "13"
+                content:
+                  - text: "działalność pomocy społecznej na rzecz środowiska seniorów;"
+              - id: "14"
+                content:
+                  - text: "ochrona i promocja zdrowia poprzez propagowanie gier logicznych i planszowych jako formy rehabilitacji;"
+              - id: "15"
+                content:
+                  - text: "działalność pomocy społecznej na rzecz wyrównywania szans osób z niepełnosprawnościami;"
+              - id: "16"
+                content:
+                  - text: "działalność oświatowa polegająca na promowaniu i wspieraniu edukacji języków obcych;"
+              - id: "17"
+                content:
+                  - text: "działalność kulturalna i oświatowa poprzez upowszechnianie kultury, sztuki, ochrony dóbr kultury i tradycji Dalekiego Wschodu, ze szczególnym uwzględnieniem kultury Japonii."
       - id: "5"
         content:
-          - "Stowarzyszenie realizuje swoje cele poprzez:"
-          - - id: "1"
-              content:
-                - "organizowanie i prowadzenie turniejów, spotkań meczowych, konferencji oraz innych wydarzeń o charakterze edukacyjnym, kulturalnym i popularyzatorskim;"
-            - id: "2"
-              content:
-                - "organizowanie i prowadzenie warsztatów, szkoleń, seminariów, wyjazdów, obozów, wystaw, ekspozycji, targów i innych przedsięwzięć o charakterze edukacyjnym, kulturalnym i popularyzatorskim;"
-            - id: "3"
-              content:
-                - "współpracę z administracją publiczną, z sektorem przedsiębiorstw, z organizacjami pozarządowymi oraz mediami, działającymi w kraju i za granicą;"
-            - id: "4"
-              content:
-                - "wspomaganie działań mających na celu integrację Polski z innymi krajami w zakresie promocji i popularyzacji Mahjonga oraz kultury Dalekiego Wschodu;"
-            - id: "5"
-              content:
-                - "prowadzenie działalności informacyjno-promocyjnej, szkoleniowo-edukacyjnej i doradczej;"
-            - id: "6"
-              content:
-                - "prowadzenie działalności wydawniczej i informacyjnej, także w formie elektronicznej i z wykorzystaniem wszelkich innych nowoczesnych nośników multimedialnych;"
-            - id: "7"
-              content:
-                - "prowadzenie strony internetowej i innej działalności w Internecie;"
-            - id: "8"
-              content:
-                - "dokonywanie tłumaczeń i przekładów obcojęzycznych;"
-            - id: "9"
-              content:
-                - "tworzenie i rozwój programów edukacyjnych i analitycznych do gier planszowych;"
-            - id: "10"
-              content:
-                - "organizowanie wolontariatu oraz wsparcia materialnego i rzeczowego dla osób i instytucji;"
-            - id: "11"
-              content:
-                - "organizowanie akcji charytatywnych;"
-            - id: "12"
-              content:
-                - "wspieranie udziału członków Stowarzyszenia we wszelkiego typu krajowych i zagranicznych imprezach, zjazdach, seminariach, konferencjach, festiwalach o charakterze zgodnym z celami Stowarzyszenia."
+          - text: "Stowarzyszenie realizuje swoje cele poprzez:"
+          - list:
+              - id: "1"
+                content:
+                  - text: "organizowanie i prowadzenie turniejów, spotkań meczowych, konferencji oraz innych wydarzeń o charakterze edukacyjnym, kulturalnym i popularyzatorskim;"
+              - id: "2"
+                content:
+                  - text: "organizowanie i prowadzenie warsztatów, szkoleń, seminariów, wyjazdów, obozów, wystaw, ekspozycji, targów i innych przedsięwzięć o charakterze edukacyjnym, kulturalnym i popularyzatorskim;"
+              - id: "3"
+                content:
+                  - text: "współpracę z administracją publiczną, z sektorem przedsiębiorstw, z organizacjami pozarządowymi oraz mediami, działającymi w kraju i za granicą;"
+              - id: "4"
+                content:
+                  - text: "wspomaganie działań mających na celu integrację Polski z innymi krajami w zakresie promocji i popularyzacji Mahjonga oraz kultury Dalekiego Wschodu;"
+              - id: "5"
+                content:
+                  - text: "prowadzenie działalności informacyjno-promocyjnej, szkoleniowo-edukacyjnej i doradczej;"
+              - id: "6"
+                content:
+                  - text: "prowadzenie działalności wydawniczej i informacyjnej, także w formie elektronicznej i z wykorzystaniem wszelkich innych nowoczesnych nośników multimedialnych;"
+              - id: "7"
+                content:
+                  - text: "prowadzenie strony internetowej i innej działalności w Internecie;"
+              - id: "8"
+                content:
+                  - text: "dokonywanie tłumaczeń i przekładów obcojęzycznych;"
+              - id: "9"
+                content:
+                  - text: "tworzenie i rozwój programów edukacyjnych i analitycznych do gier planszowych;"
+              - id: "10"
+                content:
+                  - text: "organizowanie wolontariatu oraz wsparcia materialnego i rzeczowego dla osób i instytucji;"
+              - id: "11"
+                content:
+                  - text: "organizowanie akcji charytatywnych;"
+              - id: "12"
+                content:
+                  - text: "wspieranie udziału członków Stowarzyszenia we wszelkiego typu krajowych i zagranicznych imprezach, zjazdach, seminariach, konferencjach, festiwalach o charakterze zgodnym z celami Stowarzyszenia."
       - id: "6"
         content:
-          - "Działalność statutowa Stowarzyszenia może być prowadzona jako działalność nieodpłatna lub jako działalność odpłatna pożytku publicznego, w rozumieniu przepisów ustawy o działalności pożytku publicznego i wolontariacie."
+          - text: "Działalność statutowa Stowarzyszenia może być prowadzona jako działalność nieodpłatna lub jako działalność odpłatna pożytku publicznego, w rozumieniu przepisów ustawy o działalności pożytku publicznego i wolontariacie."
       - id: "7"
         content:
-          - "Stowarzyszenie, dla pełniejszej realizacji swoich celów, może powoływać wewnętrzne sekcje tematyczne, zwane dalej Sekcjami, nie stanowiące terenowych jednostek Stowarzyszenia."
+          - text: "Stowarzyszenie, dla pełniejszej realizacji swoich celów, może powoływać wewnętrzne sekcje tematyczne, zwane dalej Sekcjami, nie stanowiące terenowych jednostek Stowarzyszenia."
       - id: "8"
         content:
-          - "Sekcje, w ramach określonych przez Walne Zebranie Członków, mają prawo ustalać własne regulaminy oraz wybierać Przewodniczących Sekcji."
+          - text: "Sekcje, w ramach określonych przez Walne Zebranie Członków, mają prawo ustalać własne regulaminy oraz wybierać Przewodniczących Sekcji."
       - id: "9"
         content:
-          - "Stowarzyszenie może prowadzić działalność gospodarczą na podstawie stosownych przepisów."
+          - text: "Stowarzyszenie może prowadzić działalność gospodarczą na podstawie stosownych przepisów."
   - id: "3"
     title: "Członkowie Stowarzyszenia"
     paragraphs:
       - id: "10"
         content:
-          - "Stowarzyszenie posiada członków:"
-          - - id: "1"
-              content:
-                - "zwyczajnych;"
-            - id: "2"
-              content:
-                - "wspierających;"
-            - id: "3"
-              content:
-                - "honorowych."
+          - text: "Stowarzyszenie posiada członków:"
+          - list:
+              - id: "1"
+                content:
+                  - text: "zwyczajnych;"
+              - id: "2"
+                content:
+                  - text: "wspierających;"
+              - id: "3"
+                content:
+                  - text: "honorowych."
       - id: "11"
         content:
-          - "Członkami Stowarzyszenia mogą zostać:"
-          - - id: "1"
-              content:
-                - "obywatele polscy mający pełną zdolność do czynności prawnych i niepozbawieni praw publicznych;"
-            - id: "2"
-              content:
-                - "cudzoziemcy, w tym niemający miejsca zamieszkania na terenie Rzeczypospolitej Polskiej, na zasadach takich jak obywatele polscy;"
-            - id: "3"
-              content:
-                - "małoletni w wieku od 16 do 18 lat mający ograniczoną zdolność do czynności prawnych;"
-            - id: "4"
-              content:
-                - "osoby prawne --- wyłącznie jako członkowie wspierający Stowarzyszenia."
+          - text: "Członkami Stowarzyszenia mogą zostać:"
+          - list:
+              - id: "1"
+                content:
+                  - text: "obywatele polscy mający pełną zdolność do czynności prawnych i niepozbawieni praw publicznych;"
+              - id: "2"
+                content:
+                  - text: "cudzoziemcy, w tym niemający miejsca zamieszkania na terenie Rzeczypospolitej Polskiej, na zasadach takich jak obywatele polscy;"
+              - id: "3"
+                content:
+                  - text: "małoletni w wieku od 16 do 18 lat mający ograniczoną zdolność do czynności prawnych;"
+              - id: "4"
+                content:
+                  - text: "osoby prawne --- wyłącznie jako członkowie wspierający Stowarzyszenia."
       - id: "12"
         content:
-          - "Członkiem zwyczajnym Stowarzyszenia może zostać osoba fizyczna, która złoży deklarację członkowską, opłaci składkę i uzyska pozytywną rekomendację dwóch członków zwyczajnych Stowarzyszenia. Decyzję w przedmiocie przyjęcia kandydata na członka zwyczajnego podejmuje Zarząd nie później niż w ciągu miesiąca od daty złożenia deklaracji członkowskiej."
+          - text: "Członkiem zwyczajnym Stowarzyszenia może zostać osoba fizyczna, która złoży deklarację członkowską, opłaci składkę i uzyska pozytywną rekomendację dwóch członków zwyczajnych Stowarzyszenia. Decyzję w przedmiocie przyjęcia kandydata na członka zwyczajnego podejmuje Zarząd nie później niż w ciągu miesiąca od daty złożenia deklaracji członkowskiej."
       - id: "13"
         content:
-          - "Członkiem wspierającym Stowarzyszenia może zostać osoba fizyczna lub prawna, która złoży pisemną deklarację członkowską członka wspierającego obejmującą deklarację pomocy finansowej, rzeczowej lub merytorycznej w realizacji celów Stowarzyszenia. Członkiem wspierającym zostaje się na podstawie uchwały Zarządu podjętej nie później niż w ciągu dwóch miesięcy od daty złożenia deklaracji członkowskiej."
+          - text: "Członkiem wspierającym Stowarzyszenia może zostać osoba fizyczna lub prawna, która złoży pisemną deklarację członkowską członka wspierającego obejmującą deklarację pomocy finansowej, rzeczowej lub merytorycznej w realizacji celów Stowarzyszenia. Członkiem wspierającym zostaje się na podstawie uchwały Zarządu podjętej nie później niż w ciągu dwóch miesięcy od daty złożenia deklaracji członkowskiej."
       - id: "14"
         content:
-          - "Członkiem honorowym Stowarzyszenia może zostać osoba fizyczna, która wniosła wybitny wkład w działalność i rozwój Stowarzyszenia. Członkiem honorowym staje się po przyjęciu uchwały przez Walne Zebranie Członków na wniosek Zarządu albo co najmniej pięciu członków zwyczajnych Stowarzyszenia, za zgodą osoby zainteresowanej."
+          - text: "Członkiem honorowym Stowarzyszenia może zostać osoba fizyczna, która wniosła wybitny wkład w działalność i rozwój Stowarzyszenia. Członkiem honorowym staje się po przyjęciu uchwały przez Walne Zebranie Członków na wniosek Zarządu albo co najmniej pięciu członków zwyczajnych Stowarzyszenia, za zgodą osoby zainteresowanej."
       - id: "15"
         content:
-          - "W przypadku odrzucenia deklaracji członkowskiej kandydatowi przysługuje odwołanie się od decyzji Zarządu do Walnego Zebrania Członków. Odwołanie wnosi się na piśmie, za pośrednictwem Zarządu, w terminie 14 dni od otrzymania odmownej decyzji. Odwołanie jest rozpatrywane na najbliższym Walnym Zebraniu Członków. Decyzja Walnego Zebrania Członków jest ostateczna."
+          - text: "W przypadku odrzucenia deklaracji członkowskiej kandydatowi przysługuje odwołanie się od decyzji Zarządu do Walnego Zebrania Członków. Odwołanie wnosi się na piśmie, za pośrednictwem Zarządu, w terminie 14 dni od otrzymania odmownej decyzji. Odwołanie jest rozpatrywane na najbliższym Walnym Zebraniu Członków. Decyzja Walnego Zebrania Członków jest ostateczna."
       - id: "16"
         content:
-          - "Każdy członek zwyczajny ma obowiązek:"
-          - - id: "1"
-              content:
-                - "brania czynnego udziału w działalności Stowarzyszenia i realizacji jego celów;"
-            - id: "2"
-              content:
-                - "regularnego opłacania składek członkowskich;"
-            - id: "3"
-              content:
-                - "przestrzegania Statutu i uchwał władz Stowarzyszenia;"
-            - id: "4"
-              content:
-                - "dbania o dobre imię Stowarzyszenia."
+          - text: "Każdy członek zwyczajny ma obowiązek:"
+          - list:
+              - id: "1"
+                content:
+                  - text: "brania czynnego udziału w działalności Stowarzyszenia i realizacji jego celów;"
+              - id: "2"
+                content:
+                  - text: "regularnego opłacania składek członkowskich;"
+              - id: "3"
+                content:
+                  - text: "przestrzegania Statutu i uchwał władz Stowarzyszenia;"
+              - id: "4"
+                content:
+                  - text: "dbania o dobre imię Stowarzyszenia."
       - id: "17"
         content:
-          - "Każdy członek zwyczajny ma prawo do:"
-          - - id: "1"
-              content:
-                - "korzystania z majątku i wszelkich form działalności Stowarzyszenia;"
-            - id: "2"
-              content:
-                - "udziału w otwartych zebraniach i imprezach organizowanych przez Stowarzyszenie;"
-            - id: "3"
-              content:
-                - "aplikowania o udział w wydarzeniach i programach organizowanych przez Stowarzyszenie, na które obowiązują zapisy, na takich samych zasadach, jakie obowiązują wszystkich zainteresowanych;"
-            - id: "4"
-              content:
-                - "zgłaszania wniosków dotyczących działalności Stowarzyszenia."
+          - text: "Każdy członek zwyczajny ma prawo do:"
+          - list:
+              - id: "1"
+                content:
+                  - text: "korzystania z majątku i wszelkich form działalności Stowarzyszenia;"
+              - id: "2"
+                content:
+                  - text: "udziału w otwartych zebraniach i imprezach organizowanych przez Stowarzyszenie;"
+              - id: "3"
+                content:
+                  - text: "aplikowania o udział w wydarzeniach i programach organizowanych przez Stowarzyszenie, na które obowiązują zapisy, na takich samych zasadach, jakie obowiązują wszystkich zainteresowanych;"
+              - id: "4"
+                content:
+                  - text: "zgłaszania wniosków dotyczących działalności Stowarzyszenia."
       - id: "18"
         content:
-          - "Członkowie zwyczajni mają prawo do biernego, a także, o ile Statut nie stanowi inaczej, do czynnego uczestniczenia w wyborach do władz Stowarzyszenia."
+          - text: "Członkowie zwyczajni mają prawo do biernego, a także, o ile Statut nie stanowi inaczej, do czynnego uczestniczenia w wyborach do władz Stowarzyszenia."
       - id: "19"
         content:
-          - "Każdy członek wspierający ma obowiązek:"
-          - - id: "1"
-              content:
-                - "wywiązywania się z zadeklarowanych świadczeń;"
-            - id: "2"
-              content:
-                - "przestrzegania Statutu oraz uchwał władz Stowarzyszenia;"
-            - id: "3"
-              content:
-                - "dbania o dobre imię Stowarzyszenia."
+          - text: "Każdy członek wspierający ma obowiązek:"
+          - list:
+              - id: "1"
+                content:
+                  - text: "wywiązywania się z zadeklarowanych świadczeń;"
+              - id: "2"
+                content:
+                  - text: "przestrzegania Statutu oraz uchwał władz Stowarzyszenia;"
+              - id: "3"
+                content:
+                  - text: "dbania o dobre imię Stowarzyszenia."
       - id: "20"
         content:
-          - "Każdy członek honorowy ma obowiązek:"
-          - - id: "1"
-              content:
-                - "przestrzegania Statutu oraz uchwał władz Stowarzyszenia;"
-            - id: "2"
-              content:
-                - "dbania o dobre imię Stowarzyszenia."
+          - text: "Każdy członek honorowy ma obowiązek:"
+          - list:
+              - id: "1"
+                content:
+                  - text: "przestrzegania Statutu oraz uchwał władz Stowarzyszenia;"
+              - id: "2"
+                content:
+                  - text: "dbania o dobre imię Stowarzyszenia."
       - id: "21"
         content:
-          - "Członkowie wspierający i honorowi nie posiadają biernego oraz czynnego prawa wyborczego, mogą jednak brać udział z głosem doradczym w Walnym Zebraniu Członków; poza tym, o ile Statut nie stanowi inaczej, posiadają takie prawa jak członkowie zwyczajni."
+          - text: "Członkowie wspierający i honorowi nie posiadają biernego oraz czynnego prawa wyborczego, mogą jednak brać udział z głosem doradczym w Walnym Zebraniu Członków; poza tym, o ile Statut nie stanowi inaczej, posiadają takie prawa jak członkowie zwyczajni."
       - id: "22"
         content:
-          - "Każdy członek Stowarzyszenia niebędący członkiem Zarządu może wziąć udział w posiedzeniu Zarządu w roli doradczej, pod warunkiem poparcia jego udziału przez co najmniej dwóch członków Zarządu."
+          - text: "Każdy członek Stowarzyszenia niebędący członkiem Zarządu może wziąć udział w posiedzeniu Zarządu w roli doradczej, pod warunkiem poparcia jego udziału przez co najmniej dwóch członków Zarządu."
       - id: "23"
         content:
-          - "Utrata członkostwa następuje na skutek:"
-          - - id: "1"
-              content:
-                - "pisemnej rezygnacji z przynależności do Stowarzyszenia, złożonej na ręce Zarządu;"
-            - id: "2"
-              content:
-                - "śmierci członka lub utraty osobowości prawnej przez członka wspierającego będącego osobą prawną;"
-            - id: "3"
-              content:
-                - "pozbawienia członkostwa przez Zarząd:"
-                - - id: "a"
-                    content:
-                      - "z powodu rażącego lub powtarzającego się istotnego naruszania zobowiązania do przestrzegania Statutu lub zobowiązania do przestrzegania uchwał władz Stowarzyszenia;"
-                  - id: "b"
-                    content:
-                      - "z powodu notorycznego i nieusprawiedliwionego braku uczestnictwa w pracach Stowarzyszenia;"
-                  - id: "c"
-                    content:
-                      - "z powodu opóźnienia w wykonaniu zobowiązania do zapłaty składek członkowskich przekraczającego okres 3 miesięcy;"
-                  - id: "d"
-                    content:
-                      - "na pisemny, umotywowany wniosek przynajmniej pięciu członków zwyczajnych Stowarzyszenia;"
-            - id: "4"
-              content:
-                - "utraty praw publicznych na mocy prawomocnego wyroku sądu."
+          - text: "Utrata członkostwa następuje na skutek:"
+          - list:
+              - id: "1"
+                content:
+                  - text: "pisemnej rezygnacji z przynależności do Stowarzyszenia, złożonej na ręce Zarządu;"
+              - id: "2"
+                content:
+                  - text: "śmierci członka lub utraty osobowości prawnej przez członka wspierającego będącego osobą prawną;"
+              - id: "3"
+                content:
+                  - text: "pozbawienia członkostwa przez Zarząd:"
+                  - list:
+                      - id: "a"
+                        content:
+                          - text: "z powodu rażącego lub powtarzającego się istotnego naruszania zobowiązania do przestrzegania Statutu lub zobowiązania do przestrzegania uchwał władz Stowarzyszenia;"
+                      - id: "b"
+                        content:
+                          - text: "z powodu notorycznego i nieusprawiedliwionego braku uczestnictwa w pracach Stowarzyszenia;"
+                      - id: "c"
+                        content:
+                          - text: "z powodu opóźnienia w wykonaniu zobowiązania do zapłaty składek członkowskich przekraczającego okres 3 miesięcy;"
+                      - id: "d"
+                        content:
+                          - text: "na pisemny, umotywowany wniosek przynajmniej pięciu członków zwyczajnych Stowarzyszenia;"
+              - id: "4"
+                content:
+                  - text: "utraty praw publicznych na mocy prawomocnego wyroku sądu."
       - id: "24"
         content:
-          - "Od uchwały Zarządu w sprawie pozbawienia członkostwa w Stowarzyszeniu jej adresatowi przysługuje prawo wniesienia pisemnego odwołania do Walnego Zebrania Członków. Odwołanie wnosi się za pośrednictwem Zarządu w terminie 14 dni od daty doręczenia stosownej uchwały. Odwołanie jest rozpatrywane na najbliższym Walnym Zebraniu Członków. Uchwała Walnego Zebrania Członków jest ostateczna. Uchwała Zarządu w przedmiocie pozbawienia członkostwa staje się w pełni skuteczna z chwilą bezskutecznego upływu terminu do wniesienia od niej odwołania. Do czasu upływu terminu do wniesienia odwołania, a w przypadku złożenia takiego odwołania, do czasu jego rozpatrzenia, członkostwo jest zawieszone. W okresie zawieszenia członkostwa zawieszony członek nie jest zobowiązany do wypełniania swych obowiązków członkowskich, ani nie jest uprawniony do realizowania swoich praw członkowskich."
+          - text: "Od uchwały Zarządu w sprawie pozbawienia członkostwa w Stowarzyszeniu jej adresatowi przysługuje prawo wniesienia pisemnego odwołania do Walnego Zebrania Członków. Odwołanie wnosi się za pośrednictwem Zarządu w terminie 14 dni od daty doręczenia stosownej uchwały. Odwołanie jest rozpatrywane na najbliższym Walnym Zebraniu Członków. Uchwała Walnego Zebrania Członków jest ostateczna. Uchwała Zarządu w przedmiocie pozbawienia członkostwa staje się w pełni skuteczna z chwilą bezskutecznego upływu terminu do wniesienia od niej odwołania. Do czasu upływu terminu do wniesienia odwołania, a w przypadku złożenia takiego odwołania, do czasu jego rozpatrzenia, członkostwo jest zawieszone. W okresie zawieszenia członkostwa zawieszony członek nie jest zobowiązany do wypełniania swych obowiązków członkowskich, ani nie jest uprawniony do realizowania swoich praw członkowskich."
   - id: "4"
     title: "Władze Stowarzyszenia"
     paragraphs:
       - id: "25"
         content:
-          - "Władze Stowarzyszenia dzielą się na:"
-          - - id: "1"
-              content:
-                - "Walne Zebranie Członków;"
-            - id: "2"
-              content:
-                - "Zarząd;"
-            - id: "3"
-              content:
-                - "Komisję Rewizyjną."
+          - text: "Władze Stowarzyszenia dzielą się na:"
+          - list:
+              - id: "1"
+                content:
+                  - text: "Walne Zebranie Członków;"
+              - id: "2"
+                content:
+                  - text: "Zarząd;"
+              - id: "3"
+                content:
+                  - text: "Komisję Rewizyjną."
       - id: "26"
         content:
-          - "Kadencja wszystkich władz wybieralnych Stowarzyszenia trwa trzy lata:"
-          - - id: "1"
-              content:
-                - "członków Zarządu powołuje się na okres wspólnej kadencji wynoszącej trzy lata;"
-            - id: "2"
-              content:
-                - "członków Komisji Rewizyjnej powołuje się na okres wspólnej kadencji wynoszącej trzy lata."
+          - text: "Kadencja wszystkich władz wybieralnych Stowarzyszenia trwa trzy lata:"
+          - list:
+              - id: "1"
+                content:
+                  - text: "członków Zarządu powołuje się na okres wspólnej kadencji wynoszącej trzy lata;"
+              - id: "2"
+                content:
+                  - text: "członków Komisji Rewizyjnej powołuje się na okres wspólnej kadencji wynoszącej trzy lata."
       - id: "27"
         content:
-          - "Mandat członka władzy wybieralnej Stowarzyszenia wygasa wraz z końcem jego kadencji, a także wskutek śmierci, rezygnacji, albo odwołania. Nieudzielenie absolutorium nie jest równoznaczne z odwołaniem z Zarządu i nie powoduje wygaśnięcia mandatu członka Zarządu."
+          - text: "Mandat członka władzy wybieralnej Stowarzyszenia wygasa wraz z końcem jego kadencji, a także wskutek śmierci, rezygnacji, albo odwołania. Nieudzielenie absolutorium nie jest równoznaczne z odwołaniem z Zarządu i nie powoduje wygaśnięcia mandatu członka Zarządu."
       - id: "28"
         content:
-          - "W przypadku, gdy skład władz wybieralnych Stowarzyszenia ulegnie zmniejszeniu w czasie trwania kadencji, uzupełnienie ich składu może nastąpić w drodze kooptacji, której dokonują pozostali członkowie organu, który uległ zmniejszeniu. W tym trybie można powołać nie więcej niż połowę składu organu."
-          - "\\subsection{Walne Zebranie Członków}"
+          - text: "W przypadku, gdy skład władz wybieralnych Stowarzyszenia ulegnie zmniejszeniu w czasie trwania kadencji, uzupełnienie ich składu może nastąpić w drodze kooptacji, której dokonują pozostali członkowie organu, który uległ zmniejszeniu. W tym trybie można powołać nie więcej niż połowę składu organu."
+          - text: "\\subsection{Walne Zebranie Członków}"
       - id: "29"
         content:
-          - "Walne Zebranie Członków jest najwyższą władzą Stowarzyszenia."
+          - text: "Walne Zebranie Członków jest najwyższą władzą Stowarzyszenia."
       - id: "30"
         content:
-          - "W Walnym Zebraniu Członków biorą udział:"
-          - - id: "1"
-              content:
-                - "z głosem stanowiącym --- członkowie zwyczajni;"
-            - id: "2"
-              content:
-                - "z głosem doradczym --- członkowie wspierający, członkowie honorowi i goście zaproszeni przez Zarząd lub Komisję Rewizyjną."
+          - text: "W Walnym Zebraniu Członków biorą udział:"
+          - list:
+              - id: "1"
+                content:
+                  - text: "z głosem stanowiącym --- członkowie zwyczajni;"
+              - id: "2"
+                content:
+                  - text: "z głosem doradczym --- członkowie wspierający, członkowie honorowi i goście zaproszeni przez Zarząd lub Komisję Rewizyjną."
       - id: "31"
         content:
-          - "Walne Zebranie Członków może być zwyczajne i nadzwyczajne."
+          - text: "Walne Zebranie Członków może być zwyczajne i nadzwyczajne."
       - id: "32"
         content:
-          - "Walne Zebranie Członków, którego przedmiotem jest zatwierdzenie rocznego sprawozdania Zarządu z działalności Stowarzyszenia, zatwierdzenie rocznego sprawozdania Komisji Rewizyjnej, sprawozdania finansowego za poprzedni rok obrotowy, oraz udzielenie absolutorium członkom Zarządu z wykonania przez nich obowiązków jest Walnym Zebraniem Zwyczajnym."
+          - text: "Walne Zebranie Członków, którego przedmiotem jest zatwierdzenie rocznego sprawozdania Zarządu z działalności Stowarzyszenia, zatwierdzenie rocznego sprawozdania Komisji Rewizyjnej, sprawozdania finansowego za poprzedni rok obrotowy, oraz udzielenie absolutorium członkom Zarządu z wykonania przez nich obowiązków jest Walnym Zebraniem Zwyczajnym."
       - id: "33"
         content:
-          - "Walne Zebranie Zwyczajne jest zwoływane raz na rok przez Zarząd."
+          - text: "Walne Zebranie Zwyczajne jest zwoływane raz na rok przez Zarząd."
       - id: "34"
         content:
-          - "Walne Zebranie Nadzwyczajne może się odbyć w każdym czasie. Jest zwoływane przez Zarząd z jego inicjatywy, na wniosek Komisji Rewizyjnej lub pisemny wniosek co najmniej jednej trzeciej ogólnej liczby członków Stowarzyszenia z głosem stanowiącym, w terminie 30 dni od daty złożenia wniosku."
+          - text: "Walne Zebranie Nadzwyczajne może się odbyć w każdym czasie. Jest zwoływane przez Zarząd z jego inicjatywy, na wniosek Komisji Rewizyjnej lub pisemny wniosek co najmniej jednej trzeciej ogólnej liczby członków Stowarzyszenia z głosem stanowiącym, w terminie 30 dni od daty złożenia wniosku."
       - id: "35"
         content:
-          - "W zakresie i z zachowaniem warunków przewidzianych przepisami prawa, możliwy jest udział w Walnym Zebraniu Członków przy wykorzystaniu środków komunikacji elektronicznej --- Statut nie wyłącza możliwości udziału w Walnych Zebraniach Członków przy wykorzystaniu środków komunikacji elektronicznej przewidzianej przepisami prawa."
+          - text: "W zakresie i z zachowaniem warunków przewidzianych przepisami prawa, możliwy jest udział w Walnym Zebraniu Członków przy wykorzystaniu środków komunikacji elektronicznej --- Statut nie wyłącza możliwości udziału w Walnych Zebraniach Członków przy wykorzystaniu środków komunikacji elektronicznej przewidzianej przepisami prawa."
       - id: "36"
         content:
-          - "Walne Zebrania Członków Zarząd zwołuje zawiadamiając wszystkich członków Stowarzyszenia za pomocą listów poleconych lub przesyłek nadanych pocztą kurierską. Dopuszczalne jest dokonanie zwołania poprzez wysłanie członkowi Stowarzyszenia zaproszenia pocztą elektroniczną, jeżeli uprzednio wyraził pisemną zgodę na dokonywanie wobec niego korespondencji w tej formie, podając adres, na który korespondencja powinna być wysyłana. W zaproszeniu należy oznaczyć dzień, godzinę i miejsce posiedzenia oraz planowany porządek obrad. W przypadku zamierzonej zmiany Statutu należy wskazać istotne elementy treści proponowanych zmian."
-          - ""
-          - "Zaproszenie jest skuteczne:"
-          - - id: "1"
-              content:
-                - "w przypadku dokonania zawiadomienia za pomocą listu poleconego lub przesyłki nadanej pocztą kurierską, jeżeli zaproszenie zostało wysłane co najmniej dwa tygodnie przed terminem Walnego Zebrania Członków;"
-            - id: "2"
-              content:
-                - "w przypadku dokonania zawiadomienia przy wykorzystaniu poczty elektronicznej, jeżeli zaproszenie zostało wysłane co najmniej 14 dni przed terminem Walnego Zebrania Zwyczajnego, a co najmniej 7 dni przed terminem Walnego Zebrania Nadzwyczajnego."
+          - text: "Walne Zebrania Członków Zarząd zwołuje zawiadamiając wszystkich członków Stowarzyszenia za pomocą listów poleconych lub przesyłek nadanych pocztą kurierską. Dopuszczalne jest dokonanie zwołania poprzez wysłanie członkowi Stowarzyszenia zaproszenia pocztą elektroniczną, jeżeli uprzednio wyraził pisemną zgodę na dokonywanie wobec niego korespondencji w tej formie, podając adres, na który korespondencja powinna być wysyłana. W zaproszeniu należy oznaczyć dzień, godzinę i miejsce posiedzenia oraz planowany porządek obrad. W przypadku zamierzonej zmiany Statutu należy wskazać istotne elementy treści proponowanych zmian."
+          - text: ""
+          - text: "Zaproszenie jest skuteczne:"
+          - list:
+              - id: "1"
+                content:
+                  - text: "w przypadku dokonania zawiadomienia za pomocą listu poleconego lub przesyłki nadanej pocztą kurierską, jeżeli zaproszenie zostało wysłane co najmniej dwa tygodnie przed terminem Walnego Zebrania Członków;"
+              - id: "2"
+                content:
+                  - text: "w przypadku dokonania zawiadomienia przy wykorzystaniu poczty elektronicznej, jeżeli zaproszenie zostało wysłane co najmniej 14 dni przed terminem Walnego Zebrania Zwyczajnego, a co najmniej 7 dni przed terminem Walnego Zebrania Nadzwyczajnego."
       - id: "37"
         content:
-          - - id: "1"
-              content:
-                - "O ile Statut nie stanowi inaczej, uchwały Walnego Zebrania Członków zapadają zwykłą większością głosów oddanych, bez względu na liczbę obecnych członków Stowarzyszenia. Głosowanie jest jawne z możliwością utajnienia na wniosek dowolnego członka zwyczajnego obecnego na Walnym Zebraniu Członków."
-            - id: "2"
-              content:
-                - "Uchwały dotyczące powoływania i odwoływania członków Zarządu zapadają bezwzględną większością głosów oddanych."
+          - list:
+              - id: "1"
+                content:
+                  - text: "O ile Statut nie stanowi inaczej, uchwały Walnego Zebrania Członków zapadają zwykłą większością głosów oddanych, bez względu na liczbę obecnych członków Stowarzyszenia. Głosowanie jest jawne z możliwością utajnienia na wniosek dowolnego członka zwyczajnego obecnego na Walnym Zebraniu Członków."
+              - id: "2"
+                content:
+                  - text: "Uchwały dotyczące powoływania i odwoływania członków Zarządu zapadają bezwzględną większością głosów oddanych."
       - id: "38"
         content:
-          - "Obradami Walnego Zebrania Członków kieruje każdorazowo wybierane Prezydium w składzie: przewodniczący i sekretarz. Wybierani są oni za każdym razem przez uczestników Walnego Zebrania Członków. Sekretarz pełni rolę protokolanta. Z obrad Walnego Zebrania Członków sporządza się protokół. Protokół podpisują członkowie Prezydium. Do protokołu dołącza się listę obecności."
+          - text: "Obradami Walnego Zebrania Członków kieruje każdorazowo wybierane Prezydium w składzie: przewodniczący i sekretarz. Wybierani są oni za każdym razem przez uczestników Walnego Zebrania Członków. Sekretarz pełni rolę protokolanta. Z obrad Walnego Zebrania Członków sporządza się protokół. Protokół podpisują członkowie Prezydium. Do protokołu dołącza się listę obecności."
       - id: "39"
         content:
-          - "Do kompetencji Walnego Zebrania Członków należy:"
-          - - id: "1"
-              content:
-                - "uchwalanie kierunków rozwoju działalności Stowarzyszenia;"
-            - id: "2"
-              content:
-                - "uchwalanie zmian Statutu;"
-            - id: "3"
-              content:
-                - "powoływanie i odwoływanie członków Zarządu, w tym Prezesa i Wiceprezesa, a także członków Komisji Rewizyjnej, w tym Przewodniczącego Komisji Rewizyjnej;"
-            - id: "4"
-              content:
-                - "udzielanie członkom Zarządu absolutorium na wniosek Komisji Rewizyjnej;"
-            - id: "5"
-              content:
-                - "rozpatrywanie sprawozdań z działalności Zarządu i Komisji Rewizyjnej;"
-            - id: "6"
-              content:
-                - "uchwalanie budżetu;"
-            - id: "7"
-              content:
-                - "zatwierdzanie proponowanych przez Zarząd wysokości składek członkowskich;"
-            - id: "8"
-              content:
-                - "rozpatrywanie wniosków i postulatów zgłoszonych przez członków Stowarzyszenia i jego władze;"
-            - id: "9"
-              content:
-                - "rozpatrywanie odwołań od uchwał Zarządu w przypadkach przewidzianych Statutem;"
-            - id: "10"
-              content:
-                - "podejmowanie uchwał w każdej sprawie wniesionej pod obrady;"
-            - id: "11"
-              content:
-                - "podjęcie uchwały o rozwiązaniu Stowarzyszenia i przeznaczeniu jego majątku."
-          - "\\subsection{Zarząd}"
+          - text: "Do kompetencji Walnego Zebrania Członków należy:"
+          - list:
+              - id: "1"
+                content:
+                  - text: "uchwalanie kierunków rozwoju działalności Stowarzyszenia;"
+              - id: "2"
+                content:
+                  - text: "uchwalanie zmian Statutu;"
+              - id: "3"
+                content:
+                  - text: "powoływanie i odwoływanie członków Zarządu, w tym Prezesa i Wiceprezesa, a także członków Komisji Rewizyjnej, w tym Przewodniczącego Komisji Rewizyjnej;"
+              - id: "4"
+                content:
+                  - text: "udzielanie członkom Zarządu absolutorium na wniosek Komisji Rewizyjnej;"
+              - id: "5"
+                content:
+                  - text: "rozpatrywanie sprawozdań z działalności Zarządu i Komisji Rewizyjnej;"
+              - id: "6"
+                content:
+                  - text: "uchwalanie budżetu;"
+              - id: "7"
+                content:
+                  - text: "zatwierdzanie proponowanych przez Zarząd wysokości składek członkowskich;"
+              - id: "8"
+                content:
+                  - text: "rozpatrywanie wniosków i postulatów zgłoszonych przez członków Stowarzyszenia i jego władze;"
+              - id: "9"
+                content:
+                  - text: "rozpatrywanie odwołań od uchwał Zarządu w przypadkach przewidzianych Statutem;"
+              - id: "10"
+                content:
+                  - text: "podejmowanie uchwał w każdej sprawie wniesionej pod obrady;"
+              - id: "11"
+                content:
+                  - text: "podjęcie uchwały o rozwiązaniu Stowarzyszenia i przeznaczeniu jego majątku."
+          - text: "\\subsection{Zarząd}"
       - id: "40"
         content:
-          - "Zarząd jest powoływany do kierowania działalnością Stowarzyszenia zgodnie z uchwałami Walnego Zebrania Członków i reprezentowania Stowarzyszenia na zewnątrz."
+          - text: "Zarząd jest powoływany do kierowania działalnością Stowarzyszenia zgodnie z uchwałami Walnego Zebrania Członków i reprezentowania Stowarzyszenia na zewnątrz."
       - id: "41"
         content:
-          - "Zarząd składa się z trzech do siedmiu członków Zarządu, w tym Prezesa i Wiceprezesa."
+          - text: "Zarząd składa się z trzech do siedmiu członków Zarządu, w tym Prezesa i Wiceprezesa."
       - id: "42"
         content:
-          - "Członkom Zarządu może zostać, uchwałą Walnego Zebrania Członków, przyznane wynagrodzenie za czynności wykonywane w związku z pełnioną funkcją."
+          - text: "Członkom Zarządu może zostać, uchwałą Walnego Zebrania Członków, przyznane wynagrodzenie za czynności wykonywane w związku z pełnioną funkcją."
       - id: "43"
         content:
-          - "Członkami Zarządu mogą być wyłącznie osoby fizyczne mające pełną zdolność do czynności prawnych."
+          - text: "Członkami Zarządu mogą być wyłącznie osoby fizyczne mające pełną zdolność do czynności prawnych."
       - id: "44"
         content:
-          - "O ile Statut nie stanowi inaczej, Zarząd podejmuje uchwały na posiedzeniach. O posiedzeniu muszą zostać poinformowani wszyscy członkowie Zarządu --- uchwały Zarządu mogą być podjęte na posiedzeniu, jeżeli wszyscy członkowie zostali o tym posiedzeniu zawiadomieni."
+          - text: "O ile Statut nie stanowi inaczej, Zarząd podejmuje uchwały na posiedzeniach. O posiedzeniu muszą zostać poinformowani wszyscy członkowie Zarządu --- uchwały Zarządu mogą być podjęte na posiedzeniu, jeżeli wszyscy członkowie zostali o tym posiedzeniu zawiadomieni."
       - id: "45"
         content:
-          - "Posiedzenia Zarządu odbywają się w miarę potrzeb, nie rzadziej jednak niż raz na kwartał. Posiedzenia Zarządu zwołuje Prezes lub działających łącznie co najmniej dwóch członków Zarządu, w tym Wiceprezes. Posiedzenia Zarządu zwołuje się zawiadamiając wszystkich członków Zarządu pocztą elektroniczną wysłaną co najmniej pięć dni przed terminem posiedzenia na adres podany w tym celu przez członka Zarządu przy obejmowaniu funkcji w Zarządzie."
+          - text: "Posiedzenia Zarządu odbywają się w miarę potrzeb, nie rzadziej jednak niż raz na kwartał. Posiedzenia Zarządu zwołuje Prezes lub działających łącznie co najmniej dwóch członków Zarządu, w tym Wiceprezes. Posiedzenia Zarządu zwołuje się zawiadamiając wszystkich członków Zarządu pocztą elektroniczną wysłaną co najmniej pięć dni przed terminem posiedzenia na adres podany w tym celu przez członka Zarządu przy obejmowaniu funkcji w Zarządzie."
       - id: "46"
         content:
-          - "Posiedzeniom Zarządu przewodniczy Prezes. W przypadku nieobecności Prezesa, przewodniczącego posiedzenia wybierają obecni na posiedzeniu członkowie Zarządu. Z posiedzeń Zarządu sporządza się protokół. Protokół podpisuje osoba odpowiedzialna za jego sporządzenie (osoba wskazana w toku posiedzenia jako protokolant) oraz co najmniej jeden inny członek Zarządu obecny na posiedzeniu. Do protokołu dołącza się listę obecności."
+          - text: "Posiedzeniom Zarządu przewodniczy Prezes. W przypadku nieobecności Prezesa, przewodniczącego posiedzenia wybierają obecni na posiedzeniu członkowie Zarządu. Z posiedzeń Zarządu sporządza się protokół. Protokół podpisuje osoba odpowiedzialna za jego sporządzenie (osoba wskazana w toku posiedzenia jako protokolant) oraz co najmniej jeden inny członek Zarządu obecny na posiedzeniu. Do protokołu dołącza się listę obecności."
       - id: "47"
         content:
-          - "W posiedzeniach Zarządu mogą brać udział w roli doradczej osoby trzecie zaproszone przez dowolnego członka Zarządu zwołującego posiedzenie. Pozostali członkowie Zarządu są o tym informowani w momencie zwoływania posiedzenia."
+          - text: "W posiedzeniach Zarządu mogą brać udział w roli doradczej osoby trzecie zaproszone przez dowolnego członka Zarządu zwołującego posiedzenie. Pozostali członkowie Zarządu są o tym informowani w momencie zwoływania posiedzenia."
       - id: "48"
         content:
-          - "Uchwały Zarządu podejmowane na posiedzeniach zapadają w głosowaniu jawnym, zwykłą większością głosów oddanych. W przypadku równego rozłożenia głosów decyduje głos przewodniczącego posiedzenia."
+          - text: "Uchwały Zarządu podejmowane na posiedzeniach zapadają w głosowaniu jawnym, zwykłą większością głosów oddanych. W przypadku równego rozłożenia głosów decyduje głos przewodniczącego posiedzenia."
       - id: "49"
         content:
-          - "Zarząd może podejmować uchwały bez odbycia posiedzenia, w drodze głosowania pisemnego lub głosowania za pośrednictwem poczty elektronicznej lub głosowania przy wykorzystaniu środków bezpośredniego porozumiewania się na odległość."
+          - text: "Zarząd może podejmować uchwały bez odbycia posiedzenia, w drodze głosowania pisemnego lub głosowania za pośrednictwem poczty elektronicznej lub głosowania przy wykorzystaniu środków bezpośredniego porozumiewania się na odległość."
       - id: "50"
         content:
-          - "Uchwały podejmowane poza posiedzeniem zapadają zwykłą większością głosów oddanych. W przypadku równego rozłożenia głosów decyduje głos Prezesa. Uchwała Zarządu podjęta poza posiedzeniem jest ważna, jeżeli wszyscy członkowie Zarządu zostali powiadomieni o treści projektu uchwały."
+          - text: "Uchwały podejmowane poza posiedzeniem zapadają zwykłą większością głosów oddanych. W przypadku równego rozłożenia głosów decyduje głos Prezesa. Uchwała Zarządu podjęta poza posiedzeniem jest ważna, jeżeli wszyscy członkowie Zarządu zostali powiadomieni o treści projektu uchwały."
       - id: "51"
         content:
-          - "Do kompetencji Zarządu należy:"
-          - - id: "1"
-              content:
-                - "realizacja celów Stowarzyszenia;"
-            - id: "2"
-              content:
-                - "wykonywanie uchwał Walnego Zebrania Członków;"
-            - id: "3"
-              content:
-                - "sporządzanie planów pracy i budżetu;"
-            - id: "4"
-              content:
-                - "sprawowanie zarządu nad majątkiem Stowarzyszenia;"
-            - id: "5"
-              content:
-                - "przyjmowanie członków zwyczajnych i wspierających, pozbawianie ich członkostwa;"
-            - id: "6"
-              content:
-                - "rozpatrywanie wniosków i postulatów zgłoszonych przez członków Stowarzyszenia;"
-            - id: "7"
-              content:
-                - "reprezentowanie Stowarzyszenia na zewnątrz;"
-            - id: "8"
-              content:
-                - "zwoływanie Walnego Zebrania Członków."
+          - text: "Do kompetencji Zarządu należy:"
+          - list:
+              - id: "1"
+                content:
+                  - text: "realizacja celów Stowarzyszenia;"
+              - id: "2"
+                content:
+                  - text: "wykonywanie uchwał Walnego Zebrania Członków;"
+              - id: "3"
+                content:
+                  - text: "sporządzanie planów pracy i budżetu;"
+              - id: "4"
+                content:
+                  - text: "sprawowanie zarządu nad majątkiem Stowarzyszenia;"
+              - id: "5"
+                content:
+                  - text: "przyjmowanie członków zwyczajnych i wspierających, pozbawianie ich członkostwa;"
+              - id: "6"
+                content:
+                  - text: "rozpatrywanie wniosków i postulatów zgłoszonych przez członków Stowarzyszenia;"
+              - id: "7"
+                content:
+                  - text: "reprezentowanie Stowarzyszenia na zewnątrz;"
+              - id: "8"
+                content:
+                  - text: "zwoływanie Walnego Zebrania Członków."
       - id: "52"
         content:
-          - "Każdy członek Zarządu ma prawo i obowiązek prowadzenia spraw Stowarzyszenia. Każdy członek Zarządu może prowadzić bez uprzedniej uchwały Zarządu sprawy nieprzekraczające zakresu zwykłych czynności Stowarzyszenia. Jeżeli jednak przed załatwieniem sprawy nieprzekraczającej zakresu zwykłych czynności Stowarzyszenia choćby jeden z pozostałych członków Zarządu sprzeciwi się jej przeprowadzeniu lub jeżeli sprawa przekracza zakres zwykłych czynności Stowarzyszenia, wymagana jest uprzednia uchwała Zarządu."
+          - text: "Każdy członek Zarządu ma prawo i obowiązek prowadzenia spraw Stowarzyszenia. Każdy członek Zarządu może prowadzić bez uprzedniej uchwały Zarządu sprawy nieprzekraczające zakresu zwykłych czynności Stowarzyszenia. Jeżeli jednak przed załatwieniem sprawy nieprzekraczającej zakresu zwykłych czynności Stowarzyszenia choćby jeden z pozostałych członków Zarządu sprzeciwi się jej przeprowadzeniu lub jeżeli sprawa przekracza zakres zwykłych czynności Stowarzyszenia, wymagana jest uprzednia uchwała Zarządu."
       - id: "53"
         content:
-          - "Za czynności przekraczające zakres zwykłych czynności Stowarzyszenia uważa się w szczególności:"
-          - - id: "1"
-              content:
-                - "nabycie oraz zbycie nieruchomości lub prawa użytkowania wieczystego;"
-            - id: "2"
-              content:
-                - "ustanowienie ograniczonego prawa rzeczowego;"
-            - id: "3"
-              content:
-                - "zawarcie umowy kredytu albo pożyczki;"
-            - id: "4"
-              content:
-                - "przejęcie długu, uznanie długu, zwolnienie z długu, przystąpienie do długu;"
-            - id: "5"
-              content:
-                - "zawarcie umowy poręczenia lub zawarcie innej podobnej umowy;"
-            - id: "6"
-              content:
-                - "zaciągnięcie innych zobowiązań przekraczających wartość 1000 zł."
+          - text: "Za czynności przekraczające zakres zwykłych czynności Stowarzyszenia uważa się w szczególności:"
+          - list:
+              - id: "1"
+                content:
+                  - text: "nabycie oraz zbycie nieruchomości lub prawa użytkowania wieczystego;"
+              - id: "2"
+                content:
+                  - text: "ustanowienie ograniczonego prawa rzeczowego;"
+              - id: "3"
+                content:
+                  - text: "zawarcie umowy kredytu albo pożyczki;"
+              - id: "4"
+                content:
+                  - text: "przejęcie długu, uznanie długu, zwolnienie z długu, przystąpienie do długu;"
+              - id: "5"
+                content:
+                  - text: "zawarcie umowy poręczenia lub zawarcie innej podobnej umowy;"
+              - id: "6"
+                content:
+                  - text: "zaciągnięcie innych zobowiązań przekraczających wartość 1000 zł."
       - id: "54"
         content:
-          - "Zarząd ma prawo do uchwalenia regulaminu Zarządu. W przypadku uchwalenia regulaminu, Zarząd działa na jego podstawie."
-          - "\\subsection{Komisja Rewizyjna}"
+          - text: "Zarząd ma prawo do uchwalenia regulaminu Zarządu. W przypadku uchwalenia regulaminu, Zarząd działa na jego podstawie."
+          - text: "\\subsection{Komisja Rewizyjna}"
       - id: "55"
         content:
-          - "Komisja Rewizyjna powołana jest do sprawowania kontroli nad działalnością Stowarzyszenia. Kontrola przeprowadzana jest nie rzadziej niż raz w roku."
+          - text: "Komisja Rewizyjna powołana jest do sprawowania kontroli nad działalnością Stowarzyszenia. Kontrola przeprowadzana jest nie rzadziej niż raz w roku."
       - id: "56"
         content:
-          - "Komisja Rewizyjna składa się z dwóch do pięciu członków Komisji Rewizyjnej, w tym Przewodniczącego Komisji Rewizyjnej."
+          - text: "Komisja Rewizyjna składa się z dwóch do pięciu członków Komisji Rewizyjnej, w tym Przewodniczącego Komisji Rewizyjnej."
       - id: "57"
         content:
-          - "Członkami Komisji Rewizyjnej mogą być wyłącznie osoby fizyczne mające pełną zdolność do czynności prawnych."
+          - text: "Członkami Komisji Rewizyjnej mogą być wyłącznie osoby fizyczne mające pełną zdolność do czynności prawnych."
       - id: "58"
         content:
-          - "O ile Statut nie stanowi inaczej, Komisja Rewizyjna podejmuje rozstrzygnięcia w postaci uchwał podejmowanych na posiedzeniach. O posiedzeniu muszą zostać poinformowani wszyscy członkowie Komisji Rewizyjnej --- uchwały Komisji Rewizyjnej mogą być podjęte na posiedzeniu, jeżeli wszyscy członkowie zostali o tym posiedzeniu zawiadomieni."
+          - text: "O ile Statut nie stanowi inaczej, Komisja Rewizyjna podejmuje rozstrzygnięcia w postaci uchwał podejmowanych na posiedzeniach. O posiedzeniu muszą zostać poinformowani wszyscy członkowie Komisji Rewizyjnej --- uchwały Komisji Rewizyjnej mogą być podjęte na posiedzeniu, jeżeli wszyscy członkowie zostali o tym posiedzeniu zawiadomieni."
       - id: "59"
         content:
-          - "Posiedzenia Komisji Rewizyjnej odbywają się w miarę potrzeb, nie rzadziej jednak niż raz na 6 miesięcy. Posiedzenia Komisji Rewizyjnej zwołuje Przewodniczący Komisji Rewizyjnej lub działających łącznie co najmniej dwóch członków Komisji Rewizyjnej. Posiedzenia Komisji Rewizyjnej zwołuje się zawiadamiając wszystkich członków Komisji Rewizyjnej pocztą elektroniczną wysłaną co najmniej pięć dni przed terminem posiedzenia na adres podany w tym celu przez członka Komisji Rewizyjnej przy obejmowaniu funkcji w Komisji Rewizyjnej."
+          - text: "Posiedzenia Komisji Rewizyjnej odbywają się w miarę potrzeb, nie rzadziej jednak niż raz na 6 miesięcy. Posiedzenia Komisji Rewizyjnej zwołuje Przewodniczący Komisji Rewizyjnej lub działających łącznie co najmniej dwóch członków Komisji Rewizyjnej. Posiedzenia Komisji Rewizyjnej zwołuje się zawiadamiając wszystkich członków Komisji Rewizyjnej pocztą elektroniczną wysłaną co najmniej pięć dni przed terminem posiedzenia na adres podany w tym celu przez członka Komisji Rewizyjnej przy obejmowaniu funkcji w Komisji Rewizyjnej."
       - id: "60"
         content:
-          - "Posiedzeniom Komisji Rewizyjnej przewodniczy Przewodniczący Komisji Rewizyjnej. W przypadku nieobecności Przewodniczącego Komisji Rewizyjnej, przewodniczącego posiedzenia wybierają obecni na posiedzeniu członkowie Komisji Rewizyjnej. Z posiedzeń Komisji Rewizyjnej sporządza się protokół. Protokół podpisuje osoba odpowiedzialna za jego sporządzenie (osoba wskazana w toku posiedzenia jako protokolant) oraz co najmniej jeden inny członek Komisji Rewizyjnej obecny na posiedzeniu. Do protokołu dołącza się listę obecności."
+          - text: "Posiedzeniom Komisji Rewizyjnej przewodniczy Przewodniczący Komisji Rewizyjnej. W przypadku nieobecności Przewodniczącego Komisji Rewizyjnej, przewodniczącego posiedzenia wybierają obecni na posiedzeniu członkowie Komisji Rewizyjnej. Z posiedzeń Komisji Rewizyjnej sporządza się protokół. Protokół podpisuje osoba odpowiedzialna za jego sporządzenie (osoba wskazana w toku posiedzenia jako protokolant) oraz co najmniej jeden inny członek Komisji Rewizyjnej obecny na posiedzeniu. Do protokołu dołącza się listę obecności."
       - id: "61"
         content:
-          - "Uchwały podejmowane na posiedzeniach zapadają zwykłą większością głosów oddanych. W przypadku równego rozłożenia głosów decyduje głos przewodniczącego posiedzenia. O ile Komisja Rewizyjna nie postanowi inaczej, uchwały podejmowane na posiedzeniach zapadają w głosowaniu jawnym."
+          - text: "Uchwały podejmowane na posiedzeniach zapadają zwykłą większością głosów oddanych. W przypadku równego rozłożenia głosów decyduje głos przewodniczącego posiedzenia. O ile Komisja Rewizyjna nie postanowi inaczej, uchwały podejmowane na posiedzeniach zapadają w głosowaniu jawnym."
       - id: "62"
         content:
-          - "Komisja Rewizyjna może podejmować uchwały bez odbycia posiedzenia, w drodze głosowania pisemnego lub głosowania za pośrednictwem poczty elektronicznej lub głosowania przy wykorzystaniu środków bezpośredniego porozumiewania się na odległość."
+          - text: "Komisja Rewizyjna może podejmować uchwały bez odbycia posiedzenia, w drodze głosowania pisemnego lub głosowania za pośrednictwem poczty elektronicznej lub głosowania przy wykorzystaniu środków bezpośredniego porozumiewania się na odległość."
       - id: "63"
         content:
-          - "Uchwały podejmowane poza posiedzeniem zapadają zwykłą większością głosów oddanych. W przypadku równego rozłożenia głosów decyduje głos Przewodniczącego Komisji Rewizyjnej. Uchwała Komisji Rewizyjnej podjęta poza posiedzeniem jest ważna, jeżeli wszyscy członkowie Komisji Rewizyjnej zostali powiadomieni o treści projektu uchwały."
+          - text: "Uchwały podejmowane poza posiedzeniem zapadają zwykłą większością głosów oddanych. W przypadku równego rozłożenia głosów decyduje głos Przewodniczącego Komisji Rewizyjnej. Uchwała Komisji Rewizyjnej podjęta poza posiedzeniem jest ważna, jeżeli wszyscy członkowie Komisji Rewizyjnej zostali powiadomieni o treści projektu uchwały."
       - id: "64"
         content:
-          - "Do kompetencji Komisji Rewizyjnej należy:"
-          - - id: "1"
-              content:
-                - "kontrola działalności Stowarzyszenia;"
-            - id: "2"
-              content:
-                - "składanie wniosków z kontroli na Walnym Zebraniu Członków;"
-            - id: "3"
-              content:
-                - "składanie wniosków o zwołanie Walnego Zebrania Członków;"
-            - id: "4"
-              content:
-                - "składanie wniosków dotyczących działalności Zarządu;"
-            - id: "5"
-              content:
-                - "składanie wniosków w przedmiocie udzielenia absolutorium dla członków Zarządu;"
-            - id: "6"
-              content:
-                - "składanie sprawozdań ze swej działalności na Walnym Zebraniu Członków."
+          - text: "Do kompetencji Komisji Rewizyjnej należy:"
+          - list:
+              - id: "1"
+                content:
+                  - text: "kontrola działalności Stowarzyszenia;"
+              - id: "2"
+                content:
+                  - text: "składanie wniosków z kontroli na Walnym Zebraniu Członków;"
+              - id: "3"
+                content:
+                  - text: "składanie wniosków o zwołanie Walnego Zebrania Członków;"
+              - id: "4"
+                content:
+                  - text: "składanie wniosków dotyczących działalności Zarządu;"
+              - id: "5"
+                content:
+                  - text: "składanie wniosków w przedmiocie udzielenia absolutorium dla członków Zarządu;"
+              - id: "6"
+                content:
+                  - text: "składanie sprawozdań ze swej działalności na Walnym Zebraniu Członków."
       - id: "65"
         content:
-          - "Komisja Rewizyjna ma prawo do uchwalenia regulaminu Komisji Rewizyjnej. W przypadku uchwalenia regulaminu, Komisja Rewizyjna działa na jego podstawie."
+          - text: "Komisja Rewizyjna ma prawo do uchwalenia regulaminu Komisji Rewizyjnej. W przypadku uchwalenia regulaminu, Komisja Rewizyjna działa na jego podstawie."
       - id: "66"
         content:
-          - "Członkowie Komisji Rewizyjnej nie mogą pełnić jakichkolwiek funkcji w Zarządzie ani pozostawać w żadnym stosunku pokrewieństwa, powinowactwa lub podległości służbowej z tytułu zatrudnienia z członkami Zarządu."
+          - text: "Członkowie Komisji Rewizyjnej nie mogą pełnić jakichkolwiek funkcji w Zarządzie ani pozostawać w żadnym stosunku pokrewieństwa, powinowactwa lub podległości służbowej z tytułu zatrudnienia z członkami Zarządu."
       - id: "67"
         content:
-          - "Członkowie Komisji Rewizyjnej nie mogą być skazani prawomocnymi wyrokami za przestępstwa umyślne ścigane z oskarżenia publicznego."
+          - text: "Członkowie Komisji Rewizyjnej nie mogą być skazani prawomocnymi wyrokami za przestępstwa umyślne ścigane z oskarżenia publicznego."
   - id: "5"
     title: "Majątek i fundusze Stowarzyszenia"
     paragraphs:
       - id: "68"
         content:
-          - "Przychody Stowarzyszenia pochodzą z:"
-          - - id: "1"
-              content:
-                - "składek członkowskich;"
-            - id: "2"
-              content:
-                - "darowizn, spadków, zapisów, papierów wartościowych oraz rzeczy ruchomych i nieruchomości przekazanych na rzecz Stowarzyszenia przez osoby prawne i fizyczne;"
-            - id: "3"
-              content:
-                - "dotacji, grantów i subwencji od osób prawnych;"
-            - id: "4"
-              content:
-                - "innych form ofiarności publicznej;"
-            - id: "5"
-              content:
-                - "zbiórek publicznych, loterii i aukcji;"
-            - id: "6"
-              content:
-                - "odsetek, depozytów i lokat bankowych;"
-            - id: "7"
-              content:
-                - "wpływów z działalności odpłatnej pożytku publicznego;"
-            - id: "8"
-              content:
-                - "jednostek uczestnictwa w spółkach prawa handlowego (udziałów, akcji, ogółu praw i obowiązków w spółkach osobowych prawa handlowego)."
+          - text: "Przychody Stowarzyszenia pochodzą z:"
+          - list:
+              - id: "1"
+                content:
+                  - text: "składek członkowskich;"
+              - id: "2"
+                content:
+                  - text: "darowizn, spadków, zapisów, papierów wartościowych oraz rzeczy ruchomych i nieruchomości przekazanych na rzecz Stowarzyszenia przez osoby prawne i fizyczne;"
+              - id: "3"
+                content:
+                  - text: "dotacji, grantów i subwencji od osób prawnych;"
+              - id: "4"
+                content:
+                  - text: "innych form ofiarności publicznej;"
+              - id: "5"
+                content:
+                  - text: "zbiórek publicznych, loterii i aukcji;"
+              - id: "6"
+                content:
+                  - text: "odsetek, depozytów i lokat bankowych;"
+              - id: "7"
+                content:
+                  - text: "wpływów z działalności odpłatnej pożytku publicznego;"
+              - id: "8"
+                content:
+                  - text: "jednostek uczestnictwa w spółkach prawa handlowego (udziałów, akcji, ogółu praw i obowiązków w spółkach osobowych prawa handlowego)."
       - id: "69"
         content:
-          - "Wszelkie środki finansowe otrzymane i uzyskane przez Stowarzyszenie mogą być wykorzystane tylko na finansowanie realizacji jego celów."
+          - text: "Wszelkie środki finansowe otrzymane i uzyskane przez Stowarzyszenie mogą być wykorzystane tylko na finansowanie realizacji jego celów."
       - id: "70"
         content:
-          - "Darowizny, spadki i zapisy mogą być użyte na realizację wszystkich celów Stowarzyszenia, o ile ofiarodawcy nie postanowili inaczej, jednakże postanowienie ofiarodawców nie może być sprzeczne z celami statutowymi Stowarzyszenia."
+          - text: "Darowizny, spadki i zapisy mogą być użyte na realizację wszystkich celów Stowarzyszenia, o ile ofiarodawcy nie postanowili inaczej, jednakże postanowienie ofiarodawców nie może być sprzeczne z celami statutowymi Stowarzyszenia."
       - id: "71"
         content:
-          - "W przypadku powołania Stowarzyszenia do dziedziczenia, Zarząd składając oświadczenie o przyjęciu spadku może dokonać wyłącznie przyjęcia spadku z dobrodziejstwem inwentarza."
+          - text: "W przypadku powołania Stowarzyszenia do dziedziczenia, Zarząd składając oświadczenie o przyjęciu spadku może dokonać wyłącznie przyjęcia spadku z dobrodziejstwem inwentarza."
       - id: "72"
         content:
-          - "Stowarzyszenie prowadzi gospodarkę pieniężną zgodnie z obowiązującymi przepisami."
+          - text: "Stowarzyszenie prowadzi gospodarkę pieniężną zgodnie z obowiązującymi przepisami."
       - id: "73"
         content:
-          - "Rokiem obrotowym jest rok kalendarzowy."
+          - text: "Rokiem obrotowym jest rok kalendarzowy."
       - id: "74"
         content:
-          - "Do reprezentowania Stowarzyszenia, w tym w sprawach majątkowych, uprawniony jest Prezes samodzielnie lub wymagane jest współdziałanie dwóch członków Zarządu, z tym zastrzeżeniem, że w sprawach obejmujących rozporządzenie prawem lub zaciągnięcie zobowiązania do świadczenia o wartości przewyższającej 1000 zł wymagane jest współdziałanie dwóch członków Zarządu, w tym Prezesa lub Wiceprezesa."
+          - text: "Do reprezentowania Stowarzyszenia, w tym w sprawach majątkowych, uprawniony jest Prezes samodzielnie lub wymagane jest współdziałanie dwóch członków Zarządu, z tym zastrzeżeniem, że w sprawach obejmujących rozporządzenie prawem lub zaciągnięcie zobowiązania do świadczenia o wartości przewyższającej 1000 zł wymagane jest współdziałanie dwóch członków Zarządu, w tym Prezesa lub Wiceprezesa."
       - id: "75"
         content:
-          - "W Stowarzyszeniu obowiązuje zakaz:"
-          - - id: "1"
-              content:
-                - "udzielania pożyczek lub zabezpieczenia zobowiązań majątkiem Stowarzyszenia w stosunku do jego członków, członków organów lub pracowników oraz osób, z którymi pracownicy pozostają w związku małżeńskim albo w stosunku pokrewieństwa, powinowactwa w linii prostej, pokrewieństwa, powinowactwa w linii bocznej do drugiego stopnia albo są związani z tytułu przysposobienia, opieki lub kurateli, zwanych dalej ,,osobami bliskimi'';"
-            - id: "2"
-              content:
-                - "przekazywania majątku Stowarzyszenia na rzecz jego członków, członków organów lub pracowników oraz ich osób bliskich, na zasadach innych niż w stosunku do osób trzecich, w szczególności gdy przekazanie to następuje bezpłatnie lub na preferencyjnych warunkach;"
-            - id: "3"
-              content:
-                - "wykorzystania majątku Stowarzyszenia na rzecz jego członków, członków organów lub pracowników oraz ich osób bliskich, na zasadach innych niż w stosunku do osób trzecich, chyba że to wykorzystanie bezpośrednio wynika ze statutowego celu Stowarzyszenia;"
-            - id: "4"
-              content:
-                - "zakupu na szczególnych zasadach towarów lub usług od podmiotów, w których uczestniczą członkowie Stowarzyszenia, pracownicy oraz ich osoby bliskie."
+          - text: "W Stowarzyszeniu obowiązuje zakaz:"
+          - list:
+              - id: "1"
+                content:
+                  - text: "udzielania pożyczek lub zabezpieczenia zobowiązań majątkiem Stowarzyszenia w stosunku do jego członków, członków organów lub pracowników oraz osób, z którymi pracownicy pozostają w związku małżeńskim albo w stosunku pokrewieństwa, powinowactwa w linii prostej, pokrewieństwa, powinowactwa w linii bocznej do drugiego stopnia albo są związani z tytułu przysposobienia, opieki lub kurateli, zwanych dalej ,,osobami bliskimi'';"
+              - id: "2"
+                content:
+                  - text: "przekazywania majątku Stowarzyszenia na rzecz jego członków, członków organów lub pracowników oraz ich osób bliskich, na zasadach innych niż w stosunku do osób trzecich, w szczególności gdy przekazanie to następuje bezpłatnie lub na preferencyjnych warunkach;"
+              - id: "3"
+                content:
+                  - text: "wykorzystania majątku Stowarzyszenia na rzecz jego członków, członków organów lub pracowników oraz ich osób bliskich, na zasadach innych niż w stosunku do osób trzecich, chyba że to wykorzystanie bezpośrednio wynika ze statutowego celu Stowarzyszenia;"
+              - id: "4"
+                content:
+                  - text: "zakupu na szczególnych zasadach towarów lub usług od podmiotów, w których uczestniczą członkowie Stowarzyszenia, pracownicy oraz ich osoby bliskie."
   - id: "6"
     title: "Postanowienia końcowe"
     paragraphs:
       - id: "76"
         content:
-          - "Uchwałę w sprawie zmiany Statutu oraz uchwałę o rozwiązaniu Stowarzyszenia podejmuje Walne Zebranie Członków większością dwóch trzecich głosów oddanych przy obecności co najmniej połowy uprawnionych do głosowania (uprawnionych do oddania głosu stanowiącego)."
+          - text: "Uchwałę w sprawie zmiany Statutu oraz uchwałę o rozwiązaniu Stowarzyszenia podejmuje Walne Zebranie Członków większością dwóch trzecich głosów oddanych przy obecności co najmniej połowy uprawnionych do głosowania (uprawnionych do oddania głosu stanowiącego)."
       - id: "77"
         content:
-          - "Podejmując uchwałę o rozwiązaniu Stowarzyszenia, Walne Zebranie Członków określa sposób jego likwidacji, w tym wybiera likwidatora lub likwidatorów i określa sposób reprezentacji Stowarzyszenia w okresie likwidacji oraz przeznaczenie majątku Stowarzyszenia."
+          - text: "Podejmując uchwałę o rozwiązaniu Stowarzyszenia, Walne Zebranie Członków określa sposób jego likwidacji, w tym wybiera likwidatora lub likwidatorów i określa sposób reprezentacji Stowarzyszenia w okresie likwidacji oraz przeznaczenie majątku Stowarzyszenia."
       - id: "78"
         content:
-          - "Do wszystkich spraw nieobjętych Statutem stosuje się odpowiednie przepisy Prawa o stowarzyszeniach oraz inne przepisy obowiązujące na terenie Rzeczypospolitej Polskiej."
+          - text: "Do wszystkich spraw nieobjętych Statutem stosuje się odpowiednie przepisy Prawa o stowarzyszeniach oraz inne przepisy obowiązujące na terenie Rzeczypospolitej Polskiej."

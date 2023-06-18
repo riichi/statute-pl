@@ -8,13 +8,17 @@ from pydantic import BaseModel
 from yaml import CLoader, load
 
 
+class Text(BaseModel):
+    text: str
+
 
 class ListElement(BaseModel):
     id: str
     content: list[ContentAtom]
 
 
-List = list[ListElement]
+class List(BaseModel):
+    list: list[ListElement]
 
 
 class Paragraph(BaseModel):
@@ -22,7 +26,6 @@ class Paragraph(BaseModel):
     content: list[ContentAtom]
 
 
-Text = str
 ContentAtom = List | Text
 
 ListElement.update_forward_refs()
@@ -47,10 +50,10 @@ def read_statute(filename: str) -> Statute:
 
 def render_atom(atom: ContentAtom) -> Iterable[str]:
     if isinstance(atom, Text):
-        yield atom
+        yield atom.text
         return
     yield "\\begin{enumerate}"
-    for item in atom:
+    for item in atom.list:
         yield f"\\item[{item.id}.]"
         for atom in item.content:
             yield from render_atom(atom)
