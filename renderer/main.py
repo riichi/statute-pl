@@ -14,13 +14,15 @@ class ListElement(BaseModel):
     content: list[ContentAtom]
 
 
+List = list[ListElement]
+
+
 class Paragraph(BaseModel):
     id: str
     content: list[ContentAtom]
 
 
 Text = str
-List = list[ListElement]
 ContentAtom = List | Text
 
 ListElement.update_forward_refs()
