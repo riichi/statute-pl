@@ -31,6 +31,7 @@ jobs:
         run: make all
 
       - name: Upload artifacts
+        uses: actions/upload-artifact@v3
         with:
           name: statute-pl
           path: |
