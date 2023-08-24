@@ -1,9 +1,6 @@
 name: "Build PDF"
 
-on:
-  push:
-    branches:
-      - '*'
+on: push
 
 jobs:
   build:
