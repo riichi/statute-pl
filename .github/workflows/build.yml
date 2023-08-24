@@ -1,6 +1,9 @@
 name: "Build PDF"
 
-on: push
+on:
+  push:
+    branches:
+      - '*'
 
 jobs:
   build:
@@ -38,9 +41,9 @@ jobs:
             build/statut.pdf
             build/statut.tex
 
-      - name: Create release (on tag push)
+      - name: Create release (on push to master)
         uses: softprops/action-gh-release@v1
-        if: ${{ github.ref_type == 'tag' }}
+        if: ${{ github.ref_name == 'master' }}
         with:
           files: |
             build/statut.pdf
