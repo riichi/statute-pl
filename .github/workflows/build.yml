@@ -1,0 +1,35 @@
+name: "Build PDF"
+
+on:
+  push:
+    branches:
+      - "*"
+  pull_request:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Install dependencies
+        run: |
+          sudo apt-get install -y \
+          texlive-latex-extra \
+          texlive-lang-polish \
+          texlive-fonts-recommended \
+          texlive-fonts-extra \
+          make
+
+      - name: Install Poetry
+        run: pipx install poetry
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.11"
+          cache: "poetry"
+
+      - name: Build final document
+        run: make all
