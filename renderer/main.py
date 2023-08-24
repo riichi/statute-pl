@@ -28,8 +28,8 @@ class Paragraph(BaseModel):
 
 ContentAtom = List | Text
 
-ListElement.update_forward_refs()
-Paragraph.update_forward_refs()
+ListElement.model_rebuild()
+Paragraph.model_rebuild()
 
 
 class Chapter(BaseModel):
@@ -45,7 +45,7 @@ class Statute(BaseModel):
 def read_statute(filename: str) -> Statute:
     with open(filename) as input_file:
         data = load(input_file, Loader=CLoader)
-    return Statute.parse_obj(data)
+    return Statute.model_validate(data)
 
 
 def render_atom(atom: ContentAtom) -> Iterable[str]:
