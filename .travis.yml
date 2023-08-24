@@ -1,13 +1,13 @@
 language: generic
 os: linux
-dist: bionic
+dist: jammy
 services: docker
 
 before_install:
 - sudo apt-get update
 
 install:
-- sudo apt-get install -y texlive-latex-extra texlive-lang-polish texlive-generic-recommended texlive-fonts-recommended texlive-fonts-extra pandoc make
+- sudo apt-get install -y texlive-latex-extra texlive-lang-polish texlive-generic-recommended texlive-fonts-recommended texlive-fonts-extra poetry make
 
 script:
 - make all
@@ -25,7 +25,6 @@ deploy:
   file_glob: true
   file:
     - ./build/statut.pdf
-    - ./build/statut.docx
     - ./build/statut.tex
   skip_cleanup: true
   overwrite: true
