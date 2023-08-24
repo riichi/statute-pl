@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "renderer"
+name = "statute-pl"
 version = "0.1.0"
 description = ""
 authors = ["Krakowski Klub Chombo"]
