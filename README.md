@@ -5,3 +5,7 @@
 
 1. Install [poetry](https://python-poetry.org/),
 2. Run `make` – all build artifacts will be saved to the `build` directory.
+
+## Publishing a release
+
+Push a tag to the main branch.

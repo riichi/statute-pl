@@ -3,7 +3,7 @@ name: "Build PDF"
 on:
   push:
     branches:
-      - "*"
+      - '*'
 
 jobs:
   build:
@@ -32,3 +32,18 @@ jobs:
 
       - name: Build final document
         run: make all
+
+      - name: Upload artifacts
+        with:
+          name: statute-pl
+          path: |
+            build/statut.pdf
+            build/statut.tex
+
+      - name: Create release (on tag push)
+        uses: softprops/action-gh-release@v1
+        if: ${{ github.ref_type == 'tag' }}
+        with:
+          files: |
+            build/statut.pdf
+            build/statut.tex
