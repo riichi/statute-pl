@@ -313,7 +313,7 @@ chapters:
           - text: "Mandat członka władzy wybieralnej Stowarzyszenia wygasa wraz z końcem jego kadencji, a także wskutek śmierci, rezygnacji, albo odwołania. Nieudzielenie absolutorium nie jest równoznaczne z odwołaniem z Zarządu i nie powoduje wygaśnięcia mandatu członka Zarządu."
       - id: "28"
         content:
-          - text: "W przypadku, gdy skład władz wybieralnych Stowarzyszenia ulegnie zmniejszeniu w czasie trwania kadencji, uzupełnienie ich składu może nastąpić w drodze kooptacji, której dokonują pozostali członkowie organu, który uległ zmniejszeniu. W tym trybie można powołać nie więcej niż połowę składu organu."
+          - text: "W przypadku, gdy skład władz wybieralnych Stowarzyszenia ulegnie zmniejszeniu w czasie trwania kadencji, uzupełnienie ich składu może nastąpić w drodze kooptacji, której dokonują pozostali członkowie organu, który uległ zmniejszeniu."
           - text: "\\subsection{Walne Zebranie Członków}"
       - id: "29"
         content:
@@ -391,7 +391,7 @@ chapters:
                   - text: "uchwalanie budżetu;"
               - id: "7"
                 content:
-                  - text: "zatwierdzanie proponowanych przez Zarząd wysokości składek członkowskich;"
+                  - text: "(uchylony)"
               - id: "8"
                 content:
                   - text: "rozpatrywanie wniosków i postulatów zgłoszonych przez członków Stowarzyszenia i jego władze;"
@@ -420,6 +420,9 @@ chapters:
       - id: "44"
         content:
           - text: "O ile Statut nie stanowi inaczej, Zarząd podejmuje uchwały na posiedzeniach. O posiedzeniu muszą zostać poinformowani wszyscy członkowie Zarządu --- uchwały Zarządu mogą być podjęte na posiedzeniu, jeżeli wszyscy członkowie zostali o tym posiedzeniu zawiadomieni."
+      - id: "44a"
+        content:
+          - text: "Zarząd może podejmować uchwały bez odbycia posiedzenia, w drodze głosowania pisemnego (obiegowo) lub głosowania za pośrednictwem poczty elektronicznej lub głosowania przy wykorzystaniu środków bezpośredniego porozumiewania się na odległość."
       - id: "45"
         content:
           - text: "Posiedzenia Zarządu odbywają się w miarę potrzeb, nie rzadziej jednak niż raz na kwartał. Posiedzenia Zarządu zwołuje Prezes lub działających łącznie co najmniej dwóch członków Zarządu, w tym Wiceprezes. Posiedzenia Zarządu zwołuje się zawiadamiając wszystkich członków Zarządu pocztą elektroniczną wysłaną co najmniej pięć dni przed terminem posiedzenia na adres podany w tym celu przez członka Zarządu przy obejmowaniu funkcji w Zarządzie."
@@ -434,7 +437,7 @@ chapters:
           - text: "Uchwały Zarządu podejmowane na posiedzeniach zapadają w głosowaniu jawnym, zwykłą większością głosów oddanych. W przypadku równego rozłożenia głosów decyduje głos przewodniczącego posiedzenia."
       - id: "49"
         content:
-          - text: "Zarząd może podejmować uchwały bez odbycia posiedzenia, w drodze głosowania pisemnego lub głosowania za pośrednictwem poczty elektronicznej lub głosowania przy wykorzystaniu środków bezpośredniego porozumiewania się na odległość."
+          - text: "(uchylony)"
       - id: "50"
         content:
           - text: "Uchwały podejmowane poza posiedzeniem zapadają zwykłą większością głosów oddanych. W przypadku równego rozłożenia głosów decyduje głos Prezesa. Uchwała Zarządu podjęta poza posiedzeniem jest ważna, jeżeli wszyscy członkowie Zarządu zostali powiadomieni o treści projektu uchwały."
@@ -465,7 +468,10 @@ chapters:
                   - text: "reprezentowanie Stowarzyszenia na zewnątrz;"
               - id: "8"
                 content:
-                  - text: "zwoływanie Walnego Zebrania Członków."
+                  - text: "zwoływanie Walnego Zebrania Członków;"
+              - id: "9"
+                content:
+                  - text: "ustalanie częstotliwości i wysokości składek członkowskich."
       - id: "52"
         content:
           - text: "Każdy członek Zarządu ma prawo i obowiązek prowadzenia spraw Stowarzyszenia. Każdy członek Zarządu może prowadzić bez uprzedniej uchwały Zarządu sprawy nieprzekraczające zakresu zwykłych czynności Stowarzyszenia. Jeżeli jednak przed załatwieniem sprawy nieprzekraczającej zakresu zwykłych czynności Stowarzyszenia choćby jeden z pozostałych członków Zarządu sprzeciwi się jej przeprowadzeniu lub jeżeli sprawa przekracza zakres zwykłych czynności Stowarzyszenia, wymagana jest uprzednia uchwała Zarządu."
@@ -507,6 +513,9 @@ chapters:
       - id: "58"
         content:
           - text: "O ile Statut nie stanowi inaczej, Komisja Rewizyjna podejmuje rozstrzygnięcia w postaci uchwał podejmowanych na posiedzeniach. O posiedzeniu muszą zostać poinformowani wszyscy członkowie Komisji Rewizyjnej --- uchwały Komisji Rewizyjnej mogą być podjęte na posiedzeniu, jeżeli wszyscy członkowie zostali o tym posiedzeniu zawiadomieni."
+      - id: "58a"
+        content:
+          - text: "Komisja Rewizyjna może podejmować uchwały bez odbycia posiedzenia, w drodze głosowania pisemnego (obiegowo) lub głosowania za pośrednictwem poczty elektronicznej lub głosowania przy wykorzystaniu środków bezpośredniego porozumiewania się na odległość."
       - id: "59"
         content:
           - text: "Posiedzenia Komisji Rewizyjnej odbywają się w miarę potrzeb, nie rzadziej jednak niż raz na 6 miesięcy. Posiedzenia Komisji Rewizyjnej zwołuje Przewodniczący Komisji Rewizyjnej lub działających łącznie co najmniej dwóch członków Komisji Rewizyjnej. Posiedzenia Komisji Rewizyjnej zwołuje się zawiadamiając wszystkich członków Komisji Rewizyjnej pocztą elektroniczną wysłaną co najmniej pięć dni przed terminem posiedzenia na adres podany w tym celu przez członka Komisji Rewizyjnej przy obejmowaniu funkcji w Komisji Rewizyjnej."
@@ -518,7 +527,7 @@ chapters:
           - text: "Uchwały podejmowane na posiedzeniach zapadają zwykłą większością głosów oddanych. W przypadku równego rozłożenia głosów decyduje głos przewodniczącego posiedzenia. O ile Komisja Rewizyjna nie postanowi inaczej, uchwały podejmowane na posiedzeniach zapadają w głosowaniu jawnym."
       - id: "62"
         content:
-          - text: "Komisja Rewizyjna może podejmować uchwały bez odbycia posiedzenia, w drodze głosowania pisemnego lub głosowania za pośrednictwem poczty elektronicznej lub głosowania przy wykorzystaniu środków bezpośredniego porozumiewania się na odległość."
+          - text: "(uchylony)"
       - id: "63"
         content:
           - text: "Uchwały podejmowane poza posiedzeniem zapadają zwykłą większością głosów oddanych. W przypadku równego rozłożenia głosów decyduje głos Przewodniczącego Komisji Rewizyjnej. Uchwała Komisji Rewizyjnej podjęta poza posiedzeniem jest ważna, jeżeli wszyscy członkowie Komisji Rewizyjnej zostali powiadomieni o treści projektu uchwały."
