@@ -7,7 +7,7 @@ authors = ["Krakowski Klub Chombo"]
 [tool.poetry.dependencies]
 python = "^3.11"
 PyYAML = "^6.0"
-pydantic = "^2.5.2"
+pydantic = "^2.5.3"
 
 
 [build-system]
