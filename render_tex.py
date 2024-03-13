@@ -54,7 +54,7 @@ def render_atom(atom: ContentAtom) -> Iterable[str]:
         return
     yield "\\begin{enumerate}"
     for item in atom.list:
-        yield f"\\item[{item.id}.]"
+        yield f"\\item[{item.id})]"
         for atom in item.content:
             yield from render_atom(atom)
     yield "\\end{enumerate}"
