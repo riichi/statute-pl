@@ -40,7 +40,7 @@ jobs:
             build/statut.tex
 
       - name: Create release (on push to master)
-        uses: softprops/action-gh-release@v1
+        uses: softprops/action-gh-release@v2
         if: startsWith(github.ref, 'refs/tags/release-')
         with:
           files: |
