@@ -313,7 +313,7 @@ chapters:
           - text: "Mandat członka władzy wybieralnej Stowarzyszenia wygasa wraz z końcem jego kadencji, a także wskutek śmierci, rezygnacji, albo odwołania. Nieudzielenie absolutorium nie jest równoznaczne z odwołaniem z Zarządu i nie powoduje wygaśnięcia mandatu członka Zarządu."
       - id: "28"
         content:
-          - text: "W przypadku, gdy skład władz wybieralnych Stowarzyszenia ulegnie zmniejszeniu w czasie trwania kadencji, uzupełnienie ich składu może nastąpić w drodze kooptacji, której dokonują pozostali członkowie organu, który uległ zmniejszeniu. W tym trybie można powołać nie więcej niż połowę składu organu."
+          - text: "W przypadku, gdy skład władz wybieralnych Stowarzyszenia ulegnie zmniejszeniu w czasie trwania kadencji, uzupełnienie ich składu może nastąpić w drodze kooptacji, której dokonują pozostali członkowie organu, który uległ zmniejszeniu. Kooptacja nie jest możliwa, jeśli po jej dokonaniu członkowie organu powołani w tym trybie stanowiliby większość składu organu."
       - id: "28a"
         content:
           - text: "Jeśli w wyniku pomniejszenia składu władzy wybieralnej Stowarzyszenia organ utraci:"
@@ -324,7 +324,7 @@ chapters:
               - id: "2"
                 content:
                   - text: "w przypadku Komisji Rewizyjnej: Przewodniczącego Komisji Rewizyjnej,"
-          - text: "organ zobowiązany jest do wybrania spośród swojego składu członka obsadzającego wakat. Wybór nowego członka musi nastąpić najpóźniej na najbliższym zebraniu organu."
+          - text: "organ zobowiązany jest do wybrania spośród swojego składu członka obsadzającego wakat. Wybór nowego członka musi nastąpić najpóźniej na najbliższym posiedzeniu organu."
           - text: "\\subsection{Walne Zebranie Członków}"
       - id: "29"
         content:
