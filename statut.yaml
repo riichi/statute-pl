@@ -325,6 +325,19 @@ chapters:
                 content:
                   - text: "w przypadku Komisji Rewizyjnej: Przewodniczącego Komisji Rewizyjnej,"
           - text: "organ zobowiązany jest do wybrania spośród swojego składu członka obsadzającego wakat. Wybór nowego członka musi nastąpić najpóźniej na najbliższym posiedzeniu organu."
+      - id: "28b"
+        content:
+          - text: "Posiedzenia Władz Wybieralnych Stowarzyszenia oraz głosowania mogą odbywać się z wykorzystaniem środków komunikacji elektronicznej, o ile możliwość taka jest wskazana w zawiadomieniu o tym posiedzeniu, zawierającym dodatkowo dokładny opis sposobu uczestnictwa i wykonywania prawa głosu. Wykorzystanie środków komunikacji elektronicznej w głosowaniach na posiedzeniach Władzy Wybieralnej Stowarzyszenia wymaga zapewnienia, co najmniej:"
+          - list:
+              - id: "1"
+                content:
+                  - text: "transmisji obrad posiedzenia w czasie rzeczywistym;"
+              - id: "2"
+                content:
+                  - text: "dwustronnej komunikacji w czasie rzeczywistym, w ramach której członek Władzy Wybieralnej Stowarzyszenia może wypowiadać się w toku obrad;"
+              - id: "3"
+                content:
+                  - text: "wykonywania osobiście lub przez pełnomocnika prawa głosu przed lub w toku posiedzenia."
           - text: "\\subsection{Walne Zebranie Członków}"
       - id: "29"
         content:
@@ -437,9 +450,6 @@ chapters:
       - id: "45"
         content:
           - text: "Posiedzenia Zarządu odbywają się w miarę potrzeb, nie rzadziej jednak niż raz na kwartał. Posiedzenia Zarządu zwołuje Prezes lub działających łącznie co najmniej dwóch członków Zarządu, w tym Wiceprezes. Posiedzenia Zarządu zwołuje się zawiadamiając wszystkich członków Zarządu pocztą elektroniczną wysłaną co najmniej pięć dni przed terminem posiedzenia na adres podany w tym celu przez członka Zarządu przy obejmowaniu funkcji w Zarządzie."
-      - id: "45a"
-        content:
-          - text: "W zakresie i z zachowaniem warunków przewidzianych przepisami prawa, możliwy jest udział w posiedzeniach Zarządu przy wykorzystaniu środków komunikacji elektronicznej --- Statut nie wyłącza możliwości udziału w posiedzeniach Zarządu przy wykorzystaniu środków komunikacji elektronicznej przewidzianej przepisami prawa."
       - id: "46"
         content:
           - text: "Posiedzeniom Zarządu przewodniczy Prezes. W przypadku nieobecności Prezesa, przewodniczącego posiedzenia wybierają obecni na posiedzeniu członkowie Zarządu. Z posiedzeń Zarządu sporządza się protokół. Protokół podpisuje osoba odpowiedzialna za jego sporządzenie (osoba wskazana w toku posiedzenia jako protokolant) oraz co najmniej jeden inny członek Zarządu obecny na posiedzeniu. Do protokołu dołącza się listę obecności."
@@ -533,9 +543,6 @@ chapters:
       - id: "59"
         content:
           - text: "Posiedzenia Komisji Rewizyjnej odbywają się w miarę potrzeb, nie rzadziej jednak niż raz na 6 miesięcy. Posiedzenia Komisji Rewizyjnej zwołuje Przewodniczący Komisji Rewizyjnej lub działających łącznie co najmniej dwóch członków Komisji Rewizyjnej. Posiedzenia Komisji Rewizyjnej zwołuje się zawiadamiając wszystkich członków Komisji Rewizyjnej pocztą elektroniczną wysłaną co najmniej pięć dni przed terminem posiedzenia na adres podany w tym celu przez członka Komisji Rewizyjnej przy obejmowaniu funkcji w Komisji Rewizyjnej."
-      - id: "59a"
-        content:
-          - text: "W zakresie i z zachowaniem warunków przewidzianych przepisami prawa, możliwy jest udział w posiedzeniach Komisji Rewizyjnej przy wykorzystaniu środków komunikacji elektronicznej --- Statut nie wyłącza możliwości udziału w posiedzeniach Komisji Rewizyjnej przy wykorzystaniu środków komunikacji elektronicznej przewidzianej przepisami prawa."
       - id: "60"
         content:
           - text: "Posiedzeniom Komisji Rewizyjnej przewodniczy Przewodniczący Komisji Rewizyjnej. W przypadku nieobecności Przewodniczącego Komisji Rewizyjnej, przewodniczącego posiedzenia wybierają obecni na posiedzeniu członkowie Komisji Rewizyjnej. Z posiedzeń Komisji Rewizyjnej sporządza się protokół. Protokół podpisuje osoba odpowiedzialna za jego sporządzenie (osoba wskazana w toku posiedzenia jako protokolant) oraz co najmniej jeden inny członek Komisji Rewizyjnej obecny na posiedzeniu. Do protokołu dołącza się listę obecności."
