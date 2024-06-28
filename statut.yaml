@@ -313,7 +313,31 @@ chapters:
           - text: "Mandat członka władzy wybieralnej Stowarzyszenia wygasa wraz z końcem jego kadencji, a także wskutek śmierci, rezygnacji, albo odwołania. Nieudzielenie absolutorium nie jest równoznaczne z odwołaniem z Zarządu i nie powoduje wygaśnięcia mandatu członka Zarządu."
       - id: "28"
         content:
-          - text: "W przypadku, gdy skład władz wybieralnych Stowarzyszenia ulegnie zmniejszeniu w czasie trwania kadencji, uzupełnienie ich składu może nastąpić w drodze kooptacji, której dokonują pozostali członkowie organu, który uległ zmniejszeniu."
+          - text: "W przypadku, gdy skład władz wybieralnych Stowarzyszenia ulegnie zmniejszeniu w czasie trwania kadencji, uzupełnienie ich składu może nastąpić w drodze kooptacji, której dokonują pozostali członkowie organu, który uległ zmniejszeniu. Kooptacja nie jest możliwa, jeśli po jej dokonaniu członkowie organu powołani w tym trybie stanowiliby większość składu organu."
+      - id: "28a"
+        content:
+          - text: "Jeśli w wyniku pomniejszenia składu władzy wybieralnej Stowarzyszenia organ utraci:"
+          - list:
+              - id: "1"
+                content:
+                  - text: "w przypadku Zarządu: Prezesa lub Wiceprezesa,"
+              - id: "2"
+                content:
+                  - text: "w przypadku Komisji Rewizyjnej: Przewodniczącego Komisji Rewizyjnej,"
+          - text: "organ zobowiązany jest do wybrania spośród swojego składu członka obsadzającego wakat. Wybór nowego członka musi nastąpić najpóźniej na najbliższym posiedzeniu organu."
+      - id: "28b"
+        content:
+          - text: "Posiedzenia Władz Wybieralnych Stowarzyszenia oraz głosowania mogą odbywać się z wykorzystaniem środków komunikacji elektronicznej, o ile możliwość taka jest wskazana w zawiadomieniu o tym posiedzeniu, zawierającym dodatkowo dokładny opis sposobu uczestnictwa i wykonywania prawa głosu. Wykorzystanie środków komunikacji elektronicznej w głosowaniach na posiedzeniach Władzy Wybieralnej Stowarzyszenia wymaga zapewnienia, co najmniej:"
+          - list:
+              - id: "1"
+                content:
+                  - text: "transmisji obrad posiedzenia w czasie rzeczywistym;"
+              - id: "2"
+                content:
+                  - text: "dwustronnej komunikacji w czasie rzeczywistym, w ramach której członek Władzy Wybieralnej Stowarzyszenia może wypowiadać się w toku obrad;"
+              - id: "3"
+                content:
+                  - text: "wykonywania osobiście lub przez pełnomocnika prawa głosu przed lub w toku posiedzenia."
           - text: "\\subsection{Walne Zebranie Członków}"
       - id: "29"
         content:
