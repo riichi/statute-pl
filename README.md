@@ -1,5 +1,5 @@
 # statute-pl
-[![Build Status](https://travis-ci.com/riichi/statute-pl.svg?branch=master)](https://travis-ci.com/riichi/statute-pl)
+[![Build Status](https://github.com/riichi/statute-pl/workflows/Build%20PDF/badge.svg)](https://github.com/riichi/statute-pl/actions/workflows/build.yml)
 
 ## How to build the document locally
 
