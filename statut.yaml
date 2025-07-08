@@ -282,9 +282,6 @@ chapters:
       - id: "24"
         content:
           - text: "Od uchwały Zarządu w sprawie pozbawienia członkostwa w Stowarzyszeniu jej adresatowi przysługuje prawo wniesienia pisemnego odwołania do Walnego Zebrania Członków. Odwołanie wnosi się za pośrednictwem Zarządu w terminie 14 dni od daty doręczenia stosownej uchwały. Odwołanie jest rozpatrywane na najbliższym Walnym Zebraniu Członków. Uchwała Walnego Zebrania Członków jest ostateczna. Uchwała Zarządu w przedmiocie pozbawienia członkostwa staje się w pełni skuteczna z chwilą bezskutecznego upływu terminu do wniesienia od niej odwołania. Do czasu upływu terminu do wniesienia odwołania, a w przypadku złożenia takiego odwołania, do czasu jego rozpatrzenia, członkostwo jest zawieszone. W okresie zawieszenia członkostwa zawieszony członek nie jest zobowiązany do wypełniania swych obowiązków członkowskich, ani nie jest uprawniony do realizowania swoich praw członkowskich."
-      - id: "24a"
-        content:
-          - text: "Osoba, która utraciła członkostwo w Stowarzyszeniu na skutek rezygnacji lub pozbawienia członkostwa przez Zarząd, nie może ponownie ubiegać się o przyjęcie do Stowarzyszenia przez okres jednego roku od dnia ustania członkostwa."
   - id: "4"
     title: "Władze Stowarzyszenia"
     paragraphs:
@@ -461,13 +458,13 @@ chapters:
           - text: "W posiedzeniach Zarządu mogą brać udział w roli doradczej osoby trzecie zaproszone przez dowolnego członka Zarządu zwołującego posiedzenie. Pozostali członkowie Zarządu są o tym informowani w momencie zwoływania posiedzenia."
       - id: "48"
         content:
-          - text: "Uchwały Zarządu podejmowane na posiedzeniach zapadają w głosowaniu jawnym, zwykłą większością głosów oddanych. W przypadku równego rozłożenia głosów remis rozstrzyga przewodniczący posiedzenia."
+          - text: "Uchwały Zarządu podejmowane na posiedzeniach zapadają w głosowaniu jawnym, zwykłą większością głosów oddanych. W przypadku równego rozłożenia głosów decyduje głos przewodniczącego posiedzenia."
       - id: "49"
         content:
           - text: "(uchylony)"
       - id: "50"
         content:
-          - text: "Uchwały podejmowane poza posiedzeniem zapadają zwykłą większością głosów oddanych. W przypadku równego rozłożenia głosów remis rozstrzyga Prezes. Uchwała Zarządu podjęta poza posiedzeniem jest ważna, jeżeli wszyscy członkowie Zarządu zostali powiadomieni o treści projektu uchwały."
+          - text: "Uchwały podejmowane poza posiedzeniem zapadają zwykłą większością głosów oddanych. W przypadku równego rozłożenia głosów decyduje głos Prezesa. Uchwała Zarządu podjęta poza posiedzeniem jest ważna, jeżeli wszyscy członkowie Zarządu zostali powiadomieni o treści projektu uchwały."
       - id: "51"
         content:
           - text: "Do kompetencji Zarządu należy:"
@@ -551,13 +548,13 @@ chapters:
           - text: "Posiedzeniom Komisji Rewizyjnej przewodniczy Przewodniczący Komisji Rewizyjnej. W przypadku nieobecności Przewodniczącego Komisji Rewizyjnej, przewodniczącego posiedzenia wybierają obecni na posiedzeniu członkowie Komisji Rewizyjnej. Z posiedzeń Komisji Rewizyjnej sporządza się protokół. Protokół podpisuje osoba odpowiedzialna za jego sporządzenie (osoba wskazana w toku posiedzenia jako protokolant) oraz co najmniej jeden inny członek Komisji Rewizyjnej obecny na posiedzeniu. Do protokołu dołącza się listę obecności."
       - id: "61"
         content:
-          - text: "Uchwały podejmowane na posiedzeniach zapadają zwykłą większością głosów oddanych. W przypadku równego rozłożenia głosów remis rozstrzyga przewodniczący posiedzenia. O ile Komisja Rewizyjna nie postanowi inaczej, uchwały podejmowane na posiedzeniach zapadają w głosowaniu jawnym."
+          - text: "Uchwały podejmowane na posiedzeniach zapadają zwykłą większością głosów oddanych. W przypadku równego rozłożenia głosów decyduje głos przewodniczącego posiedzenia. O ile Komisja Rewizyjna nie postanowi inaczej, uchwały podejmowane na posiedzeniach zapadają w głosowaniu jawnym."
       - id: "62"
         content:
           - text: "(uchylony)"
       - id: "63"
         content:
-          - text: "Uchwały podejmowane poza posiedzeniem zapadają zwykłą większością głosów oddanych. W przypadku równego rozłożenia głosów remis rozstrzyga Przewodniczący Komisji Rewizyjnej. Uchwała Komisji Rewizyjnej podjęta poza posiedzeniem jest ważna, jeżeli wszyscy członkowie Komisji Rewizyjnej zostali powiadomieni o treści projektu uchwały."
+          - text: "Uchwały podejmowane poza posiedzeniem zapadają zwykłą większością głosów oddanych. W przypadku równego rozłożenia głosów decyduje głos Przewodniczącego Komisji Rewizyjnej. Uchwała Komisji Rewizyjnej podjęta poza posiedzeniem jest ważna, jeżeli wszyscy członkowie Komisji Rewizyjnej zostali powiadomieni o treści projektu uchwały."
       - id: "64"
         content:
           - text: "Do kompetencji Komisji Rewizyjnej należy:"
