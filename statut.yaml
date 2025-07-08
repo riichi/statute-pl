@@ -220,7 +220,16 @@ chapters:
                   - text: "zgłaszania wniosków dotyczących działalności Stowarzyszenia."
       - id: "18"
         content:
-          - text: "Członkowie zwyczajni mają prawo do biernego, a także, o ile Statut nie stanowi inaczej, do czynnego uczestniczenia w wyborach do władz Stowarzyszenia."
+          - list:
+              - id: "1"
+                content:
+                  - text: "Członkowie zwyczajni mają prawo do biernego, a także, o ile Statut nie stanowi inaczej, do czynnego uczestniczenia w wyborach do władz Stowarzyszenia."
+              - id: "2"
+                content:
+                  - text: "Bierne i czynne prawo wyborcze nie przysługuje członkom zwyczajnym, którzy nie uregulowali składki członkowskiej przed dniem rozpoczęcia wyborów."
+              - id: "3"
+                content:
+                  - text: "Bierne prawo wyborcze do władz wybieralnych Stowarzyszenia nie przysługuje członkom zwyczajnym, którzy nie posiadają nieprzerwanego członkostwa w Stowarzyszeniu przez okres co najmniej jednego roku przed dniem rozpoczęcia wyborów."
       - id: "19"
         content:
           - text: "Każdy członek wspierający ma obowiązek:"
@@ -282,6 +291,9 @@ chapters:
       - id: "24"
         content:
           - text: "Od uchwały Zarządu w sprawie pozbawienia członkostwa w Stowarzyszeniu jej adresatowi przysługuje prawo wniesienia pisemnego odwołania do Walnego Zebrania Członków. Odwołanie wnosi się za pośrednictwem Zarządu w terminie 14 dni od daty doręczenia stosownej uchwały. Odwołanie jest rozpatrywane na najbliższym Walnym Zebraniu Członków. Uchwała Walnego Zebrania Członków jest ostateczna. Uchwała Zarządu w przedmiocie pozbawienia członkostwa staje się w pełni skuteczna z chwilą bezskutecznego upływu terminu do wniesienia od niej odwołania. Do czasu upływu terminu do wniesienia odwołania, a w przypadku złożenia takiego odwołania, do czasu jego rozpatrzenia, członkostwo jest zawieszone. W okresie zawieszenia członkostwa zawieszony członek nie jest zobowiązany do wypełniania swych obowiązków członkowskich, ani nie jest uprawniony do realizowania swoich praw członkowskich."
+      - id: "24a"
+        content:
+          - text: "Osoba, która utraciła członkostwo w Stowarzyszeniu na skutek rezygnacji lub pozbawienia członkostwa przez Zarząd, nie może ponownie ubiegać się o przyjęcie do Stowarzyszenia przez okres jednego roku od dnia ustania członkostwa, z wyjątkiem sytuacji, gdy członkostwo zostało utracone wyłącznie z powodu opóźnienia w wykonaniu zobowiązania do zapłaty składek członkowskich."
   - id: "4"
     title: "Władze Stowarzyszenia"
     paragraphs:
@@ -337,7 +349,7 @@ chapters:
                   - text: "dwustronnej komunikacji w czasie rzeczywistym, w ramach której członek Władzy Wybieralnej Stowarzyszenia może wypowiadać się w toku obrad;"
               - id: "3"
                 content:
-                  - text: "wykonywania osobiście lub przez pełnomocnika prawa głosu przed lub w toku posiedzenia."
+                  - text: "wykonywania osobiście prawa głosu przed lub w toku posiedzenia."
           - text: "\\subsection{Walne Zebranie Członków}"
       - id: "29"
         content:
@@ -348,7 +360,7 @@ chapters:
           - list:
               - id: "1"
                 content:
-                  - text: "z głosem stanowiącym --- członkowie zwyczajni;"
+                  - text: "z głosem stanowiącym --- członkowie zwyczajni, którzy uregulowali składki członkowskie przed rozpoczęciem Walnego Zebrania Członków;"
               - id: "2"
                 content:
                   - text: "z głosem doradczym --- członkowie wspierający, członkowie honorowi i goście zaproszeni przez Zarząd lub Komisję Rewizyjną."
@@ -366,7 +378,17 @@ chapters:
           - text: "Walne Zebranie Nadzwyczajne może się odbyć w każdym czasie. Jest zwoływane przez Zarząd z jego inicjatywy, na wniosek Komisji Rewizyjnej lub pisemny wniosek co najmniej jednej trzeciej ogólnej liczby członków Stowarzyszenia z głosem stanowiącym, w terminie 30 dni od daty złożenia wniosku."
       - id: "35"
         content:
-          - text: "W zakresie i z zachowaniem warunków przewidzianych przepisami prawa, możliwy jest udział w Walnym Zebraniu Członków przy wykorzystaniu środków komunikacji elektronicznej --- Statut nie wyłącza możliwości udziału w Walnych Zebraniach Członków przy wykorzystaniu środków komunikacji elektronicznej przewidzianej przepisami prawa."
+          - text: "Walne Zebrania Członków mogą odbywać się w formie tradycyjnej, zdalnej lub hybrydowej z wykorzystaniem środków komunikacji elektronicznej, o ile możliwość taka jest wskazana w zawiadomieniu o tym posiedzeniu, zawierającym dodatkowo dokładny opis sposobu uczestnictwa i wykonywania prawa głosu. Wykorzystanie środków komunikacji elektronicznej wymaga zapewnienia co najmniej:"
+          - list:
+              - id: "1"
+                content:
+                  - text: "transmisji obrad posiedzenia w czasie rzeczywistym;"
+              - id: "2"
+                content:
+                  - text: "dwustronnej komunikacji w czasie rzeczywistym umożliwiającej członkom wypowiadanie się w toku obrad;"
+              - id: "3"
+                content:
+                  - text: "wykonywania osobiście prawa głosu przed lub w toku posiedzenia."
       - id: "36"
         content:
           - text: "Walne Zebrania Członków Zarząd zwołuje zawiadamiając wszystkich członków Stowarzyszenia za pomocą listów poleconych lub przesyłek nadanych pocztą kurierską. Dopuszczalne jest dokonanie zwołania poprzez wysłanie członkowi Stowarzyszenia zaproszenia pocztą elektroniczną, jeżeli uprzednio wyraził pisemną zgodę na dokonywanie wobec niego korespondencji w tej formie, podając adres, na który korespondencja powinna być wysyłana. W zaproszeniu należy oznaczyć dzień, godzinę i miejsce posiedzenia oraz planowany porządek obrad. W przypadku zamierzonej zmiany Statutu należy wskazać istotne elementy treści proponowanych zmian."
@@ -458,13 +480,13 @@ chapters:
           - text: "W posiedzeniach Zarządu mogą brać udział w roli doradczej osoby trzecie zaproszone przez dowolnego członka Zarządu zwołującego posiedzenie. Pozostali członkowie Zarządu są o tym informowani w momencie zwoływania posiedzenia."
       - id: "48"
         content:
-          - text: "Uchwały Zarządu podejmowane na posiedzeniach zapadają w głosowaniu jawnym, zwykłą większością głosów oddanych. W przypadku równego rozłożenia głosów decyduje głos przewodniczącego posiedzenia."
+          - text: "Uchwały Zarządu podejmowane na posiedzeniach zapadają w głosowaniu jawnym, zwykłą większością głosów oddanych. W przypadku równego rozłożenia głosów remis rozstrzyga przewodniczący posiedzenia."
       - id: "49"
         content:
           - text: "(uchylony)"
       - id: "50"
         content:
-          - text: "Uchwały podejmowane poza posiedzeniem zapadają zwykłą większością głosów oddanych. W przypadku równego rozłożenia głosów decyduje głos Prezesa. Uchwała Zarządu podjęta poza posiedzeniem jest ważna, jeżeli wszyscy członkowie Zarządu zostali powiadomieni o treści projektu uchwały."
+          - text: "Uchwały podejmowane poza posiedzeniem zapadają zwykłą większością głosów oddanych. W przypadku równego rozłożenia głosów remis rozstrzyga Prezes. Uchwała Zarządu podjęta poza posiedzeniem jest ważna, jeżeli wszyscy członkowie Zarządu zostali powiadomieni o treści projektu uchwały."
       - id: "51"
         content:
           - text: "Do kompetencji Zarządu należy:"
@@ -548,13 +570,13 @@ chapters:
           - text: "Posiedzeniom Komisji Rewizyjnej przewodniczy Przewodniczący Komisji Rewizyjnej. W przypadku nieobecności Przewodniczącego Komisji Rewizyjnej, przewodniczącego posiedzenia wybierają obecni na posiedzeniu członkowie Komisji Rewizyjnej. Z posiedzeń Komisji Rewizyjnej sporządza się protokół. Protokół podpisuje osoba odpowiedzialna za jego sporządzenie (osoba wskazana w toku posiedzenia jako protokolant) oraz co najmniej jeden inny członek Komisji Rewizyjnej obecny na posiedzeniu. Do protokołu dołącza się listę obecności."
       - id: "61"
         content:
-          - text: "Uchwały podejmowane na posiedzeniach zapadają zwykłą większością głosów oddanych. W przypadku równego rozłożenia głosów decyduje głos przewodniczącego posiedzenia. O ile Komisja Rewizyjna nie postanowi inaczej, uchwały podejmowane na posiedzeniach zapadają w głosowaniu jawnym."
+          - text: "Uchwały podejmowane na posiedzeniach zapadają zwykłą większością głosów oddanych. W przypadku równego rozłożenia głosów remis rozstrzyga przewodniczący posiedzenia. O ile Komisja Rewizyjna nie postanowi inaczej, uchwały podejmowane na posiedzeniach zapadają w głosowaniu jawnym."
       - id: "62"
         content:
           - text: "(uchylony)"
       - id: "63"
         content:
-          - text: "Uchwały podejmowane poza posiedzeniem zapadają zwykłą większością głosów oddanych. W przypadku równego rozłożenia głosów decyduje głos Przewodniczącego Komisji Rewizyjnej. Uchwała Komisji Rewizyjnej podjęta poza posiedzeniem jest ważna, jeżeli wszyscy członkowie Komisji Rewizyjnej zostali powiadomieni o treści projektu uchwały."
+          - text: "Uchwały podejmowane poza posiedzeniem zapadają zwykłą większością głosów oddanych. W przypadku równego rozłożenia głosów remis rozstrzyga Przewodniczący Komisji Rewizyjnej. Uchwała Komisji Rewizyjnej podjęta poza posiedzeniem jest ważna, jeżeli wszyscy członkowie Komisji Rewizyjnej zostali powiadomieni o treści projektu uchwały."
       - id: "64"
         content:
           - text: "Do kompetencji Komisji Rewizyjnej należy:"
