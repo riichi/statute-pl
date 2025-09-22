@@ -9,40 +9,22 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v5
 
-      - name: Install dependencies
-        run: |
-          sudo apt-get update && \
-          sudo apt-get install -y \
-          texlive-latex-extra \
-          texlive-lang-polish \
-          texlive-fonts-recommended \
-          texlive-fonts-extra \
-          make
+      - name: Setup Typst
+        uses: typst-community/setup-typst@v4
 
-      - name: Install Poetry
-        run: pipx install poetry
-
-      - name: Setup Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: "3.12"
-          cache: "poetry"
-
-      - name: Build final document
-        run: make all
+      - name: Compile document
+        run: typst compile statut.typ
 
       - name: Upload artifacts
         uses: actions/upload-artifact@v4
         with:
           name: statute-pl
           path: |
-            build/statut.pdf
-            build/statut.tex
+            statut.pdf
 
       - name: Create release (on push to a tag named "release-*")
         uses: softprops/action-gh-release@v2
         if: startsWith(github.ref, 'refs/tags/release-')
         with:
           files: |
-            build/statut.pdf
-            build/statut.tex
+            statut.pdf
