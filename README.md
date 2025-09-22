@@ -4,7 +4,7 @@
 ## How to build the document locally
 
 1. Install [typst](https://typst.app/),
-2. Run `make` – the output file will be named `statut.pdf`.
+2. Run `typst compile statut.typ` – the output file will be named `statut.pdf`.
 
 ## Publishing a release
 
