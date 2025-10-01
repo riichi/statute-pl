@@ -4,7 +4,7 @@ chapters:
     paragraphs:
       - id: "1"
         content:
-          - text: "\\textbf{Stowarzyszenie Krakowski Klub Chombo}, zwane dalej \\textbf{Stowarzyszeniem}, działa na podstawie ustawy Prawo o stowarzyszeniach (Dz. U. 1989 Nr 20 poz. 104 wraz z późniejszymi zmianami) oraz niniejszego Statutu."
+          - text: "*Stowarzyszenie Krakowski Klub Chombo*, zwane dalej *Stowarzyszeniem*, działa na podstawie ustawy Prawo o stowarzyszeniach (Dz. U. 1989 Nr 20 poz. 104 wraz z późniejszymi zmianami) oraz niniejszego Statutu."
       - id: "2"
         content:
           - text: "Stowarzyszenie jest osobą prawną i podlega wpisowi do Krajowego Rejestru Sądowego."
@@ -22,7 +22,7 @@ chapters:
                   - text: "Terenem działania Stowarzyszenia jest cały obszar Rzeczypospolitej Polskiej, przy czym w zakresie niezbędnym dla właściwego realizowania celów, Stowarzyszenie może prowadzić działalność także poza granicami Rzeczypospolitej Polskiej."
               - id: "4"
                 content:
-                  - text: "Stowarzyszenie ma prawo posługiwać się odpowiednikami swojej nazwy w językach obcych na potrzeby współpracy z podmiotami zagranicznymi, w szczególności nazwą angielską \\textbf{Krakow Chombo Club Association}."
+                  - text: "Stowarzyszenie ma prawo posługiwać się odpowiednikami swojej nazwy w językach obcych na potrzeby współpracy z podmiotami zagranicznymi, w szczególności nazwą angielską *Krakow Chombo Club Association*."
               - id: "5"
                 content:
                   - text: "Stowarzyszenie może używać wyróżniającego go znaku graficznego ustalonego przez władze Stowarzyszenia."
@@ -273,16 +273,16 @@ chapters:
                 content:
                   - text: "pozbawienia członkostwa przez Zarząd:"
                   - list:
-                      - id: "a"
+                      - id: "1"
                         content:
                           - text: "z powodu rażącego lub powtarzającego się istotnego naruszania zobowiązania do przestrzegania Statutu lub zobowiązania do przestrzegania uchwał władz Stowarzyszenia;"
-                      - id: "b"
+                      - id: "2"
                         content:
                           - text: "z powodu notorycznego i nieusprawiedliwionego braku uczestnictwa w pracach Stowarzyszenia;"
-                      - id: "c"
+                      - id: "3"
                         content:
                           - text: "z powodu opóźnienia w wykonaniu zobowiązania do zapłaty składek członkowskich przekraczającego okres 3 miesięcy;"
-                      - id: "d"
+                      - id: "4"
                         content:
                           - text: "na pisemny, umotywowany wniosek przynajmniej pięciu członków zwyczajnych Stowarzyszenia;"
               - id: "4"
@@ -350,7 +350,7 @@ chapters:
               - id: "3"
                 content:
                   - text: "wykonywania osobiście prawa głosu przed lub w toku posiedzenia."
-          - text: "\\subsection{Walne Zebranie Członków}"
+          - text: "== Walne Zebranie Członków"
       - id: "29"
         content:
           - text: "Walne Zebranie Członków jest najwyższą władzą Stowarzyszenia."
@@ -450,7 +450,7 @@ chapters:
               - id: "11"
                 content:
                   - text: "podjęcie uchwały o rozwiązaniu Stowarzyszenia i przeznaczeniu jego majątku."
-          - text: "\\subsection{Zarząd}"
+          - text: "== Zarząd"
       - id: "40"
         content:
           - text: "Zarząd jest powoływany do kierowania działalnością Stowarzyszenia zgodnie z uchwałami Walnego Zebrania Członków i reprezentowania Stowarzyszenia na zewnątrz."
@@ -546,7 +546,7 @@ chapters:
       - id: "54"
         content:
           - text: "Zarząd ma prawo do uchwalenia regulaminu Zarządu. W przypadku uchwalenia regulaminu, Zarząd działa na jego podstawie."
-          - text: "\\subsection{Komisja Rewizyjna}"
+          - text: "== Komisja Rewizyjna"
       - id: "55"
         content:
           - text: "Komisja Rewizyjna powołana jest do sprawowania kontroli nad działalnością Stowarzyszenia. Kontrola przeprowadzana jest nie rzadziej niż raz w roku."
