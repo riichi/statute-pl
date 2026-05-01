@@ -23,7 +23,7 @@ jobs:
             statut.pdf
 
       - name: Create release (on push to a tag named "release-*")
-        uses: softprops/action-gh-release@v2
+        uses: softprops/action-gh-release@v3
         if: startsWith(github.ref, 'refs/tags/release-')
         with:
           files: |
